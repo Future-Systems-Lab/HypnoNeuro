@@ -1,5 +1,18 @@
 # HypnoNeuro Crypto Whitepaper
 
+## Table of Contents
+- [Abstract](#abstract)
+- [1. Introduction](#1-introduction)
+- [2. Problem Statement](#2-problem-statement)
+- [3. The HypnoNeuro Solution](#3-the-hypnoneuro-solution)
+- [4. Token Utility](#4-token-utility)
+- [5. Ecosystem Features](#5-ecosystem-features)
+- [6. Technology Stack](#6-technology-stack)
+- [7. Roadmap](#7-roadmap)
+- [8. Legal & Compliance](#8-legal--compliance)
+- [9. Conclusion](#9-conclusion)
+
+
 ## Abstract
 
 HypnoNeuro is a decentralized mental wellness platform integrating cryptocurrency to reward healing, maintain user anonymity, and support access to naturopathic mental health services. The HypnoNeuro Token (HNT) is an ERC-20 utility token designed to facilitate in-app transactions, incentivize consistency in therapeutic engagement, and anchor a tokenized healing economy. By leveraging MetaMask and EVM-compatible blockchains, HypnoNeuro offers a scalable, privacy-first infrastructure to decentralize mental wellness globally.
