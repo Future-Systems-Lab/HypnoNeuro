@@ -1,0 +1,20 @@
+# HypnoNeuroToken.sol
+
+This folder contains the Ethereum smart contract for the HypnoNeuro ecosystem.
+
+## 📄 Contract Overview
+
+- **Name:** HypnoNeuro Token (HNT)  
+- **Type:** ERC-20 with minting, burning, and pause functions  
+- **Max Supply:** 1 billion tokens  
+- **Initial Mint:** 10% allocated to deployer
+
+## 🔐 Functions
+
+- `mint()` — Only callable by owner, checks max cap
+- `burn()` — Allows token holders to burn their tokens
+- `pause()` / `unpause()` — Admin-only controls for contract activity
+
+---
+
+Contract authored using [OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts) v4.
