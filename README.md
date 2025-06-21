@@ -39,7 +39,7 @@ This repository houses the **core datasets, research models, whitepapers, and fo
 
 ## 📫 Contact
 
-- **Email:** support@hypnoneuro.com  
+- **Email:** dr.meg.data.scientist@gmail.com  
 - **Website:** hypnoneuro.com *(Coming Soon)*  
 - **Twitter / Web3:** Coming with launch
 
