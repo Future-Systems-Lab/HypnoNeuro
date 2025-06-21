@@ -179,5 +179,6 @@ The above copyright notice and this permission notice shall be included in all c
 ---
 
 For licensing inquiries, developer integration, or usage permission requests, please contact:  
-📧 **support@hypnoneuro.com**  
-🌐 [hypnoneuro.com](https://hypnoneuro.com)
+📧 **dr.meg.data.scientist.com**  
+🌐 Website: hypnoneuro.com *(Coming Soon – official site will be updated upon launch)*
+
