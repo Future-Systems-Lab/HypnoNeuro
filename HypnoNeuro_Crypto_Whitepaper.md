@@ -152,9 +152,32 @@ HypnoNeuro does not guarantee any value preservation of the HNT token. Use of th
 
 - ---
 
-## © 2025 HypnoNeuro. All Rights Reserved.
+---
 
-This whitepaper and its contents are the intellectual property of HypnoNeuro. No part of this document may be copied, distributed, reproduced, or modified without the prior written consent of the project owner. Unauthorized use or reproduction of any portion of this document, including but not limited to text, graphics, branding, or code structure, is strictly prohibited and may be subject to legal action.
+## Legal Notice & Intellectual Property Rights
 
-HypnoNeuro™ and all associated marks are trademarks of the Hypnosis Psych & HypnoNeuro ecosystem. All rights reserved.
+© 2025 HypnoNeuro. All Rights Reserved.
 
+This whitepaper and all accompanying documentation, branding, methodologies, and platform architecture are the exclusive intellectual property of HypnoNeuro. No part of this document may be copied, reproduced, redistributed, or modified without prior written consent. This includes all text, visual design elements, tokenomics structures, therapeutic room models, and NFT tier systems.
+
+**HypnoNeuro™** and **Where Mental Wellness Meets the Metaverse™** are protected trademarks of the Hypnosis Psych & HypnoNeuro ecosystem.
+
+---
+
+## Open Source Code Licensing (Smart Contracts Only)
+
+To promote transparency and community trust, select smart contracts used for HypnoNeuro (including the HNT token and NFT issuance contracts) are open-sourced under the MIT License.
+
+### MIT License (applies to code only):
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+**The Software is provided “as is”, without warranty of any kind.**
+
+---
+
+For licensing inquiries, developer integration, or usage permission requests, please contact:  
+📧 **support@hypnoneuro.com**  
+🌐 [hypnoneuro.com](https://hypnoneuro.com)
