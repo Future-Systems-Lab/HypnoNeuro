@@ -182,3 +182,4 @@ For licensing inquiries, developer integration, or usage permission requests, pl
 📧 **dr.meg.data.scientist.com**  
 🌐 Website: hypnoneuro.com *(Coming Soon – official site will be updated upon launch)*
 
+📄 [Read the HypnoNeuro Crypto Whitepaper](HypnoNeuro_Crypto_Whitepaper.md)
