@@ -45,4 +45,9 @@ This repository houses the **core datasets, research models, whitepapers, and fo
 
 ---
 
-© 2025 HypnoNeuro. All Rights Reserved.
+**Date Deployed:** June 22, 2025  
+© 2025 Dr. Meg Montañez-Davenport. All rights reserved.
+
+This project and all associated smart contracts are proprietary software developed for the HypnoNeuro platform.  
+No part of this codebase may be copied, modified, distributed, or deployed without express written consent from the author.
+
