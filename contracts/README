@@ -77,6 +77,22 @@ MIT
 
 ---
 
+# HypnoNeuroToken (HNT)
+
+A custom ERC-20 token deployed and verified on the Sepolia Testnet using Solidity 0.8.30. This project is part of HypnoNeuro's Web3 integration to explore decentralized mental wellness solutions.
+
+## Features
+- Custom token logic without OpenZeppelin
+- Verified contract on Sepolia Etherscan
+- Mint, burn, pause, transfer functions
+
+## Contract Details
+- **Network:** Sepolia Testnet
+- **Contract Address:** `0x1A91DA86202f58A44DE58d3Cc110903382318fAD`
+- **Token Symbol:** HNT
+- **Decimals:** 18
+- **Total Supply:** 100,000,000 HNT (mintable)
+
 ### 🚫 Rights Reserved Notice
 
 HypnoNeuro™, the HypnoNeuro Token (HNT), and all associated branding, names, trademarks, and visual assets are © 2025 Meg Montañez Davenport. All rights reserved.
