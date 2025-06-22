@@ -1,6 +1,6 @@
-# HypnoNeuro: Where Mental Wellness Meets the Metaverse™
+# HypnoNeuro™: Where Mental Wellness Meets the Metaverse™
 
-HypnoNeuro is a decentralized, gamified wellness ecosystem that integrates natural healing, trauma-informed therapy, and Web3 technology to support anonymous, reward-based mental health care.
+HypnoNeuro™ is a decentralized, gamified wellness ecosystem that integrates natural healing, trauma-informed therapy, and Web3 technology to support anonymous, reward-based mental health care.
 
 ---
 
@@ -48,6 +48,6 @@ This repository houses the **core datasets, research models, whitepapers, and fo
 **Date Deployed:** June 22, 2025  
 © 2025 Dr. Meg Montañez-Davenport. All rights reserved.
 
-This project and all associated smart contracts are proprietary software developed for the HypnoNeuro platform.  
+This project and all associated smart contracts are proprietary software developed for the HypnoNeuro™ platform.  
 No part of this codebase may be copied, modified, distributed, or deployed without express written consent from the author.
 
