@@ -1,0 +1,15 @@
+{
+  "name": "HypnoNeuro Token",
+  "symbol": "HNT",
+  "description": "ERC-20 token with minting, burning, and pause capabilities for the HypnoNeuro ecosystem. Created by Dr. Meg Montañez Davenport to power decentralized mental wellness solutions using Web3 and AI.",
+  "image": "ipfs://QmYourNFTImageHashHere",
+  "external_url": "https://hypnoneuro.com",
+  "license": "MIT (With Reserved Branding Rights)",
+  "creator": {
+    "name": "Dr. Meg Montañez Davenport",
+    "email": "megmontanez2000@yahoo.com",
+    "github": "https://github.com/Where-Mental-Wellness-Meets-Metaverse"
+  },
+  "version": "1.0.0",
+  "timestamp": "2025-06-21T00:00:00Z"
+}
