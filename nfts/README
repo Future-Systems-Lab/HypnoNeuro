@@ -1,0 +1,61 @@
+# 🧠 Mind Mastery NFT Badge System
+
+This folder contains the NFT structure for HypnoNeuro’s gamified mental wellness progression system.  
+Each level rewards user advancement and unlocks service discounts and access.
+
+---
+
+## 🏅 Levels
+
+| Level | Name        | Purpose                          | Color  |
+|-------|-------------|----------------------------------|--------|
+| 1     | Foundation  | Entry point / Hypnosis           | White  |
+| 2     | Elevation   | Mental Wellness progression      | Silver |
+| 3     | Ascension   | Inner Child completion + Mastery | Gold   |
+
+---
+
+## 📁 Structure
+
+- `images/` – PNG image assets for each NFT badge  
+- `metadata/` – JSON metadata for each NFT (for IPFS pinning & minting)  
+- `README.md` – Documentation
+
+---
+
+## 🚀 IPFS Upload
+[Add pinning/minting steps here]
+
+                                            # License – Mind Mastery NFT Badge System
+
+© 2025 Dr. Meg Montañez-Davenport  
+All rights reserved.  
+**Trademark pending**: Mind Mastery Foundation™, Mind Mastery Elevation™, Mind Mastery Ascension™
+
+---
+
+These NFT badge designs are part of the proprietary HypnoNeuro™ ecosystem and are currently **unlicensed**.
+
+## 🚫 No License Granted
+
+These assets are **not open source** and **not licensed** for public or third-party use.  
+Use of any images, metadata, badge titles, or progression structure is strictly prohibited outside of the HypnoNeuro platform.
+
+## Ownership & Protection
+
+- All designs, concepts, and naming conventions are the intellectual property of Dr. Meg Montañez-Davenport.
+- Trademarks are currently being registered for the entire 3-tier badge system.
+- NFTs are exclusively used within the HypnoNeuro™ gamified mental wellness platform and may not be reused, resold, or modified.
+
+## Enforcement
+
+Unauthorized use, duplication, or adaptation will be pursued under U.S. and international intellectual property law.
+
+For licensing inquiries or partnership requests, please contact:  
+📧 dr.meg.data.scientist@gmail.com
+
+---
+
+**Created by** Dr. Meg Montañez-Davenport  
+HypnoNeuro™ | Where Mental Wellness Meets the Metaverse™
+
