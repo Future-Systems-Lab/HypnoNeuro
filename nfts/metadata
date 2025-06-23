@@ -1,0 +1,17 @@
+# 🧠 NFT Metadata
+
+This folder contains the JSON metadata files for HypnoNeuro™’s Mind Mastery NFT badge system.
+
+Each metadata file corresponds to a unique NFT level and contains traits, IPFS image references, and descriptive attributes needed for minting and verification.
+
+## 📂 Structure
+
+- `foundation.json` → Level 1: Hypnosis (White)
+- `elevation.json` → Level 2: Mental Wellness (Silver)
+- `ascension.json` → Level 3: Inner Child / Mastery (Gold)
+
+These files will follow the [ERC-721 metadata standard](https://eips.ethereum.org/EIPS/eip-721) and will be pinned to IPFS prior to minting.
+
+> ⚠️ **Proprietary Notice**  
+> The Mind Mastery NFT badge system, including all associated artwork, metadata, structure, and branding, is a trademarked and proprietary system of HypnoNeuro™.  
+> These files are not open source and may not be copied, modified, or distributed without express written permission from Dr. Meg Montañez Davenport or authorized agents of HypnoNeuro™.
