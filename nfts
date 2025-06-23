@@ -1,0 +1,34 @@
+# 🧠 Mind Mastery NFT Badge System
+
+This folder contains the NFT structure for HypnoNeuro’s gamified mental wellness progression system. Each level rewards user advancement and unlocks service discounts and access.
+
+---
+
+## 🎖️ Levels
+
+| Level | Name       | Purpose                             | Color      |
+|-------|------------|--------------------------------------|------------|
+| 1     | Foundation | Entry point / Hypnosis              | White      |
+| 2     | Elevation  | Mental Wellness progression          | Silver     |
+| 3     | Ascension  | Inner Child completion + Mastery     | Gold       |
+
+---
+
+## 📁 Structure
+
+- `images/` – PNG image assets for each NFT badge
+- `metadata/` – JSON metadata for each NFT (for IPFS pinning & minting)
+- `README.md` – Documentation
+
+---
+
+## 📌 IPFS Upload
+
+Use a pinning service (e.g., Pinata, NFT.Storage) to upload:
+- Image files
+- Metadata files (update `"image"` with the final `ipfs://` path)
+
+Replace this placeholder:  
+```json
+"image": "ipfs://Qm.../level1_foundation.png"
+
