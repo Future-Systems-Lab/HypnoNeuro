@@ -19,7 +19,7 @@ HypnoNeuro is a decentralized, gamified mental-wellness platform that integrates
 EncryptHealth is a secure Web3 backend platform for managing encrypted health records, peer-to-peer data exchange, and practitioner-controlled access.
 
 ### 📄 Featured Documents
-- [`EncryptHealth_Grant_Whitepaper.pdf`](../EncryptHealth/grants/EncryptHealth_Grant_Whitepaper.pdf)  
+- [EncryptHealth_Grant_Whitepaper.pdf](../../EncryptHealth/grants/EncryptHealth_Grant_Whitepaper.pdf) 
   – PDF white paper detailing blockchain infrastructure, encryption methods, and clinical-privacy use cases.
 
 ---
