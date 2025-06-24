@@ -48,7 +48,9 @@ Built using OpenZeppelin's secure ERC-20 contract structure, HNT includes:
 - **Contract Address:** `0x608...e0033`  
 - **Deployed via:** [Remix IDE](https://remix.ethereum.org)
 
-Note: Early test deployments used both full and abbreviated token names. Production deployments will follow a standardized abbreviated format for consistency across wallets and explorers.
+> **Note:** Early test deployments used both full and abbreviated token names.  
+> Production deployments will follow a standardized abbreviated format (e.g., HNT, EHT)  
+> to ensure consistency across wallets, block explorers, and dApp interfaces.
 
 ---
 
