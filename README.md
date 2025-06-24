@@ -22,8 +22,8 @@ This repository houses the **core datasets, research models, whitepapers, and fo
 
 ## 📄 Featured Documents
 
-- [`HypnoNeuro_Crypto_Whitepaper.md`](HypnoNeuro_Crypto_Whitepaper.md)  
-  – Token model powering healing incentives via HNT
+- [`HypnoNeuro_Crypto_Whitepaper.md`](grants/HypnoNeuro_Crypto_Whitepaper.md)  
+  – Detailed white paper outlining the HNT token economy, NFT reward system, and decentralized healing model for mental wellness
 
 - [`amino-vs-pharma.md`](amino-vs-pharma.md)  
   – Side-by-side mortality analysis of amino acid therapy vs pharmaceuticals
