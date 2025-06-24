@@ -13,92 +13,88 @@ HypnoNeuroToken (HNT) is a utility token powering the **HypnoNeuro gamified heal
 - Practitioner payments and premium services  
 - Discounts and token-based session booking  
 
-Built using OpenZeppelin's secure ERC-20 contract structure, HNT includes:
+Built using OpenZeppelin’s secure ERC-20 structure, HNT includes:
 
 - 🔐 `Ownable` — restricts minting/burning/pausing to the platform owner  
-- 🔄 `ERC20Pausable` — lets the contract pause all transfers when needed  
+- 🔄 `ERC20Pausable` — enables emergency transfer freezes  
 - 🔨 Minting: Controlled token creation  
-- 🔥 Burning: Allows token removal by users  
-- ⏸ Pausing: Freezes transfers in emergencies  
+- 🔥 Burning: Voluntary token removal by users  
+- ⏸ Pausing: Emergency shutdown of token transfers  
 
 ---
 
 ## 🧬 Tokenomics
 
-- **Total Supply:** 1,000,000,000 HNT (1 Billion Tokens)  
+- **Total Supply:** 1,000,000,000 HNT  
 - **Initial Mint to Deployer:** 100,000,000 HNT (10%)  
 - **Decimals:** 18  
 
 ---
 
-## ⚙️ Functions
+## ⚙️ Core Functions
 
 | Function     | Description                          | Access      |
 |--------------|--------------------------------------|-------------|
-| `mint()`     | Owner-only minting                   | `onlyOwner` |
-| `burn()`     | User can burn their own tokens       | External    |
+| `mint()`     | Mint new tokens                      | `onlyOwner` |
+| `burn()`     | Burn user-held tokens                | External    |
 | `pause()`    | Pause all token transfers            | `onlyOwner` |
 | `unpause()`  | Resume token transfers               | `onlyOwner` |
-
----
-
-## 🔗 Deployment
-
-- **Network:** Ethereum Sepolia Testnet  
-- **Contract Address:** `0x608...e0033`  
-- **Deployed via:** [Remix IDE](https://remix.ethereum.org)
-
-> **Note:** Early test deployments used both full and abbreviated token names.  
-> Production deployments will follow a standardized abbreviated format (e.g., HNT, EHT)  
-> to ensure consistency across wallets, block explorers, and dApp interfaces.
 
 ---
 
 ## 📦 Dependencies
 
 - [OpenZeppelin Contracts v4.9.3](https://github.com/OpenZeppelin/openzeppelin-contracts)  
-- Solidity ^0.8.20  
+- Solidity ^0.8.30  
 
 ---
 
-## 🚀 Coming Soon
+## 📄 Deployment Details
 
-- NFT reward logic integration  
-- Token bridge between networks  
-- Launch on Ethereum Mainnet / Base / Optimism  
-- Practitioner wallet automation & token-based discounts  
+### 🔗 Contract Addresses
+
+| Network         | Contract Address                            | File                             |
+|----------------|----------------------------------------------|----------------------------------|
+| Ethereum Mainnet| `0x6eab55a23d0bb0d38c79567525382fa98158e927` | `contract_address_mainnet.txt`  |
+| Sepolia Testnet | `0x1A91DA86202f58A44DE58d3Cc110903382318fAD` | `contract_address_sepolia.txt`  |
 
 ---
 
-## 📜 License
+### 🧱 Build & Compiler
 
-MIT
+- **Solidity Version:** `0.8.30`
+- **Optimization Enabled:** `true` (200 runs)
+- **License in Contract:** `UNLICENSED`
+
+---
+
+### 📁 Contract Files
+
+- `HNT_ABI.json` — Verified ABI  
+- `HNT_Bytecode.txt` — Final bytecode  
+- `HNT_CreationCode.txt` — Deployment bytecode  
+- `contract_address_mainnet.txt` — Mainnet address  
+- `contract_address_sepolia.txt` — Sepolia test address  
+- `HNT_logo.png` — Token logo asset  
+
+---
+
+## 🚀 Roadmap
+
+- NFT milestone reward integration  
+- Token bridge across chains  
+- Launch on Ethereum Mainnet + Base / Optimism  
+- Practitioner automation for token-based discounts  
+
+---
+
+## 🚫 Rights Reserved
+
+HypnoNeuro™, the HypnoNeuro Token (HNT), and all related trademarks, names, and assets are © 2025 Meg Montañez Davenport. All rights reserved.
+
+> While this contract may be released under the MIT license for educational or development use, **commercial use of the HypnoNeuro™ brand, token name (HNT), or likeness is prohibited without explicit written permission.**
 
 ---
 
 ## 🧠 Built for Mental Wellness  
-**Where Mental Wellness Meets the Metaverse.™**
-
----
-
-# HypnoNeuroToken (HNT)
-
-A custom ERC-20 token deployed and verified on the Sepolia Testnet using Solidity 0.8.30. This project is part of HypnoNeuro's Web3 integration to explore decentralized mental wellness solutions.
-
-## Features
-- Custom token logic without OpenZeppelin
-- Verified contract on Sepolia Etherscan
-- Mint, burn, pause, transfer functions
-
-## Contract Details
-- **Network:** Sepolia Testnet
-- **Contract Address:** `0x1A91DA86202f58A44DE58d3Cc110903382318fAD`
-- **Token Symbol:** HNT
-- **Decimals:** 18
-- **Total Supply:** 100,000,000 HNT (mintable)
-
-### 🚫 Rights Reserved Notice
-
-HypnoNeuro™, the HypnoNeuro Token (HNT), and all associated branding, names, trademarks, and visual assets are © 2025 Meg Montañez Davenport. All rights reserved.
-
-While this contract is licensed under the MIT license for educational and development use, commercial reuse of the HypnoNeuro™ brand, token name (HNT), or likeness is strictly prohibited without written permission from the original author.
+**Where Mental Wellness Meets the Metaverse™**
