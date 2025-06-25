@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="HypnoNeuro.jpeg" alt="HypnoNeuro Logo" width="400"/>
+</p>
+
+<h1 align="center">HypnoNeuro™</h1>
+<p align="center"><em>Where Mental Wellness Meets the Metaverse</em></p>
+
+
 # HypnoNeuro™: Where Mental Wellness Meets the Metaverse™
 
 HypnoNeuro™ is a decentralized, gamified mental wellness system rooted in trauma-informed care, privacy-by-design, and natural healing. Built on Ethereum and IPFS, it replaces shame, overmedication, and inaccessibility with avatar anonymity, tokenized access, and reward-based healing.
