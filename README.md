@@ -1,9 +1,16 @@
 
 
+
 <p align="center">
   <img src="HypnoNeuro.jpg" alt="HypnoNeuro Logo" width="400"/>
 </p>
 
+<p align="center">
+  <img src="HypnoNeuro.jpeg" alt="HypnoNeuro Logo" width="400"/>
+</p>
+
+<h1 align="center">HypnoNeuro™</h1>
+<p align="center"><em>Where Mental Wellness Meets the Metaverse</em></p>
 
 
 # HypnoNeuro™: Where Mental Wellness Meets the Metaverse™
