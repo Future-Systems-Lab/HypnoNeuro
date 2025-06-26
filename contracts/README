@@ -1,100 +1,107 @@
-# 🧠 HypnoNeuroToken (HNT)
+# 🧠 HypnoNeuro Token (HNT)
 
-**An ERC-20 token with mint, burn, and pause functionality — designed for the HypnoNeuro decentralized mental wellness ecosystem.**
+**ERC-20 with mint, burn, and pause — powering the HypnoNeuro decentralized mental-wellness ecosystem.**
 
 ---
 
 ## 🔍 Overview
 
-HypnoNeuroToken (HNT) is a utility token powering the **HypnoNeuro gamified healing platform**. It supports the decentralized reward system for:
+HypnoNeuroToken (HNT) fuels our **gamified healing platform**, rewarding:
 
 - Player progress in therapeutic rooms  
-- NFT-based milestones (Mind Mastery NFTs)  
-- Practitioner payments and premium services  
-- Discounts and token-based session booking  
+- NFT milestone unlocks (Mind Mastery NFTs)  
+- Practitioner payments & premium sessions  
+- Token-based discounts on services  
 
-Built using OpenZeppelin’s secure ERC-20 structure, HNT includes:
+Built on OpenZeppelin’s audited ERC-20 stack:
 
-- 🔐 `Ownable` — restricts minting/burning/pausing to the platform owner  
-- 🔄 `ERC20Pausable` — enables emergency transfer freezes  
-- 🔨 Minting: Controlled token creation  
-- 🔥 Burning: Voluntary token removal by users  
-- ⏸ Pausing: Emergency shutdown of token transfers  
+- 🔐 **Ownable** — restricts mint / burn / pause to the platform owner  
+- 🛑 **ERC20Pausable** — emergency freeze of transfers  
+- 🔨 **Mint** — controlled token creation  
+- 🔥 **Burn** — voluntary supply reduction (users or owner)  
+- ⏸ **Pause / Unpause** — circuit breaker for exploits
 
 ---
 
 ## 🧬 Tokenomics
 
-- **Total Supply:** 1,000,000,000 HNT  
-- **Initial Mint to Deployer:** 100,000,000 HNT (10%)  
-- **Decimals:** 18  
+| Item             | Value                    |
+|------------------|--------------------------|
+| **Total Supply** | 1 000 000 000 HNT       |
+| **Initial Mint** | 100 000 000 HNT (10 %) |
+| **Decimals**     | 18                       |
 
 ---
 
 ## ⚙️ Core Functions
 
-| Function     | Description                          | Access      |
-|--------------|--------------------------------------|-------------|
-| `mint()`     | Mint new tokens                      | `onlyOwner` |
-| `burn()`     | Burn user-held tokens                | External    |
-| `pause()`    | Pause all token transfers            | `onlyOwner` |
-| `unpause()`  | Resume token transfers               | `onlyOwner` |
+| Function     | Purpose                     | Access      |
+|--------------|-----------------------------|-------------|
+| `mint()`     | Issue new tokens            | `onlyOwner` |
+| `burn()`     | Destroy caller’s tokens     | External    |
+| `pause()`    | Freeze all transfers        | `onlyOwner` |
+| `unpause()`  | Resume transfers            | `onlyOwner` |
 
 ---
 
 ## 📦 Dependencies
 
-- [OpenZeppelin Contracts v4.9.3](https://github.com/OpenZeppelin/openzeppelin-contracts)  
-- Solidity ^0.8.30  
+- **OpenZeppelin Contracts** v4.9.3  
+- **Solidity** ^0.8.30  
 
 ---
 
-## 📄 Deployment Details
+## 📄 Deployment
 
-### 🔗 Contract Addresses
+| Network | Address | Artifact |
+|---------|---------|----------|
+| **Ethereum Mainnet** | `0x6eab55a23d0bb0d38c79567525382fa98158e927` | `contract_address_mainnet.txt` |
+| **Sepolia Testnet** | `0x1A91DA86202f58A44DE58d3Cc110903382318fAD` | `contract_address_sepolia.txt` |
 
-| Network         | Contract Address                            | File                             |
-|----------------|----------------------------------------------|----------------------------------|
-| Ethereum Mainnet| `0x6eab55a23d0bb0d38c79567525382fa98158e927` | `contract_address_mainnet.txt`  |
-| Sepolia Testnet | `0x1A91DA86202f58A44DE58d3Cc110903382318fAD` | `contract_address_sepolia.txt`  |
-
----
-
-### 🧱 Build & Compiler
-
-- **Solidity Version:** `0.8.30`
-- **Optimization Enabled:** `true` (200 runs)
-- **License in Contract:** `UNLICENSED`
+**Compiler** 0.8.30, optimizer **on** (200 runs), SPDX license `UNLICENSED`.
 
 ---
 
-### 📁 Contract Files
+## 🛠 Repo Contents
 
-- `HNT_ABI.json` — Verified ABI  
-- `HNT_Bytecode.txt` — Final bytecode  
-- `HNT_CreationCode.txt` — Deployment bytecode  
-- `contract_address_mainnet.txt` — Mainnet address  
-- `contract_address_sepolia.txt` — Sepolia test address  
-- `HNT_logo.png` — Token logo asset  
+```
+HNT_ABI.json            – verified ABI
+HNT_Bytecode.txt        – runtime bytecode
+HNT_CreationCode.txt    – deployment bytecode
+contract_address_*.txt  – network addresses
+HNT_logo.png            – token logo
+```
+
+---
+
+## 🔒 Security & Audit
+
+- Contract inherits only OpenZeppelin battle-tested modules.  
+- No proxy pattern (immutable bytecode).  
+- Formal audit scheduled for Q3 2025; static-analysis report included thereafter.
 
 ---
 
 ## 🚀 Roadmap
 
-- NFT milestone reward integration  
-- Token bridge across chains  
-- Launch on Ethereum Mainnet + Base / Optimism  
-- Practitioner automation for token-based discounts  
+1. NFT milestone reward on-chain hook  
+2. Cross-chain bridge (Ethereum ↔ Base / Optimism)  
+3. Practitioner invoicing with automatic HNT discounts  
+4. DAO-based treasury & grant program  
 
 ---
 
-## 🚫 Rights Reserved
-
-HypnoNeuro™, the HypnoNeuro Token (HNT), and all related trademarks, names, and assets are © 2025 Meg Montañez Davenport. All rights reserved.
-
-> While this contract may be released under the MIT license for educational or development use, **commercial use of the HypnoNeuro™ brand, token name (HNT), or likeness is prohibited without explicit written permission.**
-
 ---
 
-## 🧠 Built for Mental Wellness  
-**Where Mental Wellness Meets the Metaverse™**
+## 🚫 License & Intellectual Property Notice
+
+All code, smart contracts, token names, NFTs, artwork, documentation, and brand elements in this repository are the **exclusive intellectual property** of **Dr. Meg Montañez-Davenport**.
+
+> **No part of this repository may be copied, forked, modified, reproduced, distributed, or reused in any form — for commercial, educational, or non-commercial purposes — without explicit written consent.**
+
+HypnoNeuro™, HypnoNeuroToken (HNT), and all related assets are fully protected under copyright and trademark laws.
+
+© 2025 Dr. Meg Montañez-Davenport. All rights reserved.
+
+
+### 🧠 Where Mental Wellness Meets the Metaverse™
