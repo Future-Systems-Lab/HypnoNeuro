@@ -1,13 +1,13 @@
-# 🧼 Mind Loop – Clean Cycle  
-*A Level-1 Hypnosis-Room module that turns “doing the wash” into trauma-friendly micro-victories.*
+# 🥗 Nutrition Loop – Mood-Meals  
+*A Level-2 Mental-Wellness-Room module that turns “finding and eating healthy food” into quick, stress-free wins.*
 
 ---
 
-## 🧠 Why a Laundry Game?
+## 🧠 Why a Food-for-Mood Game?
 
-- **Executive-dysfunction friendly:** For many users, starting (or finishing) laundry is a stress trigger.  
-- **Safe rehearsal space:** Simulating the task in-game lowers real-world overwhelm.  
-- **Behavioral mirroring:** Repetition inside HypnoNeuro rewires initiation → completion loops that carry over to daily life.
+- **Decision-fatigue & executive dysfunction:** Choosing, shopping, and cooking can feel impossible during depressive or anxious episodes.  
+- **Nutrient–neurotransmitter link:** Tryptophan, tyrosine, B-vitamins, and magnesium directly influence serotonin, dopamine, and GABA.  
+- **Educational rehearsal:** Repeating small, low-pressure food tasks in-game trains the brain to make “good-enough” choices in real life.
 
 ---
 
@@ -15,21 +15,21 @@
 
 | Stage | In-Game Action | Purpose |
 |-------|----------------|---------|
-| **1 Spawn** | Avatar materializes in a dim laundry room; a “Laundry Dragon” lurks. | Externalizes anxiety. |
-| **2 Quest Pick** | Example prompt: *“Rescue your favourite hoodie from the Sock Vortex.”* | Gives a single clear objective. |
-| **3 Mini-Games** | a) **Color Sort** – drag garments to colour bins  <br> b) **Detergent Select** – choose calming scent  <br> c) **Spin-Cycle Tap** – rhythmic tapping cleans washer | Breaks the task into tiny wins; each mini-game = dopamine hit. |
-| **4 Victory** | Room brightens, dragon shrinks, avatar dons clean hoodie. | Positive visual closure. |
-| **5 IRL Prompt** | *“Want to run a 5-min load before continuing?”* | Bridges game success → real-world action. |
+| **1 Spawn** | Avatar enters a cozy virtual kitchen; an “Empty-Fridge Gremlin” sighs loudly. | Externalizes food anxiety. |
+| **2 Quest Pick** | Prompt example: *“Build a Mood-Boost Lunchbox for a Rainy Day.”* | Single clear mission. |
+| **3 Mini-Games** | a) **Food Dash** – swipe ingredients into a basket (colour-coded by nutrient: green = magnesium, yellow = B-vitamins). <br> b) **Mood-Match Quiz** – pair foods with feelings (e.g., turkey ➜ calm, banana ➜ focus). <br> c) **No-Cook Plate** – arrange three snack items on a plate within 60 s. | Teaches “snack-stacking” and nutrient cues. |
+| **4 Victory** | Kitchen lights up; Gremlin shrinks; avatar enjoys a glowing snack. | Positive closure. |
+| **5 IRL Prompt** | *“Grab one tryptophan snack (e.g., Greek yogurt) IRL to lock in today’s buff?”* | Bridges game → real life. |
 
 ---
 
 ## 🔄 Loop & Reward Logic
 
-1. **Each Complete Cycle** → `+1 Clean-Streak`.  
-2. **Streak = 3** (first week) → *Token 1*  +  *NFT Lv 1* (3 % practitioner discount).  
-3. Following weeks raise the requirement: **3 → 6 → 9** consecutive cycles before the **same** token drops.  
-4. Missed day **resets streak** but never removes earned tokens (progress = resilient).  
-5. Tokens feed into global **HNT** wallet; NFTs unlock new therapy rooms & discounts.
+1. **Each Prepared Plate** → `+1 Nutrition-Streak`.  
+2. **Streak = 3** (first week) → *Token 2* + *NFT Lv 2* (6 % practitioner discount).  
+3. Subsequent weeks: requirement increases **3 → 6 → 9** plates before the **same** token can drop again, reinforcing autonomy.  
+4. Missed day resets the streak but never removes earned tokens.  
+5. Tokens funnel to the user’s **HNT** wallet; NFTs unlock higher-tier rooms & practitioner discounts.
 
 ---
 
@@ -37,25 +37,25 @@
 
 | IRL Challenge | In-Game Nudge |
 |---------------|---------------|
-| “Washer done, never moved to dryer.” | Dragon re-appears holding a soggy sock ➜ *“Let’s finish that spin!”* |
-| “Pile of clean clothes not folded.” | New “Folding Mastery” mini-game unlocks with soothing beats. |
-| “Zero motivation today.” | Game auto-scales to a **one-sock quest** → still counts toward streak. |
+| “Fridge is empty, can’t cook.” | Gremlin offers a *“3-item no-cook quest”* (e.g., canned beans + apple + nuts). |
+| “Can’t decide what to buy.” | Food Dash auto-generates a colour-coded grocery list emailed to the user. |
+| “Zero appetite today.” | Game suggests *“Liquid Mood Mix”* mini-game: blend banana, milk (tryptophan), and cocoa (polyphenols). |
 
 ---
 
 ## 📈 Progression Roadmap
 
-- **Level 2 – Folding Mastery** (precision + mindfulness beat-match)  
-- **Level 3 – Closet Zen** (organize colours / moods; teaches colour-therapy)  
-- **Level 4 – Biochem Boosts** (quick facts on GABA / dopamine with breath cues)
+- **Level 2-B – Budget Bites** (teach $5 balanced meals)  
+- **Level 2-C – Cultural Comfort Foods** (mood-boost recipes per culture)  
+- **Level 2-D – Micro-Nutrient Trivia** (rapid-fire quiz for bonus tokens)
 
 ---
 
 ## 🔐 Rights Reserved
 
-Mind Loop™ – Clean Cycle and all related mechanics are proprietary to **HypnoNeuro™**.  
+Nutrition Loop™ – Mood-Meals and all related mechanics are proprietary to **HypnoNeuro™**.  
 © 2025 Dr. Meg Montañez-Davenport. *All rights reserved. No reproduction or adaptation without written consent.*
 
 ---
 
-**“When a single folded towel earns a victory token, healing feels possible.”**
+**“If opening a can of beans counts as progress, healing is already on the plate.”**
