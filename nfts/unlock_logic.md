@@ -52,7 +52,7 @@ AC -- Yes --> AD[Earn Token + NFT Level 3]
 
 %% Mastery Loop
 AD --> AE[Mastery Achieved]
-AE --> AF[Replay Levels or Redeem NFTs for Discounts]
+AE --> AF[Replay Levels or Redeem NFTs for Practitioner Discounts]
 
 %% Guest Access
 G --> AG[Explore as Guest]
