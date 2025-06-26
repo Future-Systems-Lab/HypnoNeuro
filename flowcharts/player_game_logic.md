@@ -1,7 +1,7 @@
 graph TD
 
-%% Onboarding & Initial Flow
-A[Start] --> B[Visit HypnoNeuro Website or App]
+%%% Onboarding & Initial Flow
+Start --> B[Visit HypnoNeuro Website or App]
 B --> C[Connect Wallet via MetaMask]
 C --> D[Wallet Connected and Avatar Chosen]
 D --> E[Complete Wellness Quiz]
@@ -16,7 +16,7 @@ J -- No --> I
 J -- Yes --> K[+1 to Hypnosis Streak]
 K --> L{Is Streak Equal to 3}
 L -- No --> I
-L -- Yes --> M[Token 1 Earned and NFT Level 1: 3 Percent Discount]
+L -- Yes --> M[Token 1 Earned and NFT Level 1: 3% Discount]
 M --> N[Access Level 2 - Mental Wellness Room]
 
 %% Level 2 Loop: Orthomolecular Game
@@ -26,7 +26,7 @@ P -- No --> O
 P -- Yes --> Q[+1 to Mental Wellness Streak]
 Q --> R{Is Streak Equal to 3}
 R -- No --> O
-R -- Yes --> S[Token 2 Earned and NFT Level 2: 6 Percent Discount]
+R -- Yes --> S[Token 2 Earned and NFT Level 2: 6% Discount]
 S --> T[Access Level 3 - Inner Child Room]
 
 %% Level 3 Loop: Inner Child Game
@@ -36,7 +36,7 @@ V -- No --> U
 V -- Yes --> W[+1 to Inner Child Streak]
 W --> X{Is Streak Equal to 3}
 X -- No --> U
-X -- Yes --> Y[Token 3 Earned and NFT Level 3: 9 Percent Discount]
+X -- Yes --> Y[Token 3 Earned and NFT Level 3: 9% Discount]
 Y --> Z[Mastery Achieved]
 
 %% Post-Mastery
@@ -44,7 +44,13 @@ Z --> AA[Replay Levels or Redeem NFTs for Practitioner Discounts]
 
 %% Guest Access Option
 C --> AB[Explore as Guest – Limited Access]
+---
+**Developer Notes:**
+- Players must complete **3 consecutive successful plays** to earn a token.
+- Each **week**, the token requirement increases by one set (e.g. 3 → 6 → 9) to promote skill mastery.
+- NFTs are **non-transferrable badges** used to unlock future levels and redeem professional services.
+- Missed sessions reset the streak.
 
-%% Reserved Rights Footer
-%% HypnoNeuro™ NFT Reward & Redemption Logic Flow  
-%% Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.
+---
+
+**Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.**
