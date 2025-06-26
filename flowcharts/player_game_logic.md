@@ -41,9 +41,4 @@ V --> W[Begin Next Loop with New Criteria]
 F --> X[Explore as Guest]
 X --> Y[Limited Access → No Token Progression]
 
-%% Footer
-style A fill:#e0f7fa,stroke:#000,stroke-width:1px
-style Q fill:#c8e6c9,stroke:#388e3c,stroke-width:2px
-style S fill:#ffe082,stroke:#fbc02d,stroke-width:2px
-style T fill:#ffcc80,stroke:#f57c00,stroke-width:2px
-style U fill:#ef9a9a,stroke:#d32f2f,stroke-width:2px
+<!-- HypnoNeuro – Player Game Logic Diagram Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved. -->
