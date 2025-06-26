@@ -1,8 +1,7 @@
-
 graph TD
 
-%%% Onboarding & Initial Flow
-Start --> B[Visit HypnoNeuro Website or App]
+%% Onboarding & Initial Flow
+A[Start] --> B[Visit HypnoNeuro Website or App]
 B --> C[Connect Wallet via MetaMask]
 C --> D[Wallet Connected and Avatar Chosen]
 D --> E[Complete Wellness Quiz]
@@ -49,16 +48,3 @@ C --> AB[Explore as Guest – Limited Access]
 %% Reserved Rights Footer
 %% HypnoNeuro™ NFT Reward & Redemption Logic Flow  
 %% Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.
-```
-
-
-
----
-**Developer Notes:**
-- Players must complete **3 consecutive successful plays** to earn a token.
-- Each **week**, the token requirement increases by one set (e.g. 3 games → 6 → 9), promoting skill mastery.
-- NFTs are **non-transferrable badges** and act as keys to unlock future levels **and** redeem professional services.
-- Missed sessions reset the streak. Progress is non-linear but rewards commitment.
-
----
-**Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.**
