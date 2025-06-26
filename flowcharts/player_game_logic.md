@@ -41,3 +41,4 @@ V --> W[Begin Next Loop with New Criteria]
 F --> X[Explore as Guest]
 X --> Y[Limited Access → No Token Progression]
 
+<!-- HypnoNeuro – Player Game Logic Diagram Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved. -->
