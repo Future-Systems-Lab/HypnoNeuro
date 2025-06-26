@@ -1,107 +1,61 @@
-# 🧠 HypnoNeuro Token (HNT)
+# 🧠 HypnoNeuroToken Smart Contracts
 
-**ERC-20 with mint, burn, and pause — powering the HypnoNeuro decentralized mental-wellness ecosystem.**
-
----
-
-## 🔍 Overview
-
-HypnoNeuroToken (HNT) fuels our **gamified healing platform**, rewarding:
-
-- Player progress in therapeutic rooms  
-- NFT milestone unlocks (Mind Mastery NFTs)  
-- Practitioner payments & premium sessions  
-- Token-based discounts on services  
-
-Built on OpenZeppelin’s audited ERC-20 stack:
-
-- 🔐 **Ownable** — restricts mint / burn / pause to the platform owner  
-- 🛑 **ERC20Pausable** — emergency freeze of transfers  
-- 🔨 **Mint** — controlled token creation  
-- 🔥 **Burn** — voluntary supply reduction (users or owner)  
-- ⏸ **Pause / Unpause** — circuit breaker for exploits
+This folder contains the smart contracts, ABI, and deployment data for the **HypnoNeuroToken (HNT)** — an ERC-20 utility token used inside the HypnoNeuro decentralized wellness ecosystem.
 
 ---
 
-## 🧬 Tokenomics
+## 📜 Token Overview
 
-| Item             | Value                    |
-|------------------|--------------------------|
-| **Total Supply** | 1 000 000 000 HNT       |
-| **Initial Mint** | 100 000 000 HNT (10 %) |
-| **Decimals**     | 18                       |
-
----
-
-## ⚙️ Core Functions
-
-| Function     | Purpose                     | Access      |
-|--------------|-----------------------------|-------------|
-| `mint()`     | Issue new tokens            | `onlyOwner` |
-| `burn()`     | Destroy caller’s tokens     | External    |
-| `pause()`    | Freeze all transfers        | `onlyOwner` |
-| `unpause()`  | Resume transfers            | `onlyOwner` |
+- **Token Name:** HypnoNeuroToken  
+- **Symbol:** HNT  
+- **Standard:** ERC-20 (OpenZeppelin)  
+- **Decimals:** 18  
+- **Total Supply Cap:** 1,000,000,000 HNT  
+- **Initial Mint:** 100,000,000 HNT (10% to deployer wallet)
 
 ---
 
-## 📦 Dependencies
+## 🔒 Functional Features
 
-- **OpenZeppelin Contracts** v4.9.3  
-- **Solidity** ^0.8.30  
-
----
-
-## 📄 Deployment
-
-| Network | Address | Artifact |
-|---------|---------|----------|
-| **Ethereum Mainnet** | `0x6eab55a23d0bb0d38c79567525382fa98158e927` | `contract_address_mainnet.txt` |
-| **Sepolia Testnet** | `0x1A91DA86202f58A44DE58d3Cc110903382318fAD` | `contract_address_sepolia.txt` |
-
-**Compiler** 0.8.30, optimizer **on** (200 runs), SPDX license `UNLICENSED`.
+| Function      | Description                            | Access        |
+|---------------|----------------------------------------|---------------|
+| `mint()`      | Mint new tokens                        | Only Owner    |
+| `burn()`      | Burn user-held tokens                  | Any holder    |
+| `pause()`     | Pause all token transfers              | Only Owner    |
+| `unpause()`   | Resume paused transfers                | Only Owner    |
 
 ---
 
-## 🛠 Repo Contents
+## 🔗 Deployment
 
-```
-HNT_ABI.json            – verified ABI
-HNT_Bytecode.txt        – runtime bytecode
-HNT_CreationCode.txt    – deployment bytecode
-contract_address_*.txt  – network addresses
-HNT_logo.png            – token logo
-```
+| Network           | Status       | Contract Address                             |
+|------------------|--------------|----------------------------------------------|
+| Ethereum Mainnet | ✅ Deployed   | `0x6eab55a23d0bb0d38c79567525382fa98158e927` |
+| Sepolia Testnet  | ✅ Deployed   | `0x1A91DA86202f58A44DE58d3Cc110903382318fAD` |
 
 ---
 
-## 🔒 Security & Audit
+## 📁 Included Files
 
-- Contract inherits only OpenZeppelin battle-tested modules.  
-- No proxy pattern (immutable bytecode).  
-- Formal audit scheduled for Q3 2025; static-analysis report included thereafter.
-
----
-
-## 🚀 Roadmap
-
-1. NFT milestone reward on-chain hook  
-2. Cross-chain bridge (Ethereum ↔ Base / Optimism)  
-3. Practitioner invoicing with automatic HNT discounts  
-4. DAO-based treasury & grant program  
+- `HNT.sol` — Main token contract  
+- `HNT_ABI.json` — Contract ABI  
+- `HNT_Bytecode.txt` — Compiled bytecode  
+- `HNT_CreationCode.txt` — Full constructor bytecode  
+- `contract_address_mainnet.txt` — Verified address  
+- `contract_address_sepolia.txt` — Testnet address  
+- `HNT_logo.png` — 256x256 token icon
 
 ---
 
+## ⚠️ License & Rights Reserved
+
+All files in this folder — including smart contracts, ABI, token names, logos, and documentation — are the exclusive intellectual property of:
+
+**© 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.**
+
+> No reuse, modification, replication, forking, or redistribution is permitted for any purpose — including commercial, educational, or open-source — without explicit, written authorization from the creator.
+
 ---
 
-## 🚫 License & Intellectual Property Notice
-
-All code, smart contracts, token names, NFTs, artwork, documentation, and brand elements in this repository are the **exclusive intellectual property** of **Dr. Meg Montañez-Davenport**.
-
-> **No part of this repository may be copied, forked, modified, reproduced, distributed, or reused in any form — for commercial, educational, or non-commercial purposes — without explicit written consent.**
-
-HypnoNeuro™, HypnoNeuroToken (HNT), and all related assets are fully protected under copyright and trademark laws.
-
-© 2025 Dr. Meg Montañez-Davenport. All rights reserved.
-
-
-### 🧠 Where Mental Wellness Meets the Metaverse™
+## 🧠 Powered by HypnoNeuro  
+**Where Mental Wellness Meets the Metaverse™**
