@@ -1,43 +1,51 @@
-<!--  
-HypnoNeuro – Game Logic Flow  
-Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.  
+<!--
+HypnoNeuro – Full Game Flow  
+Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.
 -->
 
 ```mermaid
 graph TD
+  %% ───────── ACCESS & ONBOARDING ─────────
   A[Start] --> B[Visit App]
   B --> C[Connect Wallet]
   C --> D[MetaMask Opens]
-  D --> E[Approve]
-  E --> F[Wallet Connected]
-  F --> G[Accept Terms + Avatar]
+  D --> E[Approve Connection]
+  E --> F[Wallet Ready]
+  F --> G[Accept Terms Avatar]
   G --> H[Choose Path or Tour]
-  H --> I[Quick Quiz]
-  I --> J{Acute Symptoms?}
+  H --> I[Wellness Quiz]
+
+  %% ───────── TRIAGE ─────────
+  I --> J{Acute?}
   J -- Yes --> K[Escalated Intake]
-  J -- No --> L[Enter Level 1]
-  L --> M[Start Daily Loop]
-  M --> N[Book Session?]
-  N -- No --> O[Reminder Sent]
-  N -- Yes --> P[Attend Session?]
-  P -- No --> Q[Streak Reset]
+  J -- No  --> L[Enter Level 1]
+
+  %% ───────── DAILY LOOP IN LEVEL 1 ─────────
+  L --> M[Daily Loop]
+  M --> N{Book Session?}
+  N -- No --> O[Send Reminder] --> M
+  N -- Yes --> P{Attend?}
+  P -- No  --> Q[Streak Reset] --> M
   P -- Yes --> R[+1 Session]
-  R --> S{3 in a Row?}
+  R --> S{3 in Row?}
   S -- No --> M
-  S -- Yes --> T[Token Awarded]
+  S -- Yes --> T[Token +1]
+
+  %% ───────── TOKEN / NFT MILESTONES ─────────
   T --> U{Total Tokens}
-  U -- 3 --> V[NFT L1 - 3%]
-  U -- 6 --> W[NFT L2 - 6%]
-  U -- 9 --> X[NFT L3 - 9%]
-  X --> Y[Unlock Level 2]
-  Y --> Z[Repeat Loop - L2 Criteria]
+  U -- &lt; 3 --> M
+  U -- 3  --> V[NFT 1 – 3 percent]
+  U -- 6  --> W[NFT 2 – 6 percent]
+  U -- 9  --> X[NFT 3 – 9 percent]
+
+  %% ───────── ROOM UNLOCKS ─────────
+  V --> Y[Unlock Level 2]
+  W --> Y
+  Y --> Z[Repeat Loop in Level 2]
+  X --> AA[Unlock Level 3]
+  AA --> AB[Repeat Loop in Level 3]
+  AB --> AC[Game Complete]
 ```
-
-  U -- 3 --> V[NFT Reward: L1 → 3% Discount]
-  U -- 6 --> W[NFT Reward: L2 → 6% Discount]
-  U -- 9 --> X[NFT Reward: L3 → 9% Discount]
-
-  X --> Y[Unlock Next Room (L2: Mental W]()
 
 
 <!--
