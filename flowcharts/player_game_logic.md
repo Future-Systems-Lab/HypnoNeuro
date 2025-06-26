@@ -2,55 +2,56 @@
 title: HypnoNeuro Game Logic Flowchart
 theme: default
 ---
+
+```mermaid
 graph TD
 
 %% Access & Onboarding
-A[Start] --> B[Visit HypnoNeuro Website or App]
-B --> C[Tap 'Connect Wallet']
-C --> D[MetaMask Opens]
-D --> E[User Approves Connection]
-E --> F[Wallet Connected]
-F --> G[Accept Terms & Select Avatar]
-G --> H[Choose Therapy Path or Start Guided Tour]
-H --> I[Quick Wellness Check (Quiz)]
+A[Start] --> B[Visit HypnoNeuro App or Site]
+B --> C[Connect Wallet (MetaMask)]
+C --> D[Approve Wallet Access]
+D --> E[Select Avatar]
+E --> F[Choose Guided Tour or Start Game]
+F --> G[Quick Wellness Check]
 
-%% Branch: Acute or Standard Path
-I --> J{Are Symptoms Acute?}
-J -- Yes --> K[Escalated Intake Path → Direct Scheduling]
-J -- No --> L[Start Level 1: Hypnosis Room]
+%% Path Choice
+G --> H{Symptoms Acute?}
+H -- Yes --> I[Escalated Path → Optional Care]
+H -- No --> J[Enter Level 1: Hypnosis Room]
 
-%% Daily Loop Logic
-L --> M[Daily Mind Loop Begins]
-M --> N[Session Booked?]
-N -- No --> O[Send Reminder]
-N -- Yes --> P[Attend Session?]
-P -- No --> Q[Streak Reset → No Token Awarded]
-P -- Yes --> R[+1 Session Toward Token]
-R --> S{3 Consecutive Sessions?}
-S -- No --> M
-S -- Yes --> T[Token Awarded]
-T --> U{Total Tokens Earned}
-U -- 3 --> V[NFT Reward: L1 → 3% Discount]
-U -- 6 --> W[NFT Reward: L2 → 6% Discount]
-U -- 9 --> X[NFT Reward: L3 → 9% Discount]
+%% Gameplay Loop
+J --> K[Begin Daily MindLoop]
+K --> L{Completed Game Today?}
+L -- No --> M[Streak Broken → Reset Counter]
+L -- Yes --> N[+1 Progress Toward Token]
 
-%% Progression Options
-X --> Y[Unlock Next Room (L2: Mental Wellness)]
-Y --> Z[Repeat Daily Loop with Increased Token Criteria]
+N --> O{3 Consecutive Plays?}
+O -- No --> K
+O -- Yes --> P[Token Earned (L1)]
 
-%% Alternate Paths
-G --> AA[Explore as Guest (Avatar-Only Mode)]
-AA --> AB[Limited Access → No Token Progression]
+%% NFT Milestone Unlocks
+P --> Q{Total Tokens Earned}
+Q -- 3 --> R[L1 NFT: 3% Discount]
+Q -- 6 --> S[L2 NFT: 6% Discount]
+Q -- 9 --> T[L3 NFT: 9% Discount]
+
+%% Level Progression
+T --> U[Unlock Level 2: Mental Wellness Room]
+U --> V[Repeat Daily MindLoop (L2 Criteria)]
+
+%% Guest Option
+E --> W[Explore as Guest (Limited Access)]
+W --> X[No Token or NFT Progression]
 
 %% Footer
-style A fill:#e0f7fa,stroke:#000,stroke-width:1px
-style T fill:#c8e6c9,stroke:#388e3c,stroke-width:2px
-style V fill:#ffe082,stroke:#fbc02d,stroke-width:2px
-style W fill:#ffcc80,stroke:#f57c00,stroke-width:2px
-style X fill:#ef9a9a,stroke:#d32f2f,stroke-width:2px
+style A fill:#e3f2fd,stroke:#000,stroke-width:1px
+style P fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
+style R fill:#ffe082,stroke:#fbc02d,stroke-width:2px
+style S fill:#ffcc80,stroke:#f57c00,stroke-width:2px
+style T fill:#ef9a9a,stroke:#d32f2f,stroke-width:2px
 ```
 
 <!--
-HypnoNeuro – Full Game Logic Diagram
+HypnoNeuro – Full Player Game Logic Diagram  
 Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.
 -->
