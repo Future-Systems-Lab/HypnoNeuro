@@ -42,7 +42,3 @@ F --> X[Explore as Guest]
 X --> Y[Limited Access → No Token Progression]
 
 
-<!--
-HypnoNeuro – Full Game Logic Diagram
-Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.
--->
