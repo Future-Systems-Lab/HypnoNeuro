@@ -1,8 +1,7 @@
-```mermaid
 graph TD
 
 %% Onboarding & Initial Flow
-Start --> B[Visit HypnoNeuro Website or App]
+A[Start] --> B[Visit HypnoNeuro Website or App]
 B --> C[Connect Wallet via MetaMask]
 C --> D[Wallet Connected and Avatar Chosen]
 D --> E[Complete Wellness Quiz]
