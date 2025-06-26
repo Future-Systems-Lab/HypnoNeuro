@@ -35,7 +35,7 @@ R --> S[Complete Inner Child Game]
 S --> T{3 Successful Plays in a Row?}
 T -- No --> S
 T -- Yes --> U[Earn Token 3]
-U --> V[Unlock NFT Level 3 (9% Practitioner Discount)]
+U --> V Unlock NFT Level 3 (9% Practitioner Discount)
 
 %% Mastery
 V --> W[Mastery Achieved]
