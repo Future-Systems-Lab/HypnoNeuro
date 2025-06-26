@@ -1,7 +1,3 @@
----
-title: HypnoNeuro Player Game Logic Flowchart
-theme: default
----
 
 graph TD
 
