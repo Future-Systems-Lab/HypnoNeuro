@@ -8,46 +8,44 @@ graph TD
 %% Onboarding & Initial Flow
 A[Start] --> B[Visit HypnoNeuro Website or App]
 B --> C[Connect Wallet via MetaMask]
-C --> D[Wallet Connected + Avatar Chosen]
+C --> D[Wallet Connected and Avatar Chosen]
 D --> E[Complete Wellness Quiz]
-E --> F{Are Symptoms Acute?}
-F -- Yes --> G[Escalated Intake → Practitioner Booking]
-F -- No --> H[Enter Level 1 – Hypnosis Room]
+E --> F{Are Symptoms Acute}
+F -- Yes --> G[Escalated Intake to Practitioner Booking]
+F -- No --> H[Enter Level 1 - Hypnosis Room]
 
 %% Level 1 Loop
 H --> I[Complete Hypnosis Game]
-I --> J{3 Successful Plays in a Row?}
+I --> J{3 Successful Plays in a Row}
 J -- No --> I
 J -- Yes --> K[Earn Token 1]
-K --> L[Unlock NFT Level 1 (3% Practitioner Discount)]
-L --> M[Access Level 2 – Mental Wellness Room]
+K --> L[Unlock NFT Level 1 - 3 Percent Discount]
+L --> M[Access Level 2 - Mental Wellness Room]
 
 %% Level 2 Loop
 M --> N[Complete Orthomolecular Game]
-N --> O{3 Successful Plays in a Row?}
+N --> O{3 Successful Plays in a Row}
 O -- No --> N
 O -- Yes --> P[Earn Token 2]
-P --> Q[Unlock NFT Level 2 (6% Practitioner Discount)]
-Q --> R[Access Level 3 – Inner Child Room]
+P --> Q[Unlock NFT Level 2 - 6 Percent Discount]
+Q --> R[Access Level 3 - Inner Child Room]
 
 %% Level 3 Loop
 R --> S[Complete Inner Child Game]
-S --> T{3 Successful Plays in a Row?}
+S --> T{3 Successful Plays in a Row}
 T -- No --> S
 T -- Yes --> U[Earn Token 3]
-U --> V Unlock NFT Level 3 (9% Practitioner Discount)
+U --> V[Unlock NFT Level 3 - 9 Percent Discount]
 
 %% Mastery
 V --> W[Mastery Achieved]
-W --> X[Replay Levels or Redeem NFTs for Practitioner Services]
+W --> X[Replay Levels or Redeem NFT for Practitioner Access]
 
 %% Guest Mode
-D --> Y[Explore as Guest (Limited Access)]
+D --> Y[Explore as Guest with Limited Access]
 
-%% Notes
-%% All NFTs are soul-bound and linked to token milestones
-%% Sessions = Practitioner Bookings; NFTs = Verified Discounts
-%% Game completions mimic therapy prep & reward consistency
+ 
+
 
 %% Reserved Rights Footer
 %% HypnoNeuro™ — NFT Reward & Redemption Flow
