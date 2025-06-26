@@ -1,10 +1,4 @@
----
-title: HypnoNeuro NFT Unlock Logic Flowchart
-theme: default
----
-
 graph TD
-
 %% Onboarding & Initial Flow
 A[Start] --> B[Visit HypnoNeuro Website or App]
 B --> C[Connect Wallet via MetaMask]
@@ -37,19 +31,14 @@ T -- No --> S
 T -- Yes --> U[Earn Token 3]
 U --> V[Unlock NFT Level 3 - 9 Percent Discount]
 
-%% Mastery
+%% Mastery & Access
 V --> W[Mastery Achieved]
 W --> X[Replay Levels or Redeem NFT for Practitioner Access]
 
 %% Guest Mode
-D --> Y[Explore as Guest with Limited Access]
-
- 
+A --> Y[Explore as Guest with Limited Access]
 
 
-%% Reserved Rights Footer
-%% HypnoNeuro™ — NFT Reward & Redemption Flow
-%% Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.
 
 ```
 
@@ -61,4 +50,8 @@ D --> Y[Explore as Guest with Limited Access]
 - Missed sessions reset the streak. Progress is non-linear but rewards commitment.
 
 ---
+
+%% Reserved Rights Footer
+%% HypnoNeuro™ — NFT Reward & Redemption Flow
+%% Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.
 
