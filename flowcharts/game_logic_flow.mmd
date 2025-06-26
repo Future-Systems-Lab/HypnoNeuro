@@ -1,18 +1,42 @@
+%% HypnoNeuro – Game Logic Flow
+%% Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.
+
 graph TD
-  Start[Enter Game] --> L1[Level 1: Hypnosis Room]
-  L1 --> AttendL1[Attend 3 Hypnosis Sessions]
-  AttendL1 --> EarnToken1[Earn 1 Token]
-  EarnToken1 --> RepeatL1[Repeat Until 3 Tokens]
-
-  RepeatL1 --> UnlockNFT1[Unlock L1 NFT: Mind Mastery Foundation]
-  UnlockNFT1 --> UnlockL2[Unlock Level 2 Access]
-
-  UnlockL2 --> L2[Level 2: Mental Wellness Room]
-  L2 --> Earn9Tokens[Accumulate 9 Tokens]
-  Earn9Tokens --> UnlockNFT2[Unlock L2 NFT: Mind Mastery Elevation]
-  UnlockNFT2 --> UnlockL3[Unlock Level 3 Access]
-
-  UnlockL3 --> L3[Level 3: Inner Child Room]
-  L3 --> Earn12Tokens[Earn 12 Tokens]
-  Earn12Tokens --> UnlockNFT3[Unlock L3 NFT: Mind Mastery Ascension]
-  UnlockNFT3 --> FinalStatus[Final Tier Reached – Max Discount]
+  %% ─────────── LEVEL 1 ───────────
+  A0[Start Level 1 – Hypnosis Room] --> A1[Schedule Session]
+  
+  %% Attendance decision
+  subgraph Level1Loop [ ]
+    direction TB
+    A1 --> D1{Session Attended?}
+    D1 -- Yes --> A2[Increment L1 Attendance Count]
+    A2 --> D2{Count = 3 Consecutive?}
+    D2 -- No --> A1
+    D2 -- Yes --> A3[🏆 Earn 1 Token]
+    
+    %% Missed session path
+    D1 -- No (Missed) --> A4[⚠️ Reset L1 Attendance Count → 0]
+    A4 --> A1
+  end
+  
+  %% Token accumulation decision
+  A3 --> D3{Total Tokens ≥ 3?}
+  D3 -- No --> A1
+  D3 -- Yes --> A5[🔓 Unlock NFT L1 (Mind Mastery Foundation)]
+  A5 --> A6[Open Access to Level 2]
+  
+  %% ─────────── LEVEL 2 ───────────
+  A6 --> B1[Enter Level 2 – Mental Wellness Room]
+  B1 --> B2[Continue Sessions & Token Earning]
+  B2 --> D4{Total Tokens ≥ 9?}
+  D4 -- No --> B2
+  D4 -- Yes --> B3[🏆 Unlock NFT L2 (Mind Mastery Elevation)]
+  B3 --> B4[Open Access to Level 3]
+  
+  %% ─────────── LEVEL 3 ───────────
+  B4 --> C1[Enter Level 3 – Inner Child Room]
+  C1 --> C2[Continue Sessions & Token Earning]
+  C2 --> D5{Total Tokens ≥ 12?}
+  D5 -- No --> C2
+  D5 -- Yes --> C3[🏆 Unlock NFT L3 (Mind Mastery Ascension)]
+  C3 --> C4[🎯 Max Discount Tier Achieved – End Game Loop]
