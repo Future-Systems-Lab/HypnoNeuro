@@ -12,4 +12,3 @@ graph TD
   J -- No --> L[Start Level 1: Hypnosis Room]
   L --> M[Daily Mind Loop Begins]
   M --> N[Gamified Experience and Token Earning]
-
