@@ -4,29 +4,34 @@ Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.
 -->
 
 graph TD
-  A[Start] --> B[Visit HypnoNeuro Website or App]
-  B --> C[Tap Connect Wallet]
+  A[Start] --> B[Visit App]
+  B --> C[Connect Wallet]
   C --> D[MetaMask Opens]
-  D --> E[User Approves Connection]
+  D --> E[Approve]
   E --> F[Wallet Connected]
-  F --> G[Accept Terms and Select Avatar]
-  G --> H[Choose Therapy Path or Guided Tour]
-  H --> I[Quick Wellness Quiz]
-
-  I --> J{Are Symptoms Acute?}
-  J -- Yes --> K[Escalated Intake Path → Direct Scheduling]
-  J -- No --> L[Start Level 1: Hypnosis Room]
-
-  L --> M[Daily Mind Loop Begins]
-  M --> N[Session Booked?]
-  N -- No --> O[Send Reminder]
+  F --> G[Accept Terms + Avatar]
+  G --> H[Choose Path or Tour]
+  H --> I[Quick Quiz]
+  I --> J{Acute Symptoms?}
+  J -- Yes --> K[Escalated Intake]
+  J -- No --> L[Enter Level 1]
+  L --> M[Start Daily Loop]
+  M --> N[Book Session?]
+  N -- No --> O[Reminder Sent]
   N -- Yes --> P[Attend Session?]
-  P -- No --> Q[Streak Reset → No Token Awarded]
-  P -- Yes --> R[+1 Session Toward Token]
-  R --> S{3 Consecutive Sessions?}
+  P -- No --> Q[Streak Reset]
+  P -- Yes --> R[+1 Session]
+  R --> S{3 in a Row?}
   S -- No --> M
   S -- Yes --> T[Token Awarded]
-  T --> U{Total Tokens Earned}
+  T --> U{Total Tokens}
+  U -- 3 --> V[NFT L1 - 3%]
+  U -- 6 --> W[NFT L2 - 6%]
+  U -- 9 --> X[NFT L3 - 9%]
+  X --> Y[Unlock Level 2]
+  Y --> Z[Repeat Loop - L2 Criteria]
+```
+
   U -- 3 --> V[NFT Reward: L1 → 3% Discount]
   U -- 6 --> W[NFT Reward: L2 → 6% Discount]
   U -- 9 --> X[NFT Reward: L3 → 9% Discount]
