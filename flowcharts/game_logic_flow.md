@@ -3,6 +3,7 @@ HypnoNeuro – Game Logic Flow
 Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.  
 -->
 
+```mermaid
 graph TD
   A[Start] --> B[Visit App]
   B --> C[Connect Wallet]
