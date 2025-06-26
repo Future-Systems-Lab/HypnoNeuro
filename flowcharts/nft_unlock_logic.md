@@ -1,45 +1,31 @@
+---
+title: NFT Unlock Logic – HypnoNeuro Gamified Flow
+---
+
+```mermaid
 graph TD
-%% Onboarding & Initial Flow
-A[Start] --> B[Visit HypnoNeuro Website or App]
-B --> C[Connect Wallet via MetaMask]
-C --> D[Wallet Connected and Avatar Chosen]
-D --> E[Complete Wellness Quiz]
-E --> F{Are Symptoms Acute}
-F -- Yes --> G[Escalated Intake to Practitioner Booking]
-F -- No --> H[Enter Level 1 - Hypnosis Room]
 
-%% Level 1 Loop
-H --> I[Complete Hypnosis Game]
-I --> J{3 Successful Plays in a Row}
-J -- No --> I
-J -- Yes --> K[Earn Token 1]
-K --> L[Unlock NFT Level 1 - 3 Percent Discount]
-L --> M[Access Level 2 - Mental Wellness Room]
+%% Entry Point to Rewards
+A[Player Enters Hypnosis Room – Level 1] --> B[Completes Game 3x Consecutively]
+B --> C[Token Earned]
+C --> D{Total Tokens Held?}
 
-%% Level 2 Loop
-M --> N[Complete Orthomolecular Game]
-N --> O{3 Successful Plays in a Row}
-O -- No --> N
-O -- Yes --> P[Earn Token 2]
-P --> Q[Unlock NFT Level 2 - 6 Percent Discount]
-Q --> R[Access Level 3 - Inner Child Room]
+%% Token → NFT Unlock Logic
+D -- 3 Tokens --> E[NFT: Mind Mastery Foundation – L1 – 3% Discount]
+D -- 6 Tokens --> F[NFT: Mind Mastery Elevation – L2 – 6% Discount]
+D -- 9 Tokens --> G[NFT: Mind Mastery Ascension – L3 – 9% Discount]
 
-%% Level 3 Loop
-R --> S[Complete Inner Child Game]
-S --> T{3 Successful Plays in a Row}
-T -- No --> S
-T -- Yes --> U[Earn Token 3]
-U --> V[Unlock NFT Level 3 - 9 Percent Discount]
+%% Unlock Next Levels
+E --> H[Unlock Level 2: Orthomolecular Room]
+F --> I[Unlock Level 3: Inner Child Room]
 
-%% Mastery & Access
-V --> W[Mastery Achieved]
-W --> X[Replay Levels or Redeem NFT for Practitioner Access]
+%% Loopback Mechanics
+B -. Missed Game or Break in Streak .-> A
+G --> J[Mastery Achieved – Redeem NFT for Professional Services]
 
-%% Guest Mode
-A --> Y[Explore as Guest with Limited Access]
-
-
-
+%% Weekly Scaling Requirement
+C --> K[Next Token Requires 1 Extra Game Streak]
+K --> B
 ```
 
 ---
@@ -50,8 +36,4 @@ A --> Y[Explore as Guest with Limited Access]
 - Missed sessions reset the streak. Progress is non-linear but rewards commitment.
 
 ---
-
-%% Reserved Rights Footer
-%% HypnoNeuro™ — NFT Reward & Redemption Flow
-%% Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.
-
+**Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.**
