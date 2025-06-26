@@ -1,53 +1,39 @@
+---
+title: NFT Unlock Logic – HypnoNeuro Gamified Flow
+---
 
+```mermaid
 graph TD
 
-%% Access & Onboarding
-A[Start] --> B[Visit HypnoNeuro Website or App]
-B --> C[Tap Connect Wallet]
-C --> D[MetaMask Opens]
-D --> E[User Approves Connection]
-E --> F[Wallet Connected]
-F --> G[Accept Terms and Select Avatar]
-G --> H[Choose Therapy Path or Guided Tour]
-H --> I[Complete Wellness Quiz]
+%% Entry Point to Rewards
+A[Player Enters Hypnosis Room – Level 1] --> B[Completes Game 3x Consecutively]
+B --> C[Token Earned]
+C --> D{Total Tokens Held?}
 
-%% Therapy Path Branching
-I --> J{Are Symptoms Acute}
-J -- Yes --> K[Escalated Intake Path for Practitioner Booking]
-J -- No --> L[Enter Level 1 - Hypnosis Room]
+%% Token → NFT Unlock Logic
+D -- 3 Tokens --> E[NFT: Mind Mastery Foundation – L1 – 3% Discount]
+D -- 6 Tokens --> F[NFT: Mind Mastery Elevation – L2 – 6% Discount]
+D -- 9 Tokens --> G[NFT: Mind Mastery Ascension – L3 – 9% Discount]
 
-%% Level 1: Daily Hypnosis Loop
-L --> M[Start Hypnosis Game]
-M --> N{Game Completed?}
-N -- No --> M
-N -- Yes --> P[+1 to Hypnosis Streak]
-P --> Q{Streak = 3?}
-Q -- No --> M
-Q -- Yes --> R[Earn Token + Unlock NFT Level 1]
-R --> S[Access Level 2 - Mental Wellness Room]
+%% Unlock Next Levels
+E --> H[Unlock Level 2: Orthomolecular Room]
+F --> I[Unlock Level 3: Inner Child Room]
 
-%% Level 2: Mental Wellness Loop
-S --> T[Start Orthomolecular Game]
-T --> U{Game Completed?}
-U -- No --> T
-U -- Yes --> V[+1 to L2 Streak]
-V --> W{Streak = 3?}
-W -- No --> T
-W -- Yes --> X[Earn Token + Unlock NFT Level 2]
-X --> Y[Access Level 3 - Inner Child Room]
+%% Loopback Mechanics
+B -. Missed Game or Break in Streak .-> A
+G --> J[Mastery Achieved – Redeem NFT for Professional Services]
 
-%% Level 3: Inner Child Loop
-Y --> Z[Start Inner Child Game]
-Z --> AA{Game Completed?}
-AA -- No --> Z
-AA -- Yes --> AB[+1 to L3 Streak]
-AB --> AC{Streak = 3?}
-AC -- No --> Z
-AC -- Yes --> AD[Earn Token + Unlock NFT Level 3]
+%% Weekly Scaling Requirement
+C --> K[Next Token Requires 1 Extra Game Streak]
+K --> B
+```
 
-%% Mastery Loop
-AD --> AE[Mastery Achieved]
-AE --> AF[Replay Levels or Redeem NFTs for Practitioner Services]
+---
+**Developer Notes:**
+- Players must complete **3 consecutive successful plays** to earn a token.
+- Each **week**, the token requirement increases by one set (e.g. 3 games → 6 → 9), promoting skill mastery.
+- NFTs are **non-transferrable badges** and act as keys to unlock future levels **and** redeem professional services.
+- Missed sessions reset the streak. Progress is non-linear but rewards commitment.
 
-%% Guest Access
-G --> AG[Explore as Guest - Limited Access]
+---
+**Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.**
