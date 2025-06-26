@@ -17,7 +17,7 @@
 |-------|----------------|---------|
 | **1 Spawn** | Avatar enters a cozy virtual kitchen; an “Empty-Fridge Gremlin” sighs loudly. | Externalizes food anxiety. |
 | **2 Quest Pick** | Prompt example: *“Build a Mood-Boost Lunchbox for a Rainy Day.”* | Single clear mission. |
-| **3 Mini-Games** | a) **Food Dash** – swipe ingredients into a basket (colour-coded by nutrient: green = magnesium, yellow = B-vitamins). <br> b) **Mood-Match Quiz** – pair foods with feelings (e.g., turkey ➜ calm, banana ➜ focus). <br> c) **No-Cook Plate** – arrange three snack items on a plate within 60 s. | Teaches “snack-stacking” and nutrient cues. |
+| **3 Mini-Games** | a) **Food Dash** – swipe ingredients into a basket (color-coded by nutrient: green = magnesium, yellow = B-vitamins). <br> b) **Mood-Match Quiz** – pair foods with feelings (e.g., turkey ➜ calm, banana ➜ focus). <br> c) **No-Cook Plate** – arrange three snack items on a plate within 60 s. | Teaches “snack-stacking” and nutrient cues. |
 | **4 Victory** | Kitchen lights up; Gremlin shrinks; avatar enjoys a glowing snack. | Positive closure. |
 | **5 IRL Prompt** | *“Grab one tryptophan snack (e.g., Greek yogurt) IRL to lock in today’s buff?”* | Bridges game → real life. |
 
