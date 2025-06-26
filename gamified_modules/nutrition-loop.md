@@ -1,13 +1,13 @@
-# 🥗 Nutrition Loop – Mood-Meals  
-*A Level-2 Mental-Wellness-Room module that turns “finding and eating healthy food” into quick, stress-free wins.*
+# 🥗 Nutrition Loop – Mood Meals  
+*A Level-2 Mental Wellness Room module that transforms “finding food” into a low-pressure, healing routine.*
 
 ---
 
-## 🧠 Why a Food-for-Mood Game?
+## 🧠 Why a Food Game?
 
-- **Decision-fatigue & executive dysfunction:** Choosing, shopping, and cooking can feel impossible during depressive or anxious episodes.  
-- **Nutrient–neurotransmitter link:** Tryptophan, tyrosine, B-vitamins, and magnesium directly influence serotonin, dopamine, and GABA.  
-- **Educational rehearsal:** Repeating small, low-pressure food tasks in-game trains the brain to make “good-enough” choices in real life.
+- **Mental fatigue and overwhelm:** For many struggling with mental health, even choosing what to eat can feel paralyzing.  
+- **Low-energy support:** When motivation is low, nutrition often collapses first — yet it’s one of the most direct ways to affect energy, clarity, and mood.  
+- **Rehearsal for daily wins:** This module provides a safe space to practice choosing plant-based, nutrient-dense combinations without pressure, guilt, or perfectionism.
 
 ---
 
@@ -15,47 +15,47 @@
 
 | Stage | In-Game Action | Purpose |
 |-------|----------------|---------|
-| **1 Spawn** | Avatar enters a cozy virtual kitchen; an “Empty-Fridge Gremlin” sighs loudly. | Externalizes food anxiety. |
-| **2 Quest Pick** | Prompt example: *“Build a Mood-Boost Lunchbox for a Rainy Day.”* | Single clear mission. |
-| **3 Mini-Games** | a) **Food Dash** – swipe ingredients into a basket (color-coded by nutrient: green = magnesium, yellow = B-vitamins). <br> b) **Mood-Match Quiz** – pair foods with feelings (e.g., turkey ➜ calm, banana ➜ focus). <br> c) **No-Cook Plate** – arrange three snack items on a plate within 60 s. | Teaches “snack-stacking” and nutrient cues. |
-| **4 Victory** | Kitchen lights up; Gremlin shrinks; avatar enjoys a glowing snack. | Positive closure. |
-| **5 IRL Prompt** | *“Grab one tryptophan snack (e.g., Greek yogurt) IRL to lock in today’s buff?”* | Bridges game → real life. |
+| **1 Spawn** | Avatar wakes up in a softly lit digital kitchen; an “Empty Fridge Gremlin” paces anxiously nearby. | Personifies food stress. |
+| **2 Quest Pick** | Sample mission: *“Build a Calm-Focus Snack Box to Start the Day.”* | Offers focused, achievable goal. |
+| **3 Mini-Games** | a) **Nutrient Dash** – Tap or swipe to gather whole, plant-based foods (e.g., oats, seeds, berries, greens). <br> b) **Mood Pairing** – Match food groups with energy states (e.g., complex carbs → steady, leafy greens → uplift). <br> c) **Snack Stack** – Combine 2–3 no-prep items into a “mood plate.” | Simulates real-life snack assembly and decision confidence. |
+| **4 Victory** | Kitchen glows; Gremlin calms; avatar gains “Focus Aura” and completes mission. | Visual closure + emotional boost. |
+| **5 IRL Prompt** | *“Try a no-cook combo: banana + almond butter + pumpkin seeds. Want to give it a shot IRL?”* | Gentle cue to mirror success. |
 
 ---
 
 ## 🔄 Loop & Reward Logic
 
-1. **Each Prepared Plate** → `+1 Nutrition-Streak`.  
-2. **Streak = 3** (first week) → *Token 2* + *NFT Lv 2* (6 % practitioner discount).  
-3. Subsequent weeks: requirement increases **3 → 6 → 9** plates before the **same** token can drop again, reinforcing autonomy.  
-4. Missed day resets the streak but never removes earned tokens.  
-5. Tokens funnel to the user’s **HNT** wallet; NFTs unlock higher-tier rooms & practitioner discounts.
+1. **Each Completed Meal Module** → `+1 Nutrition Loop`.  
+2. **Loop = 3 in a week** → *Token 2* + *NFT Lv 2* (6% discount for wellness services).  
+3. Progression = 3 → 6 → 9 loops before repeated token drops.  
+4. Missed day resets loop, but earned tokens and NFTs stay.  
+5. All progress contributes to the **HNT** wallet and therapy unlocks.
 
 ---
 
-## 🌱 Real-Life Integration Examples
+## 🌱 Real-Life Tie-Ins
 
-| IRL Challenge | In-Game Nudge |
-|---------------|---------------|
-| “Fridge is empty, can’t cook.” | Gremlin offers a *“3-item no-cook quest”* (e.g., canned beans + apple + nuts). |
-| “Can’t decide what to buy.” | Food Dash auto-generates a colour-coded grocery list emailed to the user. |
-| “Zero appetite today.” | Game suggests *“Liquid Mood Mix”* mini-game: blend banana, milk (tryptophan), and cocoa (polyphenols). |
+| IRL Scenario | In-Game Response |
+|--------------|------------------|
+| “Can’t think what to eat.” | Game selects a pre-built mood plate: e.g., “Clarity Kit: walnuts + spinach + quinoa cracker.” |
+| “Fridge is empty.” | Offers a shelf-stable food challenge (e.g., oats, raisins, peanut butter). |
+| “Not hungry / no appetite.” | Suggests hydration-based mini-game (e.g., build an infused water blend for energy). |
 
 ---
 
-## 📈 Progression Roadmap
+## 📈 Expansion Roadmap
 
-- **Level 2-B – Budget Bites** (teach $5 balanced meals)  
-- **Level 2-C – Cultural Comfort Foods** (mood-boost recipes per culture)  
-- **Level 2-D – Micro-Nutrient Trivia** (rapid-fire quiz for bonus tokens)
+- **Level 2-B – Budget Plates** (combine low-cost staples for balance)  
+- **Level 2-C – Culture Nourish** (honor ancestral plant-based food traditions)  
+- **Level 2-D – Micro Mood Match** (fast-paced food/nutrient quiz)
 
 ---
 
 ## 🔐 Rights Reserved
 
-Nutrition Loop™ – Mood-Meals and all related mechanics are proprietary to **HypnoNeuro™**.  
-© 2025 Dr. Meg Montañez-Davenport. *All rights reserved. No reproduction or adaptation without written consent.*
+Nutrition Loop™ – Mood Meals and all associated designs are proprietary to **HypnoNeuro™**.  
+© 2025 Dr. Meg Montañez-Davenport. *All rights reserved. Use or adaptation without written consent is prohibited.*
 
 ---
 
-**“If opening a can of beans counts as progress, healing is already on the plate.”**
+**“When food becomes a game, nourishment becomes achievable.”**
