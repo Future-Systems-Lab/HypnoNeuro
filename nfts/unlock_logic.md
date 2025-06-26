@@ -18,65 +18,54 @@ H --> I[Complete Wellness Quiz]
 
 %% Therapy Path Branching
 I --> J{Are Symptoms Acute}
-J -- Yes --> K[Escalated Intake Path for Practitioner Booking]
-J -- No --> L[Enter Level 1 - Hypnosis Room]
+J -- Yes --> K[Escalated Intake Path → Practitioner Booking]
+J -- No --> L[Enter Level 1: Hypnosis Room]
 
 %% Level 1: Hypnosis Loop
 L --> M[Start Hypnosis Game]
-M --> N{Game Completed?}
+M --> N{Game Completed}
 N -- No --> M
 N -- Yes --> P[+1 to Hypnosis Streak]
-P --> Q{Streak = 3?}
+P --> Q{Streak = 3}
 Q -- No --> M
-Q -- Yes --> R[Earn Token + NFT Level 1 Unlocked]
-R --> S[Access Level 2 - Mental Wellness Room]
+Q -- Yes --> R[Earn Token + NFT Level 1]
+R --> S[Access Level 2: Mental Wellness Room]
 
 %% Level 2: Orthomolecular Loop
 S --> T[Start Orthomolecular Game]
-T --> U{Game Completed?}
+T --> U{Game Completed}
 U -- No --> T
-AG[Explore as Guest - Limited Mode]
-V --> W{Streak = 3?}
+U -- Yes --> V[+1 to L2 Streak]
+V --> W{Streak = 3}
 W -- No --> T
-W -- Yes --> X[Earn Token + NFT Level 2 Unlocked]
-X --> Y[Access Level 3 - Inner Child Room]
+W -- Yes --> X[Earn Token + NFT Level 2]
+X --> Y[Access Level 3: Inner Child Room]
 
 %% Level 3: Inner Child Loop
 Y --> Z[Start Inner Child Game]
-Z --> AA{Game Completed?}
+Z --> AA{Game Completed}
 AA -- No --> Z
 AA -- Yes --> AB[+1 to L3 Streak]
-AB --> AC{Streak = 3?}
+AB --> AC{Streak = 3}
 AC -- No --> Z
-AC -- Yes --> AD[Earn Token + NFT Level 3 Unlocked]
+AC -- Yes --> AD[Earn Token + NFT Level 3]
 
 %% Mastery Loop
 AD --> AE[Mastery Achieved]
-AE --> AF[Redeem NFTs for Discounted Practitioner Sessions or Replay Game Levels]
+AE --> AF[Replay Levels or Redeem NFTs for Discounts]
 
 %% Guest Access
-G --> AG[Explore as Guest (Limited Mode)]
+G --> AG[Explore as Guest]
 
 ```
 
-<!--  
-HypnoNeuro – NFT Unlock Logic Diagram  
+<!-- 
+HypnoNeuro™ NFT Unlock Flow  
 Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.
 
-Developer Note:  
-This flow governs how players progress through self-guided game-based healing and earn NFTs.  
-Players must complete 3 consecutive game completions within each level (L1–L3) to earn a token and unlock a corresponding NFT.  
-
-NFTs are NOT cosmetic. They are **functional credentials** that unlock **real-world practitioner discounts**:
-
-- NFT Level 1 (Hypnosis Room Completion): 3% discount on services  
-- NFT Level 2 (Mental Wellness Room Completion): 6% discount  
-- NFT Level 3 (Inner Child Room Completion): 9% discount  
-
-NFTs can be redeemed inside the app to book **professional sessions with certified providers** at reduced rates.  
-Players who fail to complete the 3-game streak must restart that loop from the beginning. This models behavioral consistency and reward reinforcement.
+Dev Note: This logic allows players to unlock NFT-based discounts by completing 3-game streaks across progressive healing levels (Hypnosis, Orthomolecular, Inner Child). Practitioners can be booked once NFTs are earned. Guest mode disables token rewards.
 -->
-<!--  
+
 HypnoNeuro — Intellectual Property Statement  
 Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.
 
