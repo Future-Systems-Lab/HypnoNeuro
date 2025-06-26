@@ -35,7 +35,7 @@ R --> S[Access Level 2 - Mental Wellness Room]
 S --> T[Start Orthomolecular Game]
 T --> U{Game Completed?}
 U -- No --> T
-U -- Yes --> V[+1 to L2 Streak]
+AG[Explore as Guest - Limited Mode]
 V --> W{Streak = 3?}
 W -- No --> T
 W -- Yes --> X[Earn Token + NFT Level 2 Unlocked]
