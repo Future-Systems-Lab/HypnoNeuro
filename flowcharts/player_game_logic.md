@@ -8,50 +8,42 @@ graph TD
 
 %% Access & Onboarding
 A[Start] --> B[Visit HypnoNeuro App or Site]
-B --> C[Connect Wallet (MetaMask)]
+B --> C[Connect Wallet via MetaMask]
 C --> D[Approve Wallet Access]
 D --> E[Select Avatar]
-E --> F[Choose Guided Tour or Start Game]
-F --> G[Quick Wellness Check]
+E --> F[Accept Terms]
+F --> G[Enter Guided Tour or Choose Therapy Path]
 
-%% Path Choice
-G --> H{Symptoms Acute?}
-H -- Yes --> I[Escalated Path → Optional Care]
-H -- No --> J[Enter Level 1: Hypnosis Room]
+%% Entry Point
+G --> H[Complete Wellness Quiz]
+H --> I{Acute Symptoms?}
+I -- Yes --> J[Escalated Path → Direct Scheduling]
+I -- No --> K[Start Level 1 - Hypnosis Room]
 
-%% Gameplay Loop
-J --> K[Begin Daily MindLoop]
-K --> L{Completed Game Today?}
-L -- No --> M[Streak Broken → Reset Counter]
-L -- Yes --> N[+1 Progress Toward Token]
+%% Daily Loop - Level 1
+K --> L[Begin Daily Loop]
+L --> M[Complete Session?]
+M -- No --> N[Send Reminder → No Token]
+M -- Yes --> O[+1 Session Count]
+O --> P{3 Sessions in a Row?}
+P -- No --> L
+P -- Yes --> Q[Token Earned]
 
-N --> O{3 Consecutive Plays?}
-O -- No --> K
-O -- Yes --> P[Token Earned (L1)]
+%% Progression Logic
+Q --> R{Total Tokens Earned}
+R -- 3 --> S[NFT Reward: L1 = 3% Discount]
+R -- 6 --> T[NFT Reward: L2 = 6% Discount]
+R -- 9 --> U[NFT Reward: L3 = 9% Discount]
+U --> V[Unlock Level 2 - Mental Wellness Room]
+V --> W[Begin Next Loop with New Criteria]
 
-%% NFT Milestone Unlocks
-P --> Q{Total Tokens Earned}
-Q -- 3 --> R[L1 NFT: 3% Discount]
-Q -- 6 --> S[L2 NFT: 6% Discount]
-Q -- 9 --> T[L3 NFT: 9% Discount]
-
-%% Level Progression
-T --> U[Unlock Level 2: Mental Wellness Room]
-U --> V[Repeat Daily MindLoop (L2 Criteria)]
-
-%% Guest Option
-E --> W[Explore as Guest (Limited Access)]
-W --> X[No Token or NFT Progression]
+%% Guest Path
+F --> X[Explore as Guest]
+X --> Y[Limited Access → No Token Progression]
 
 %% Footer
-style A fill:#e3f2fd,stroke:#000,stroke-width:1px
-style P fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
-style R fill:#ffe082,stroke:#fbc02d,stroke-width:2px
-style S fill:#ffcc80,stroke:#f57c00,stroke-width:2px
-style T fill:#ef9a9a,stroke:#d32f2f,stroke-width:2px
-```
-
-<!--
-HypnoNeuro – Full Player Game Logic Diagram  
-Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.
--->
+style A fill:#e0f7fa,stroke:#000,stroke-width:1px
+style Q fill:#c8e6c9,stroke:#388e3c,stroke-width:2px
+style S fill:#ffe082,stroke:#fbc02d,stroke-width:2px
+style T fill:#ffcc80,stroke:#f57c00,stroke-width:2px
+style U fill:#ef9a9a,stroke:#d32f2f,stroke-width:2px
