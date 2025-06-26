@@ -1,3 +1,6 @@
+%% HypnoNeuro – Access to Game Flow
+%% Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.
+
 graph TD
   A[Start] --> B[Visit HypnoNeuro Website or App]
   B --> C[Tap 'Connect Wallet']
@@ -10,8 +13,8 @@ graph TD
   H --> I[Quick Wellness Check (Quiz)]
 
   I --> J{Are Symptoms Acute?}
-  J -->|Yes| K[Escalated Intake Path or Direct Scheduling]
-  J -->|No| L[Start Level 1: Hypnosis Room]
+  J -- Yes --> K[Escalated Intake Path or Direct Scheduling]
+  J -- No --> L[Start Level 1: Hypnosis Room]
 
   L --> M[Daily Mind Loop Begins]
   M --> N[Gamified Experience and Token Earning]
