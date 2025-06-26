@@ -1,39 +1,90 @@
 ---
-title: NFT Unlock Logic – HypnoNeuro Gamified Flow
+title: HypnoNeuro NFT Unlock Logic Flowchart
+theme: default
 ---
 
 ```mermaid
 graph TD
 
-%% Entry Point to Rewards
-A[Player Enters Hypnosis Room – Level 1] --> B[Completes Game 3x Consecutively]
-B --> C[Token Earned]
-C --> D{Total Tokens Held?}
+%% Access & Onboarding
+A[Start] --> B[Visit HypnoNeuro Website or App]
+B --> C[Tap Connect Wallet]
+C --> D[MetaMask Opens]
+D --> E[User Approves Connection]
+E --> F[Wallet Connected]
+F --> G[Accept Terms and Select Avatar]
+G --> H[Choose Therapy Path or Guided Tour]
+H --> I[Complete Wellness Quiz]
 
-%% Token → NFT Unlock Logic
-D -- 3 Tokens --> E[NFT: Mind Mastery Foundation – L1 – 3% Discount]
-D -- 6 Tokens --> F[NFT: Mind Mastery Elevation – L2 – 6% Discount]
-D -- 9 Tokens --> G[NFT: Mind Mastery Ascension – L3 – 9% Discount]
+%% Therapy Path Branching
+I --> J{Are Symptoms Acute}
+J -- Yes --> K[Escalated Intake Path for Practitioner Booking]
+J -- No --> L[Enter Level 1 - Hypnosis Room]
 
-%% Unlock Next Levels
-E --> H[Unlock Level 2: Orthomolecular Room]
-F --> I[Unlock Level 3: Inner Child Room]
+%% Level 1: Hypnosis Loop
+L --> M[Start Hypnosis Game]
+M --> N{Game Completed?}
+N -- No --> M
+N -- Yes --> P[+1 to Hypnosis Streak]
+P --> Q{Streak = 3?}
+Q -- No --> M
+Q -- Yes --> R[Earn Token + NFT Level 1 Unlocked]
+R --> S[Access Level 2 - Mental Wellness Room]
 
-%% Loopback Mechanics
-B -. Missed Game or Break in Streak .-> A
-G --> J[Mastery Achieved – Redeem NFT for Professional Services]
+%% Level 2: Orthomolecular Loop
+S --> T[Start Orthomolecular Game]
+T --> U{Game Completed?}
+U -- No --> T
+U -- Yes --> V[+1 to L2 Streak]
+V --> W{Streak = 3?}
+W -- No --> T
+W -- Yes --> X[Earn Token + NFT Level 2 Unlocked]
+X --> Y[Access Level 3 - Inner Child Room]
 
-%% Weekly Scaling Requirement
-C --> K[Next Token Requires 1 Extra Game Streak]
-K --> B
+%% Level 3: Inner Child Loop
+Y --> Z[Start Inner Child Game]
+Z --> AA{Game Completed?}
+AA -- No --> Z
+AA -- Yes --> AB[+1 to L3 Streak]
+AB --> AC{Streak = 3?}
+AC -- No --> Z
+AC -- Yes --> AD[Earn Token + NFT Level 3 Unlocked]
+
+%% Mastery Loop
+AD --> AE[Mastery Achieved]
+AE --> AF[Redeem NFTs for Discounted Practitioner Sessions or Replay Game Levels]
+
+%% Guest Access
+G --> AG[Explore as Guest (Limited Mode)]
+
 ```
 
----
-**Developer Notes:**
-- Players must complete **3 consecutive successful plays** to earn a token.
-- Each **week**, the token requirement increases by one set (e.g. 3 games → 6 → 9), promoting skill mastery.
-- NFTs are **non-transferrable badges** and act as keys to unlock future levels **and** redeem professional services.
-- Missed sessions reset the streak. Progress is non-linear but rewards commitment.
+<!--  
+HypnoNeuro – NFT Unlock Logic Diagram  
+Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.
 
----
-**Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.**
+Developer Note:  
+This flow governs how players progress through self-guided game-based healing and earn NFTs.  
+Players must complete 3 consecutive game completions within each level (L1–L3) to earn a token and unlock a corresponding NFT.  
+
+NFTs are NOT cosmetic. They are **functional credentials** that unlock **real-world practitioner discounts**:
+
+- NFT Level 1 (Hypnosis Room Completion): 3% discount on services  
+- NFT Level 2 (Mental Wellness Room Completion): 6% discount  
+- NFT Level 3 (Inner Child Room Completion): 9% discount  
+
+NFTs can be redeemed inside the app to book **professional sessions with certified providers** at reduced rates.  
+Players who fail to complete the 3-game streak must restart that loop from the beginning. This models behavioral consistency and reward reinforcement.
+-->
+<!--  
+HypnoNeuro — Intellectual Property Statement  
+Copyright © 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.
+
+This content, design flow, logic structure, and therapeutic gamification sequence  
+are the sole intellectual property of Dr. Meg Montañez-Davenport and HypnoNeuro.  
+No portion of this document may be reused, duplicated, tokenized, commercialized,  
+or repurposed without express written consent.
+
+All rights reserved under applicable international copyright and IP law.  
+Violators will be prosecuted to the fullest extent permitted by law.
+-->
