@@ -2,8 +2,7 @@
   <img src="https://github.com/Where-Mental-Wellness-Meets-Metaverse/HypnoNeuro/raw/main/nfts/images/Mind_Elevation_NFT.png" alt="Mind Elevation NFT - L2" width="400"/>
 </p>
 
-
-# HypnoNeuro™ NFT Logic & Deployment 
+# HypnoNeuro™ NFT Logic & Deployment
 
 This module defines the logic, structure, and purpose of the NFTs within the HypnoNeuro™ ecosystem. Each NFT corresponds to a level of therapy progression completed via gameplay and unlocks practitioner discounts as rewards for consistency and mastery.
 
@@ -19,7 +18,7 @@ HypnoNeuro NFTs are **non-transferable utility tokens** that represent a player'
 | L2    | Mental Wellness Room  | 3 additional consecutive plays | NFT Level 2  | 6%                    |
 | L3    | Inner Child Room      | 3 additional consecutive plays | NFT Level 3  | 9%                    |
 
-**To unlock each NFT:**
+To unlock each NFT:
 - Complete 3 consecutive sessions of the current game level.
 - Streak resets if a game is skipped or failed.
 - Each NFT is tied to one account and unlocks permanent access to the next therapy level.
@@ -29,8 +28,7 @@ HypnoNeuro NFTs are **non-transferable utility tokens** that represent a player'
 ## 🔁 Mastery Loop Rationale
 
 This system reinforces therapeutic consistency.  
-It mimics practitioner readiness:
-
+It mimics practitioner readiness:  
 > *“If a player can show up for themselves three times, they’re likely ready to show up with a therapist.”*
 
 NFTs are redeemed **inside the game** for discounted access to **book real-life sessions** via EncryptHealth.
@@ -40,28 +38,24 @@ NFTs are redeemed **inside the game** for discounted access to **book real-life 
 ## 🧩 Flowchart Diagram
 
 The full logic structure is visualized in the following flowchart:  
-📄 open nfts/README.md
+📄 [`nft_unlock_logic.md`](./nft_unlock_logic.md)
 
 ---
 
 ## 🔧 Smart Contract Deployment (Developer Note)
 
-NFTs will be deployed using the [Hardhat Config](hardhat.config.js) in this repo for the HypnoNeuro NFT deployment framework.
-
-
-Typical contract deployment command:
+NFTs are deployed using the Hardhat configuration in this repo.
 
 ```bash
 npx hardhat run scripts/deploy.js --network sepolia
-```
 
 ---
 
-## ⚠️ Legal & Licensing
+## 🛡️ Reserved Rights
 
-All smart contracts, flow logic, visuals, and branding are protected intellectual property.
+All NFTs, smart contract logic, flowcharts, gameplay mechanisms, and associated materials are the exclusive property of HypnoNeuro™.
 
-NFT issuance, branding, and unlock logic are reserved for HypnoNeuro™ and its authorized partners.
+Reproduction, resale, or modification without written permission is strictly prohibited.  
+Use is limited to authorized partners, practitioners, and players within the HypnoNeuro ecosystem.
 
-© 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.  
-This module and all associated smart contracts, visuals, and logic are confidential and proprietary to the HypnoNeuro™ mental wellness platform.
+© 2025 Dr. Meg Montañez-Davenport. All Rights Reserved.
