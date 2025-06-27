@@ -73,4 +73,3 @@ This structure integrates with:
 ---
 
 **“Routine is medicine. Play makes it possible.”**
-
