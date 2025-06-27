@@ -59,7 +59,10 @@ To help users **reignite motivation and build momentum** by completing a flossin
 
 ## ⚖️ Systemic Insight
 
-> Stimulants and antipsychotics for dopamine-related conditions are associated with **dependency and adverse outcomes in FAERS data (2020–2024)**. This module provides a **safe, consistent way to support dopamine activation through micro-actions.**
+## ⚖️ Systemic Insight
+
+> FAERS data (2020–2024) shows that stimulant and antipsychotic medications, often prescribed for dopamine-related challenges, are associated with a significant number of overdose and death reports. This module offers a safe, non-pharmaceutical alternative to support dopamine pathways naturally through consistent micro-actions.
+
 
 ---
 
