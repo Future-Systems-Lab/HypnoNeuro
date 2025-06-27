@@ -52,8 +52,8 @@ This module is part of a **neurotransmitter-aligned progression**:
 | Room Level | Neurotransmitter | Rationale |
 |------------|------------------|-----------|
 | **L1**     | **Serotonin**    | Highest prescriptions and suicide rates (SSRIs) |
-| **L2**     | **Dopamine**     | Motivation loss; drug-related deaths |
-| **L3**     | **GABA**         | Anxiety + sedation/overdose risks |
+| **L2**     | **GABA**         | 2nd highest medication-related death rate (e.g., benzodiazepine class); linked to sedation, anxiety, and withdrawal risk |
+| **L3**     | **Dopamine**     | Motivation loss, substance use relapse, and behavioral disengagement |
 
 ---
 
