@@ -1,7 +1,7 @@
 # 🦷 Level 1 – Tongue + Floss (GABA System Entry)
 
 **Module:** Tooth Tamer  
-**Folder Path:** "dental_neuro_levels/L3_GABA/Tooth_Tamer/gaba_L3_tongue_floss.md"
+**Folder Path:** dental_neuro_levels/L3_GABA/Tooth_Tamer/gaba_L3_tongue_floss.md
 
 
 ---
