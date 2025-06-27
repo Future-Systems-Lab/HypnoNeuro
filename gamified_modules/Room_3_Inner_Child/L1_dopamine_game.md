@@ -1,22 +1,20 @@
 # Room_3_Inner_Child / L1_dopamine_game.md
 
 © 2025 Dr. Meg Montañez-Davenport and HypnoNeuro™. All rights reserved.
+
 All text, structure, therapeutic frameworks, and gamified system designs contained in this document are **strictly protected intellectual property**. Reproduction, distribution, adaptation, reverse engineering, or use in any form is strictly prohibited without explicit written permission from Dr. Meg Montañez-Davenport. Violators will be prosecuted under applicable intellectual property and trade secret laws.
 
----
 
-## 🧸 Level 1 – Inner Child Room: Dopamine & Small Wins
+## 👚 Level 1 – Personal Care: Changing Clothes & Dopamine Activation
 
 **Neurotransmitter Focus:** Dopamine  
-**Theme:** Rebuilding motivation and reward pathways through inner child connection and micro-success actions.
+**Theme:** Building motivation and forward movement through the simple, achievable act of changing clothes during mental health recovery.
 
 ---
 
 ## 🎯 Objective
 
-To help users **rebuild motivation, self-trust, and reward pathways disrupted during trauma and mental health crises** using inner child connection and simple, achievable micro-actions that support dopamine activation.
-
-**Stimulants and antipsychotics, used for dopamine-related conditions, are linked with dependency, motivational collapse, and deaths in FAERS data (2020–2024).** This module offers a **safe, non-pharma alternative** to support dopamine pathways through micro-successes.
+To help users **rebuild motivation and self-activation** by turning the simple act of changing clothes into a dopamine-supporting micro-success ritual.
 
 ---
 
@@ -40,31 +38,23 @@ To help users **rebuild motivation, self-trust, and reward pathways disrupted du
 | 5 | Pop-up: “Small wins → Dopamine → Motivation” | Connects science to action |
 | 6 | IRL Prompt: “Put on a fresh shirt today.” | Connects game to action |
 
-- **Dopamine fuels motivation, focus, and goal-directed behavior.**
-- Trauma disrupts dopamine reward circuits and self-activation.
-- Inner child nurturing combined with micro-actions helps rebuild dopamine pathways safely.
-- Small, consistent wins restore motivation without external pressure.
+
+- **Dopamine supports motivation, focus, and reward.**
+- Trauma and depression can lead to neglect of personal hygiene.
+- Changing clothes is an easy, non-overwhelming micro-action to stimulate dopamine safely.
 
 ---
 
-## 🎮 Gameplay: “Small Wins, Big You”
+## 🎮 Gameplay: “Fresh Start”
 
 | Stage | In-Game Action | Purpose |
 |-------|----------------|---------|
-| 1 | Avatar sees younger self looking discouraged | Builds inner child connection |
-| 2 | Player selects a micro-task (brushing hair, putting on socks, sipping water) | Builds choice and agency |
-| 3 | Breath cue: “Inhale... Exhale as you complete your task.” | Adds mindfulness |
-| 4 | Avatar and child avatar brighten with a warm glow | Visual dopamine reinforcement |
+| 1 | Avatar looks disheveled and low energy | Represents current state |
+| 2 | User selects an outfit for the avatar | Builds agency and choice |
+| 3 | Breath cue: “Inhale... Exhale as you change.” | Adds mindfulness |
+| 4 | Avatar brightens, posture improves | Visual dopamine reward |
 | 5 | Pop-up: “Small wins → Dopamine → Motivation” | Connects science to action |
-| 6 | IRL Prompt: “Do one small task today to celebrate yourself.” | Connects game to real action |
-
----
-
-## 🌿 Trauma-Informed Approach
-
-✅ Gentle, encouraging environment.  
-✅ No punishment for skipped steps.  
-✅ Emphasis on consistency and micro-success.
+| 6 | IRL Prompt: “Put on a fresh shirt today.” | Connects game to action |
 
 
 ---
@@ -89,6 +79,7 @@ To help users **rebuild motivation, self-trust, and reward pathways disrupted du
 | IRL Prompt          | Encourages real-world motivation tasks   |
 
 
+
 ---
 
 ## ⚖️ Systemic Insight (FAERS Context)
@@ -104,4 +95,5 @@ To help users **rebuild motivation, self-trust, and reward pathways disrupted du
 ---
 
 **“Dopamine is built with each small win you give yourself.”**
+
 
