@@ -20,7 +20,6 @@ To support users in rebuilding daily rhythms often lost during mental health cri
 This module reframes tongue cleaning as mental hygiene, linking inflammation reduction and vagal activation to improved GABA signaling, providing users with a tangible, calming daily practice during recovery.
 
 
-
 ---
 
 ## 🧠 Rationale
