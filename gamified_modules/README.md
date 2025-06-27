@@ -1,7 +1,6 @@
-
 # 🕹️ HypnoNeuro Gamified Modules
 
-Welcome to the **HypnoNeuro Gamified Modules** repository, powering **decentralized, trauma-informed mental wellness** through structured micro-actions, gamified engagement, and real-life translation.
+Welcome to the **HypnoNeuro Gamified Modules** repository, powering **trauma-informed, decentralized mental wellness** through structured micro-actions, gamified engagement, and real-life translation.
 
 These modules help users move from **inertia to momentum** by completing **tiny, actionable tasks** within immersive gameplay, paired with neuroscience-backed protocols.
 
@@ -11,11 +10,13 @@ These modules help users move from **inertia to momentum** by completing **tiny,
 
 - **Level 1, Level 2, Level 3 gamified modules**
 - Each level includes:
-  - **Room 1:** Hypnosis + Personal Care
-  - **Room 2:** Orthomolecular Nutrition Micro-Actions
-  - **Room 3:** Inner Child Integration + Reflection
-
-All modules are designed to help users **build structured routines essential for recovery**, using gamified micro-actions that target serotonin, GABA, and dopamine to support emotional stability, calm, and motivation.
+  - **Room 1:** Hypnosis + Oral/Personal Care
+  - **Room 2:** Orthomolecular Nutrition Actions
+  - **Room 3:** Personal Care + Inner Child Integration
+- Each room targets:
+  - **Serotonin:** Routine, structure, stability  
+  - **GABA:** Calm, safety, anxiety reduction  
+  - **Dopamine:** Motivation, small wins, momentum
 
 ---
 
@@ -33,9 +34,9 @@ Millions struggle to brush their teeth, shower, or eat well during mental health
 
 ## ⚖️ Trauma-Informed & Science-Backed
 
-- **Trauma-Informed:** Gentle, non-shaming, supportive micro-actions.
-- **Orthomolecular Integration:** Uses nutrition and lifestyle practices to support mental wellness.
-- **FAERS-Driven Rationale:** Highlights the limitations of conventional medication cycles, offering safe, supportive alternatives.
+- **Trauma-Informed:** No shame, no punishment, gentle consistency.  
+- **Orthomolecular Integration:** Supports neurotransmitters naturally through nutrition.  
+- **FAERS-Driven Rationale:** Addresses adverse outcomes associated with psychiatric medications by providing safe, supportive alternatives.
 
 ---
 
@@ -66,7 +67,7 @@ In future versions, players will be able to **upload a teeth scan or intraoral p
 
 Practitioner integration will also offer **custom holistic care plans rooted in naturopathic methodologies**, which may incorporate **lab-informed insights to support nutrition and lifestyle optimization for mental wellness and overall health**.
 
-This is **not medical nutrition therapy, nor is it intended to diagnose, treat, or cure disease**. Rather, it aligns with the original meaning of “Doctor” as “Teacher,” empowering users with **educational guidance on how holistic nutrition and lifestyle practices can support both mental and physical well-being simultaneously**.
+> This is **not medical nutrition therapy, nor is it intended to diagnose, treat, or cure disease**. Rather, it aligns with the original meaning of “Doctor” as “Teacher,” empowering users with **educational guidance on how holistic nutrition and lifestyle practices can support both mental and physical well-being simultaneously**.
 
 This **hybrid approach bridges gamified self-care with professional guidance**, advancing comprehensive, preventive wellness within the HypnoNeuro ecosystem.
 
@@ -91,20 +92,3 @@ All text, frameworks, therapeutic models, and gamified logic within this reposit
 ---
 
 **“Small wins, layered daily, build momentum and heal the mind.”**
-
-# HypnoNeuro Gamified Modules
-
-Explore trauma-friendly, executive-function-safe minigames:
-
-- [🧼 Laundry Loop](./laundry_loop.md)
-- [🥗 Meal & Mood Match](./meal_mood_match.md)
-- [🚿 Shower Sequence](./shower_sequence.md)
-- [🧹 Tidy Room Reset](./tidy_room_reset.md)
-
-## 🔐 Rights Reserved
-
-Nutrition Loop™ – Mood Meals and all associated designs are proprietary to **HypnoNeuro™**.  
-© 2025 Dr. Meg Montañez-Davenport. *All rights reserved. Use or adaptation without written consent is prohibited.*
-
----
-
