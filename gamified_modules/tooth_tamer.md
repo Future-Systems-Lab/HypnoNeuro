@@ -1,130 +1,78 @@
-# 🪥 Tooth Tamer — Dental Mini-Quest  
-**Therapy Tier:** Level 1 – Hypnosis Room | **Neurotransmitter Focus:** Dopamine (motivation & reward)
+## 🪥 Tooth Tamer — Dental Mini-Quest (Level 1 – Hypnosis Room)
+
+*A trauma-informed hygiene loop to restore daily self-care through guided oral health practices.*
 
 ---
 
-## 🧠 Therapeutic Rationale
+### 🧠 Why Brushing Is Hard
 
-Brushing teeth can feel futile or exhausting for users in depressive or trauma states.  
-Simulating the routine inside a game:
+Brushing teeth may seem simple — but for individuals in mental health crisis or neurochemical imbalance, it can feel futile, overwhelming, or disconnected from outcome. Shame, fatigue, sensory overload, or executive dysfunction often get in the way.
 
-1. Lowers the activation energy required to start.  
-2. Converts micro-actions into immediate dopamine rewards.  
-3. Builds repetition → mastery loops that carry over to real life.  
-
-> **Why dopamine?** Small, timed rewards for every correct brush stroke keep the
-> brain’s motivation circuitry engaged, turning “just 2 mins” into a meaningful win.
+**Tooth Tamer** transforms oral care into a guided micro-quest that reinforces identity, health autonomy, and nervous system safety.
 
 ---
 
-## 🎮 Level-by-Level Design
+### 🎮 Gameplay: Level 1 – Brushing Routine
 
-| Level | Gameplay Focus | IRL Transfer | Education Call-outs |
-|-------|----------------|--------------|---------------------|
-| **L1 (Demo)** | **Watch & Mirror** an avatar using an **electric round-head toothbrush** — 1 min per arch (Upper Right ➡ Upper Left ➡ Lower Left ➡ Lower Right).<br>Facials first, then linguals. | User mimics movements at home in real time.<br>*Prompt:* “Match the circles you see on-screen.” | Voice-over explains that **bleeding gums are open portals** to the bloodstream and that the “fuzzy film” on teeth/tongue is a living biofilm that can travel mouth → heart → brain each heartbeat. |
-| **L2 (Skill Upgrade)** | Adds **gentle tongue-scraper mini-game** after brushing. | User cleans tongue IRL. | Mentions taste-bud clarity & breath benefits; warns about harmful bacteria reservoirs. |
-| **L3 (Expert)** | Introduces **flossing rhythm challenge**: player taps/holds to guide floss in a **C-shape under the gumline** around each tooth (C-loop subgingival technique). | User flosses **two real contacts** while the avatar performs a full-mouth demo. | Voice-over explains that floss must “hug the tooth like a letter C” to sweep under the gums, not just snap between contacts. |
-
----
-
-### 🔥 Bonus Craft Station (Optional Side Quest)
-
-*Unlocks after first complete weekly streak.*
-
-- Learn to make **natural toothpaste** (baking soda + xylitol + peppermint oil).  
-- Explains avoidance of SLS, triclosan, and other endocrine disruptors that may interfere with neurotransmitter balance.
+| Stage | Gameplay Action | Therapeutic Purpose |
+|-------|------------------|----------------------|
+| **Spawn** | Avatar appears in a misty bathroom mirror | Establishes daily rhythm cue |
+| **Start Routine** | Avatar uses a **round-head electric toothbrush** | Models trauma-informed pacing |
+| **Guided Path** | Brushing begins at **upper right quadrant** (1–5), then upper front, then upper left | Encourages posterior access first |
+| **Instructional Prompts** | Narration explains the importance of gum-level care, angle, pressure | Educates gently on oral-systemic health |
+| **Neuro-Informed Voiceovers** | Explains how **bleeding gums = direct bloodstream entry** for bacteria | Creates urgency without shame |
+| **IRL Cue** | "Try brushing just your upper right quadrant for 60 seconds." | Bridges in-game to real-world behavior |
 
 ---
 
-## 🏆 Reward & Token Logic
+### 🧪 Educational Integration
 
-| Action | Reward |
-|--------|--------|
-| Finish L1 demo (2-min brush) | +1 Hygiene Token |
-| 3 consecutive L1 completions | **Clean-Streak × 3**  → *Token A* → **NFT Lv 1 (3 % discount)** |
-| Complete all three levels in a week | *Token B* → **NFT Lv 2 (6 % discount)** |
-| Weekly streak requirement escalates **3 → 6 → 9** to encourage mastery. |
-| Missed day resets streak but never removes earned tokens. |
-
-Tokens deposit to the user’s **HNT wallet**; NFTs unlock higher therapy rooms and practitioner discounts.
+- Users learn that **biofilm and tongue coating** harbor bacteria that cycle from **mouth → bloodstream → heart → brain**.
+- This repeated exposure can affect **inflammation, mood, immunity**, and even cognition.
+- Real-time brushing by the avatar syncs with **breath** and **neuro-soothing narration**.
 
 ---
 
+### 🧼 Personalized Adaptations (Coming Soon)
 
-##### 🦷 Personalized IRL Prompt (L1)
-
-> **Step 1 – Scan Your Smile:**  
-> *“Snap one clear photo of your upper teeth. The game will auto-map the surfaces you still have — skipping missing teeth and respecting crowns or implants.”*  
-
-**Why?**  
-- Not every player has all 32 teeth; numbers can confuse or shame.  
-- A quick photo lets the AI avatar build a realistic 3-D “mouth map.”  
-- Data is **locally encrypted**, then abstracted into an *“arch timeline”* (no raw photo stored on-chain).
+- Avatar maps adapt to user-uploaded photos of their mouth.
+- Identifies missing teeth, restorations, or bridges.
+- Suggests gentle, **natural products** tailored to the user's dentition.
+- Avoids all animal-derived products and harsh chemicals linked to neurotransmitter disruption.
 
 ---
 
-#### 🤖 How It Works
+### 🔒 Privacy & Use
 
-| Phase | Action | Benefit |
-|-------|--------|---------|
-| **Capture** | Smartphone cam snaps upper arch; on-device ML detects each tooth, restoration, or gap. | Personalizes brushing zones. |
-| **Map** | Algorithm builds a **surface heat map** — highlighting high-plaque risk areas. | Sets the avatar’s brush-order path. |
-| **Sync** | Avatar mirrors *exactly* the user’s dentition: missing teeth are skipped, crowns flagged for gentler pressure. | Avoids confusion & increases compliance. |
+Images used for dental map customization are local-only and anonymized.
+Data may be used in aggregate to suggest **naturopathic oral support**, not for clinical diagnosis.
 
 ---
 
-### 🦷 Adaptive Brushing Path
+### 🔁 Level 2 & 3 Roadmap
 
-1. **High-risk quadrant first** (posterior surfaces flagged as “red”)  
-2. **Moderate-risk** (yellow)  
-3. **Low-risk** (green)  
-
-Each completed zone triggers a **celebratory particle burst** and verbal praise:  
-*“Pressure perfect — plaque defeated!”*
+| Level | Focus | Example Gameplay |
+|-------|-------|------------------|
+| **L2** | Tongue Cleaning | Avatar scrapes tongue, explains detox pathways |
+| **L3** | Floss Mastery | C-loop subgingival flossing mini-game with rhythm-based timing |
 
 ---
 
-### 🌿 Naturopathic Care Suggestions
+### 🧱 Future Integration — Tooth Restoration Module
 
-After the scan, the module surfaces **plant-based oral-care tips** matching the player’s needs:
-
-| Condition Detected | Naturopathic Method | Mini-Tutorial |
-|--------------------|---------------------|---------------|
-| Frequent bleeding | **Rinses:** warm salt + thyme tea | 30-sec rinse animation |
-| Visible calculus | **Oil pulling** with sesame or coconut | 1-min swish demo |
-| Acid-wear risk | **Mineral paste** (calcium carbonate + xylitol) | Mix-your-own mini-game |
-
-All suggestions emphasize **non-fluoride, non-animal, SLS-free** solutions.
+In later levels, users will unlock:
+- Avatar-based **tooth replacement simulations**  
+- Gentle education on **restoration options** (biocompatible and non-invasive)
+- Explanations on how **chewing supports neurotransmitter function, digestion, and mood**
+- Emotional reinforcement of **identity restoration** and **self-worth**
 
 ---
 
-### 🔐 Privacy & Data
+### 🧘 Why It Matters
 
-- Photos never leave the user’s device; only anonymized tooth-surface vectors are stored.  
-- Users must opt-in and can delete the scan at any time.  
-- No biometric data is written on-chain.
+> “Healing starts with reclaiming the mouth — the gateway to the nervous system.”
 
 ---
 
-🎉 **Every custom pass you finish becomes a milestone** — no matter how many teeth remain.
+© 2025 Dr. Meg Montañez Davenport. HypnoNeuro™, Tooth Tamer™, and all associated materials are rights-reserved and may not be reproduced or adapted without explicit permission.
 
-
----
-
-## 📚 Key Educational Messages
-
-1. **Bleeding gums = blood-stream gateway.**  
-2. **Biofilm = bacterial city** that circulates if not mechanically removed.  
-3. **Consistent 2-min sessions** beat occasional deep cleans.  
-4. **Natural formulas** avoid chemical foaming agents that can irritate the mouth–brain axis.
-
----
-
-## 🔐 Rights Reserved
-
-Tooth Tamer™, HypnoNeuro™, and all related mechanics are proprietary to **HypnoNeuro™**.  
-© 2025 Dr. Meg Montañez-Davenport. *All rights reserved. No reproduction or adaptation without written permission.*
-
----
-
-**“A clearer mouth, a clearer mind.”**
