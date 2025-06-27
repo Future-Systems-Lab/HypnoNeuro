@@ -1,7 +1,8 @@
 # 🦷 Level 1 – Tongue + Floss (GABA System Entry)
 
 **Module:** Tooth Tamer  
-**Folder Path:** `L1_GABA/Tooth_Tamer/gaba_L1_tongue_floss.md`
+
+
 
 ---
 
