@@ -50,10 +50,64 @@ Tokens deposit to the user’s **HNT wallet**; NFTs unlock higher therapy rooms 
 
 ---
 
-## 🚪 In-Game → Real-Life Prompts
 
-*“Try brushing just your front teeth while the avatar does a full pass.”*  
-*“Pause here and scrape your tongue once — then hit ▶️ to continue.”*
+##### 🦷 Personalized IRL Prompt (L1)
+
+> **Step 1 – Scan Your Smile:**  
+> *“Snap one clear photo of your upper teeth. The game will auto-map the surfaces you still have — skipping missing teeth and respecting crowns or implants.”*  
+
+**Why?**  
+- Not every player has all 32 teeth; numbers can confuse or shame.  
+- A quick photo lets the AI avatar build a realistic 3-D “mouth map.”  
+- Data is **locally encrypted**, then abstracted into an *“arch timeline”* (no raw photo stored on-chain).
+
+---
+
+#### 🤖 How It Works
+
+| Phase | Action | Benefit |
+|-------|--------|---------|
+| **Capture** | Smartphone cam snaps upper arch; on-device ML detects each tooth, restoration, or gap. | Personalizes brushing zones. |
+| **Map** | Algorithm builds a **surface heat map** — highlighting high-plaque risk areas. | Sets the avatar’s brush-order path. |
+| **Sync** | Avatar mirrors *exactly* the user’s dentition: missing teeth are skipped, crowns flagged for gentler pressure. | Avoids confusion & increases compliance. |
+
+---
+
+### 🦷 Adaptive Brushing Path
+
+1. **High-risk quadrant first** (posterior surfaces flagged as “red”)  
+2. **Moderate-risk** (yellow)  
+3. **Low-risk** (green)  
+
+Each completed zone triggers a **celebratory particle burst** and verbal praise:  
+*“Pressure perfect — plaque defeated!”*
+
+---
+
+### 🌿 Naturopathic Care Suggestions
+
+After the scan, the module surfaces **plant-based oral-care tips** matching the player’s needs:
+
+| Condition Detected | Naturopathic Method | Mini-Tutorial |
+|--------------------|---------------------|---------------|
+| Frequent bleeding | **Rinses:** warm salt + thyme tea | 30-sec rinse animation |
+| Visible calculus | **Oil pulling** with sesame or coconut | 1-min swish demo |
+| Acid-wear risk | **Mineral paste** (calcium carbonate + xylitol) | Mix-your-own mini-game |
+
+All suggestions emphasize **non-fluoride, non-animal, SLS-free** solutions.
+
+---
+
+### 🔐 Privacy & Data
+
+- Photos never leave the user’s device; only anonymized tooth-surface vectors are stored.  
+- Users must opt-in and can delete the scan at any time.  
+- No biometric data is written on-chain.
+
+---
+
+🎉 **Every custom pass you finish becomes a milestone** — no matter how many teeth remain.
+
 
 ---
 
