@@ -1,4 +1,5 @@
-# 🪥 Tooth Tamer — Dental Mini-Quest (Level 1 – Serotonin Focus)
+
+# 🦷 Level 1 – Tooth Tamer (Serotonin System Entry)
 
 A Level 1 Hypnosis Room module supporting **serotonin balance** through trauma-informed oral hygiene routines.
 
