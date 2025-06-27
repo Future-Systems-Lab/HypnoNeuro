@@ -23,7 +23,7 @@ Simulating the routine inside a game:
 |-------|----------------|--------------|---------------------|
 | **L1 (Demo)** | **Watch & Mirror** an avatar using an **electric round-head toothbrush** — 1 min per arch (Upper Right ➡ Upper Left ➡ Lower Left ➡ Lower Right).<br>Facials first, then linguals. | User mimics movements at home in real time.<br>*Prompt:* “Match the circles you see on-screen.” | Voice-over explains that **bleeding gums are open portals** to the bloodstream and that the “fuzzy film” on teeth/tongue is a living biofilm that can travel mouth → heart → brain each heartbeat. |
 | **L2 (Skill Upgrade)** | Adds **gentle tongue-scraper mini-game** after brushing. | User cleans tongue IRL. | Mentions taste-bud clarity & breath benefits; warns about harmful bacteria reservoirs. |
-| **L3 (Expert)** | Introduces **flossing rhythm challenge** (tap/hold to move floss between contacts). | User flosses two contacts IRL while avatar finishes the set. | Demonstrates interdental biofilm removal and how it *doubles* surface area cleaned. |
+| **L3 (Expert)** | Introduces **flossing rhythm challenge**: player taps/holds to guide floss in a **C-shape under the gumline** around each tooth (C-loop subgingival technique). | User flosses **two real contacts** while the avatar performs a full-mouth demo. | Voice-over explains that floss must “hug the tooth like a letter C” to sweep under the gums, not just snap between contacts. |
 
 ---
 
