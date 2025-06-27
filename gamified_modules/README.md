@@ -53,8 +53,7 @@ All modules and protocols within this repository are **guided and overseen by:**
 ✅ Health Informatics & Blockchain Integration (Johns Hopkins & Blockchain Council)  
 ✅ Healthcare Data Scientist and Founder of HypnoNeuro
 
-This ensures all modules are **professionally informed, clinically aligned, and built to advance decentralized, gamified healing with professional oversight.**
-
+This ensures all modules are expertly guided, evidence-based, and designed to advance decentralized, gamified healing with professional oversight.
 ---
 
 ## 🩺 Practitioner Integration (Future Feature)
