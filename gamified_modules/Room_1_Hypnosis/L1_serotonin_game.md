@@ -1,17 +1,16 @@
 
 # Room_1_Hypnosis / L1_serotonin_game.md
 
-
 © 2025 Dr. Meg Montañez-Davenport and HypnoNeuro™. All rights reserved.
 
 All text, structure, therapeutic frameworks, and gamified system designs contained in this document are **strictly protected intellectual property**. Reproduction, distribution, adaptation, reverse engineering, or use in any form is strictly prohibited without explicit written permission from Dr. Meg Montañez-Davenport. Violators will be prosecuted under applicable intellectual property and trade secret laws.
 
 ---
 
-## 🌀 Level 1 – Hypnosis Room: Serotonin & Brushing Teeth
+## 🪥 Level 1 – Hypnosis Room: Brushing Teeth & Serotonin Activation
 
-**Neurotransmitter Focus:** Serotonin
-**Theme:** Rebuilding stability and calm through daily oral care paired with mindfulness.
+**Neurotransmitter Focus:** Serotonin  
+**Theme:** Building structure, routine, and stability through a brushing teeth ritual paired with calming hypnosis to start or end the day.
 
 ---
 
@@ -30,6 +29,7 @@ To help users re-establish **daily dental care routines often lost during mental
 - Depression disrupts daily self-care habits like brushing teeth.
 - Brushing teeth at consistent times paired with calming hypnosis builds structure, stabilizes serotonin, and provides a daily win.
 - Consistency builds confidence and micro-motivation to expand into other self-care.
+
 
 ---
 
@@ -57,31 +57,33 @@ To help users re-establish **daily dental care routines often lost during mental
 * Brushing teeth daily reduces oral bacteria that release **lipopolysaccharides (LPS)**, which can increase systemic inflammation and lower serotonin synthesis.
 * **FAERS data (2020–2024)** shows **SSRIs are the top drug class associated with suicide-related deaths and adverse events**, emphasizing the need for non-pharmaceutical serotonin support.
 
----
-
-## 🎮 Gameplay: “Tooth Tamer: Routine Reboot”
-
-| Stage | In-Game Action                                                            | Purpose                             |
-| ----- | ------------------------------------------------------------------------- | ----------------------------------- |
-| 1     | Avatar enters dim bathroom                                                | Reflects depression-related neglect |
-| 2     | Tap to select toothbrush and natural toothpaste                           | Builds agency and micro-choice      |
-| 3     | Swipe to brush teeth while following a breathing prompt                   | Pairs mindfulness with action       |
-| 4     | Educational pop-up: “Oral bacteria → inflammation → serotonin disruption” | Explains the link                   |
-| 5     | Avatar’s reflection brightens as teeth are cleaned                        | Visual serotonin reward             |
-| 6     | IRL prompt: “Brush for 30 seconds while breathing slowly.”                | Links game to real-life action      |
 
 ---
 
-## 🪥 Trauma-Informed Approach
+## 🎮 Gameplay: “Morning Spark / Evening Calm”
 
-* Non-punitive design; skipped actions do not lead to punishment.
-* Calm visuals and audio cues reduce overwhelm.
-* Emphasizes **small, consistent wins over perfection.**
+| Stage | In-Game Action | Purpose |
+|-------|----------------|---------|
+| 1 | Avatar approaches the sink, mirror fogged | Represents mental fog |
+| 2 | User taps to brush each quadrant slowly | Builds pacing and structure |
+| 3 | Breath cue: “Inhale... Exhale while brushing.” | Adds mindfulness |
+| 4 | Mirror clears, avatar smiles, posture improves | Visual serotonin reward |
+| 5 | Pop-up: “Routine → Stability → Serotonin” | Connects science to action |
+| 6 | IRL Prompt: “Brush your teeth with slow, mindful breaths today.” | Connects game to real action |
+
+---
+
+## 🌿 Trauma-Informed Approach
+
+✅ Gentle pacing and calm visuals  
+✅ No punishment for missed actions  
+✅ Emphasis on consistency, not perfection
 
 
 ---
 
 ## 🎁 Token Earning Logic
+
 
 
 ✅ **Complete this brushing routine 3 times in a week** to earn a serotonin-system token.
@@ -101,6 +103,7 @@ To help users re-establish **daily dental care routines often lost during mental
 | IRL Prompt      | Bridges gameplay to daily life                          |
 
 
+
 ---
 
 ## ⚖️ Systemic Insight (FAERS Context)
@@ -110,7 +113,4 @@ To help users re-establish **daily dental care routines often lost during mental
 ---
 
 **“Routine heals. One brush, one breath, one day at a time.”**
----
-
-**“Serotonin thrives on structure. Brushing can be the first step back.”**
 
