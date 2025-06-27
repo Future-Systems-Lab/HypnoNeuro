@@ -16,11 +16,10 @@ All text, structure, therapeutic frameworks, and gamified system designs contain
 🎯Objective
 
 
-To support users in **rebuilding daily rhythms often lost during mental health crises** by introducing **a safe, micro-action (tongue cleaning with breathwork) that reduces oral inflammation, activates the vagus nerve, and supports natural GABA pathways**—helping to **reduce anxiety and overstimulation without pharmaceutical intervention**.
+To support users in rebuilding daily rhythms often lost during mental health crises by introducing a safe, micro-action—tongue cleaning with breathwork—to reduce oral inflammation, activate the vagus nerve, and support natural GABA pathways. This helps reduce anxiety and overstimulation while empowering users with a non-pharmaceutical tool for nervous system regulation.
 
-**Benzodiazepines, commonly prescribed for GABA support, are the second most deadly psychiatric drug class in the United States according to FAERS data (2020–2024),** with high rates of overdose, dependency, and death. This module offers a **safe, daily alternative** to support GABA and calm the nervous system through **consistent micro-actions** tied to nervous system stability and calm.
+This module reframes tongue cleaning as mental hygiene, linking inflammation reduction and vagal activation to improved GABA signaling, providing users with a tangible, calming daily practice during recovery.
 
-This module reframes **tongue cleaning as mental hygiene**, linking **inflammation reduction and vagal activation to improved GABA signaling** for users seeking non-pharma solutions during recovery.
 
 
 ---
