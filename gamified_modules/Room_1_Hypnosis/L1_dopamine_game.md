@@ -57,7 +57,6 @@ To help users **reignite motivation and build momentum** by completing a flossin
 
 ---
 
-## ⚖️ Systemic Insight
 
 ## ⚖️ Systemic Insight
 
