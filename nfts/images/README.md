@@ -16,19 +16,19 @@ This folder contains NFT artwork and related image assets for the **HypnoNeuro M
 
 - `Mind_Mastery_NFT.jpeg` – Main Mind Mastery NFT image for testing, demonstration, and NFT minting.
 - Additional NFT images will be uploaded here for:
-  - Design alignment
-  - Pre-mint analysis workflows
-  - Showcase integration
-  - Game unlock visuals
+  - Design alignment  
+  - Pre-mint analysis workflows  
+  - Showcase integration  
+  - Game unlock visuals  
 
 ## Usage
 
 These images will be referenced in **NFT metadata JSON files** during:
-- Smart contract deployment
-- IPFS pinning
-- Metadata linking
-- Stakeholder demos
-- In-game unlock display
+- Smart contract deployment  
+- IPFS pinning  
+- Metadata linking  
+- Stakeholder demos  
+- In-game unlock display  
 
 ---
 
