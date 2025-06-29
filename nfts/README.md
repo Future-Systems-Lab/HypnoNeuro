@@ -46,7 +46,8 @@ The full logic structure is visualized in the following flowchart:
 
 ## 🔧 Smart Contract Deployment (Developer Note)
 
-NFTs will be deployed using the [Hardhat](https://hardhat.org/) framework.
+NFTs will be deployed using the [Hardhat Config](hardhat.config.js) in this repo for the HypnoNeuro NFT deployment framework.
+
 
 Typical contract deployment command:
 
