@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Where-Mental-Wellness-Meets-Metaverse/HypnoNeuro/raw/main/nfts/images/Mind_Elevation_NFT.png" alt="Mind Elevation NFT - L2" width="400"/>
+
+  <img src="https://raw.githubusercontent.com/Where-Mental-Wellness-Meets-Metaverse/HypnoNeuro/main/nfts/images/Mind_Elevation_NFT.png" alt="Mind Elevation NFT - L2" width="400"/>
+
 </p>
 
 # HypnoNeuro™ NFT Logic & Deployment
@@ -14,9 +16,9 @@ HypnoNeuro NFTs are **non-transferable utility tokens** that represent a player'
 
 | Level | Room                  | Requirement                    | NFT Unlock   | Practitioner Discount |
 |-------|------------------------|--------------------------------|--------------|------------------------|
-| L1    | Hypnosis Room         | 3 consecutive plays            | NFT Level 1  | 3%                    |
-| L2    | Mental Wellness Room  | 3 additional consecutive plays | NFT Level 2  | 6%                    |
-| L3    | Inner Child Room      | 3 additional consecutive plays | NFT Level 3  | 9%                    |
+| L1    | Hypnosis Room         | 3 consecutive plays            | NFT Level 1  | 3%                     |
+| L2    | Mental Wellness Room  | 3 additional consecutive plays | NFT Level 2  | 6%                     |
+| L3    | Inner Child Room      | 3 additional consecutive plays | NFT Level 3  | 9%                     |
 
 To unlock each NFT:
 - Complete 3 consecutive sessions of the current game level.
@@ -44,10 +46,11 @@ The full logic structure is visualized in the following flowchart:
 
 ## 🔧 Smart Contract Deployment (Developer Note)
 
-NFTs are deployed using the Hardhat configuration in this repo.
+NFTs are deployed using the Hardhat configuration in this repo:
 
 ```bash
 npx hardhat run scripts/deploy.js --network sepolia
+```
 
 ---
 
