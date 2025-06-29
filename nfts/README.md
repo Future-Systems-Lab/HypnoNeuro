@@ -41,7 +41,7 @@ NFTs are redeemed **inside the game** for discounted access to **book real-life 
 ## 🧩 Flowchart Diagram
 
 The full logic structure is visualized in the following flowchart:  
-📄 [`nft_unlock_logic.md`](./nft_unlock_logic.md)
+📄 open nfts/README.md
 
 ---
 
