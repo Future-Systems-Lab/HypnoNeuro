@@ -30,7 +30,8 @@ To unlock each NFT:
 ## 🔁 Mastery Loop Rationale
 
 This system reinforces therapeutic consistency.  
-It mimics practitioner readiness:  
+It mimics practitioner readiness:
+
 > *“If a player can show up for themselves three times, they’re likely ready to show up with a therapist.”*
 
 NFTs are redeemed **inside the game** for discounted access to **book real-life sessions** via EncryptHealth.
