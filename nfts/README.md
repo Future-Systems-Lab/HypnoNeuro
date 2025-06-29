@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Where-Mental-Wellness-Meets-Metaverse/HypnoNeuro/main/nfts/images/Mind_Elevation_NFT.png" alt="Mind Elevation NFT - L2" width="400"/>
 </p>
 
-# HypnoNeuro™ NFT Logic & Deployment
+# HypnoNeuro™ NFT Logic & Deployment 
 
 This module defines the logic, structure, and purpose of the NFTs within the HypnoNeuro™ ecosystem. Each NFT corresponds to a level of therapy progression completed via gameplay and unlocks practitioner discounts as rewards for consistency and mastery.
 
