@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Where-Mental-Wellness-Meets-Metaverse/HypnoNeuro/main/nfts/images/Mind_Elevation_NFT.png" alt="Mind Elevation NFT - L2" width="400"/>
+  <img src="https://github.com/Where-Mental-Wellness-Meets-Metaverse/HypnoNeuro/raw/main/nfts/images/Mind_Elevation_NFT.png" alt="Mind Elevation NFT - L2" width="400"/>
 </p>
+
 
 # HypnoNeuro™ NFT Logic & Deployment 
 
