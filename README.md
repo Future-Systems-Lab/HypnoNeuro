@@ -1,15 +1,12 @@
-
-
-
 <p align="center">
   <img src="HypnoNeuro.jpg" alt="HypnoNeuro Logo" width="400"/>
 </p>
 
-<p align="center">
-  <img src="HypnoNeuro.jpg" alt="HypnoNeuro Logo" width="400"/>
-</p>
+## Compile Success Snapshot
 
+![Compile Success](compile-success.png)
 
+Successfully compiled 21 Solidity files with Hardhat and OpenZeppelin for the HypnoNeuro NFT MVP.
 
 # HypnoNeuro™: Where Mental Wellness Meets the Metaverse™
 
