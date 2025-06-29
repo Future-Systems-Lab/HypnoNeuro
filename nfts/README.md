@@ -41,13 +41,15 @@ NFTs are redeemed **inside the game** for discounted access to **book real-life 
 ## 🧩 Flowchart Diagram
 
 The full logic structure is visualized in the following flowchart:  
-📄 open nfts/README.md
+📄 Open: `nfts/README.md`
 
 ---
 
 ## 🔧 Smart Contract Deployment (Developer Note)
 
-NFTs are deployed using the Hardhat configuration in this repo:
+NFTs will be deployed using the [Hardhat Config](../../hardhat.config.js) in this repo for the HypnoNeuro NFT deployment framework.
+
+Typical contract deployment command:
 
 ```bash
 npx hardhat run scripts/deploy.js --network sepolia
