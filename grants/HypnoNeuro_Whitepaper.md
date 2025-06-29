@@ -1,6 +1,3 @@
-Here is a **clean, GitHub-ready markdown format** for your HypnoNeuro™ White Paper so it displays correctly in your repository:
-
----
 
 # HypnoNeuro™ White Paper
 
