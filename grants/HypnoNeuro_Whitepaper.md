@@ -1,5 +1,6 @@
 
 
+
 # HypnoNeuro™ White Paper
 
 ## Tokenized Trauma Recovery & Decentralized Mental Wellness
@@ -807,6 +808,7 @@ Tokenized Trauma Recovery & Decentralized Mental Wellness
 Where Mental Wellness Meets the Metaverse™
 
 ---
+
 
 # HypnoNeuro™ White Paper
 
