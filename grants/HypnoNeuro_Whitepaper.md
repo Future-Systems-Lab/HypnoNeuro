@@ -31,7 +31,7 @@
 
 ---
 
-## 1. Introduction
+# 1. Introduction
 
 The word **doctor** originates from the Latin *docēre*, meaning “to teach.” It is a role rooted not in authority but in education, guidance, and empowerment. The doctor’s purpose was never to dispense indefinite prescriptions but to teach patients how to heal, offering insight into how the body—and mind—recover from imbalance and illness. This legacy is enshrined in the Hippocratic Oath, which opens with the words: *first, do no harm*.
 
@@ -386,7 +386,7 @@ Initial HNT distribution balances user needs with sustainability:
 
 A portion of redeemed tokens will be burned, with the remainder recycled into incentives and practitioner payments, maintaining a healthy ecosystem.
 
-# Summary
+## Summary
 
 The HNT token structure allows HypnoNeuro to:
 
@@ -438,7 +438,7 @@ NFT ownership provides:
 
 This aligns financial and personal progress incentives while avoiding speculative NFT market pitfalls.
 
-### Summary
+## Summary
 
 HypnoNeuro’s NFT system:
 
@@ -484,7 +484,7 @@ Practitioner payment models include:
 
 De-identified practitioner session data contributes to system refinement while maintaining privacy.
 
-# Summary
+## Summary
 
 The practitioner ecosystem:
 
@@ -533,7 +533,7 @@ HypnoNeuro is committed to upholding ethical practices within its decentralized 
 
 By embedding ethics directly within governance, HypnoNeuro prevents mission drift and preserves its focus on privacy, user agency, and evidence-informed healing.
 
-# Summary
+## Summary
 
 The HypnoNeuro governance structure:
 
@@ -585,7 +585,7 @@ Additionally, HypnoNeuro maintains transparency in the system’s operation, pub
 * Updates to data management protocols.
 * Community-voted changes to moderation or safety policies.
 
-# Summary
+## Summary
 
 HypnoNeuro’s compliance, security, and ethics protocols:
 
@@ -649,7 +649,7 @@ Across a small alpha group of 50 users over a six-week pilot:
 
 These early results suggest high user acceptability and feasibility, providing a foundation for scaled deployment while validating the integration of trauma-informed, nutrient-based interventions in a gamified, privacy-first system.
 
-# Summary
+## Summary
 
 The HypnoNeuro pilot and early case studies demonstrate:
 
@@ -710,7 +710,7 @@ Aligned with grant objectives, HypnoNeuro aims to achieve:
 * Onboard 200+ practitioners within the first 12 months.
 * Facilitate a practitioner-driven community providing low-cost group sessions.
 
-#### 10.3 Sustainability and Scalability
+## 10.3 Sustainability and Scalability
 
 HypnoNeuro’s tokenomics and NFT structures support platform sustainability:
 
@@ -730,7 +730,7 @@ HypnoNeuro’s tokenomics and NFT structures support platform sustainability:
 * Ongoing integration of biometric tools (where consented) for advanced hypnotherapy adaptation.
 * Scalability through modular architecture supporting regional customization and additional therapeutic modalities.
 
-# Summary
+## Summary
 
 HypnoNeuro’s roadmap ensures:
 
@@ -774,7 +774,7 @@ We invite you to join us in advancing HypnoNeuro as a catalyst for global mental
 
 # 12. Appendices
 
-#### 12.1 Nutrient Reference Tables
+## 12.1 Nutrient Reference Tables
 
 | Nutrient            | Role in Mental Health                                                         | Food Sources                                |
 | ------------------- | ----------------------------------------------------------------------------- | ------------------------------------------- |
@@ -810,7 +810,7 @@ This table illustrates how behavioral symptom clusters align with biochemical pa
 
 These data highlight systemic issues in the current pharmaceutical-first model and underscore the need for safe, nutrient-based, and trauma-informed alternatives like HypnoNeuro.
 
-# Summary
+## Summary
 
 The Appendices provide:
 
