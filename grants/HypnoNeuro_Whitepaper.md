@@ -1,5 +1,4 @@
-
-### HypnoNeuro™ White Paper
+# HypnoNeuro™ White Paper
 
 ## Tokenized Trauma Recovery & Decentralized Mental Wellness
 
