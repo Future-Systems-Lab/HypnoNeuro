@@ -24,14 +24,6 @@ EncryptHealth is a secure Web3 backend platform for managing encrypted health re
 
 ---
 
-## 📬 Current Status
-- ✅ White papers completed (PDF)
-- ✅ Initial grant emails sent (BBRF, SAMHSA, APA Moore, Web3 Foundation)
-- 🔄 Awaiting responses
-- 🔜 Adding pitch deck and budget documents (optional)
-
----
-
 ## 📌 Legal & Attribution
 
 All content is the intellectual property of **Dr. Meg Montañez-Davenport** and **Naturopathic Psychology & Hypnosis Center®, LLC**.  
