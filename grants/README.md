@@ -18,12 +18,12 @@
 
 HypnoNeuro™ is a decentralized, gamified mental wellness platform combining:
 
-- Orthomolecular nutrient protocols
-- Trauma-informed, interactive hypnotherapy
-- Privacy-preserving, pseudonymous care
-- NFT milestone rewards
-- HNT tokenomics to replace traditional billing
-- DAO governance for user-led evolution
+- Orthomolecular nutrient protocols  
+- Trauma-informed, interactive hypnotherapy  
+- Privacy-preserving, pseudonymous care  
+- NFT milestone rewards  
+- HNT tokenomics to replace traditional billing  
+- DAO governance for user-led evolution  
 
 The platform empowers users to **learn, heal, and reclaim sovereignty** over their mental health while enabling practitioners to deliver scalable, ethical care without surveillance or stigma.
 
@@ -37,25 +37,25 @@ The platform empowers users to **learn, heal, and reclaim sovereignty** over the
 
 ## Contents
 
-1. Introduction
-2. Problem Landscape: Why the System Fails
-3. HypnoNeuro Architecture
-4. Tokenomics – HNT Utility Token
-5. NFT Healing Milestones
-6. Practitioner Ecosystem
-7. Governance & DAO Participation
-8. Compliance, Security & Ethics
-9. Case Studies & Early Results
-10. Roadmap & Outcomes
-11. Conclusion & Call to Action
-12. Appendices
+1. Introduction  
+2. Problem Landscape: Why the System Fails  
+3. HypnoNeuro Architecture  
+4. Tokenomics – HNT Utility Token  
+5. NFT Healing Milestones  
+6. Practitioner Ecosystem  
+7. Governance & DAO Participation  
+8. Compliance, Security & Ethics  
+9. Case Studies & Early Results  
+10. Roadmap & Outcomes  
+11. Conclusion & Call to Action  
+12. Appendices  
 
 ---
 
-## Contributing
+## 📌 Legal & Attribution
 
-- This repository currently houses grant-related documents for HypnoNeuro.
-- Future public contributions will be opened once HypnoNeuro transitions to open development for community features.
+- This repository currently houses grant-related documents for HypnoNeuro.  
+- Future public contributions will be opened once HypnoNeuro transitions to open development for community features.  
 
 ---
 
@@ -68,8 +68,7 @@ Content within this repository may not be reproduced or distributed without writ
 
 ## Contact
 
-For partnership, grant collaboration, or stakeholder meetings:
-
+For partnership, grant collaboration, or stakeholder meetings:  
 **Email:** [dr.meg.data.scientist@gmail.com](mailto:dr.meg.data.scientist@gmail.com)
 
 ---
