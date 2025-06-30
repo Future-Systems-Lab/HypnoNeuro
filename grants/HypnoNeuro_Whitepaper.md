@@ -31,7 +31,7 @@
 
 ---
 
-### 1. Introduction
+## 1. Introduction
 
 The word **doctor** originates from the Latin *docēre*, meaning “to teach.” It is a role rooted not in authority but in education, guidance, and empowerment. The doctor’s purpose was never to dispense indefinite prescriptions but to teach patients how to heal, offering insight into how the body—and mind—recover from imbalance and illness. This legacy is enshrined in the Hippocratic Oath, which opens with the words: *first, do no harm*.
 
@@ -336,7 +336,7 @@ The need is clear. The failures are documented. The time for an adaptive, user-l
 
 ---
 
-## 3. HypnoNeuro Architecture
+# 3. HypnoNeuro Architecture
 
 HypnoNeuro is designed as a modular, scalable, and privacy-preserving platform that integrates orthomolecular education, trauma-informed somatic interventions, and adaptive gamification to address the biochemical and psychological root causes of mental health distress.
 
@@ -394,7 +394,7 @@ Key elements include:
 
 This design preserves user privacy while ensuring transparency and accountability within the system.
 
-# Summary
+## Summary
 
 HypnoNeuro’s architecture is a fusion of decentralized identity, interactive hypnotherapy, nutrient education, adaptive gamification, and privacy-first data management. By structuring the system in this way, HypnoNeuro operationalizes its mission: providing effective, scalable, and user-led mental health care that restores biochemical balance, supports emotional healing, and respects the sovereignty of every participant.
 
