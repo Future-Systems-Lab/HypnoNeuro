@@ -52,7 +52,7 @@ The platform empowers users to **learn, heal, and reclaim sovereignty** over the
 
 ---
 
-## 📌 Legal & Attribution
+## Contributing
 
 - This repository currently houses grant-related documents for HypnoNeuro.  
 - Future public contributions will be opened once HypnoNeuro transitions to open development for community features.  
