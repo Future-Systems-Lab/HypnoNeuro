@@ -1,4 +1,4 @@
-HypnoNeuro™ White Paper
+#HypnoNeuro™ White Paper
 
 ## Tokenized Trauma Recovery & Decentralized Mental Wellness
 
@@ -14,7 +14,7 @@ HypnoNeuro™ White Paper
 
 ---
 
-## Table of Contents
+### Table of Contents
 
 1. [Introduction](#1-introduction)
 2. [Problem Landscape: Why the System Fails](#2-problem-landscape-why-the-system-fails)
@@ -55,7 +55,7 @@ This white paper critiques the current system while presenting a framework for w
 
 ---
 
-### 1.1 When Medicine Becomes Maintenance
+## 1.1 When Medicine Becomes Maintenance
 
 Medications were originally intended to act as temporary aids to support the body’s natural healing processes, not to replace them. Yet in modern psychiatry, millions remain on medications indefinitely, not because they have healed, but because they haven’t. Antidepressants, benzodiazepines, stimulants, and antipsychotics are often prescribed for years or decades with no plan for tapering, discontinuation, or biochemical restoration.
 
@@ -69,7 +69,7 @@ In a truly healing-centered model, medications would be used with clear intent, 
 
 ---
 
-### 1.2. Problem Landscape: Why the System Fails
+## 1.2. Problem Landscape: Why the System Fails
 
 The conventional psychiatric model often views chemical intervention as the default solution. Yet no medication can restore the body's natural production of neurotransmitters, nor can it resolve stored trauma that silently drives emotional dysregulation. True healing requires a biochemical and experiential reset—something pharmaceuticals are not designed to do.
 
@@ -100,7 +100,7 @@ Healing is not about masking symptoms. It is about decoding the body’s signals
 
 ---
 
-### 1.3 Why People Still Do Not Receive Care
+## 1.3 Why People Still Do Not Receive Care
 
 Despite widespread campaigns normalizing mental health awareness, most individuals experiencing emotional or psychological distress still do not receive adequate care. This is not due to a lack of suffering—but a complex matrix of logistical, cultural, financial, and systemic barriers that continue to block access at every level. User feedback during HypnoNeuro’s testing aligns with peer-reviewed studies and national surveillance data, revealing a clear pattern of disengagement driven by four primary obstacles.
 
@@ -110,7 +110,7 @@ Cost and Insurance Discrimination. Trauma-informed therapy averages between $150
 
 ---
 
-### 1.4 HypnoNeuro™ — Returning to “Doctor = Teacher”
+## 1.4 HypnoNeuro™ — Returning to “Doctor = Teacher”
 
 Medicine began as instruction. The Hippocratic tradition expected physicians to teach patients how to restore balance—through food, rest, herbs, and movement—long before the first patent drug. Modern psychiatry, however, has drifted from this lineage: medication management and diagnostic coding now eclipse mentorship and education. The patient is no longer a student of their own biology but a passive recipient of prescriptions, often without understanding the root causes of their distress.
 
@@ -122,7 +122,7 @@ In this way, the app becomes a living curriculum. It replaces fear-based complia
 
 ---
 
-### 1.5 The Nutritional Blind Spot in Psychiatric Training
+## 1.5 The Nutritional Blind Spot in Psychiatric Training
 
 A 2023 AAMC–Harvard audit revealed that U.S. medical graduates receive an average of 19.5 classroom hours of nutrition across four years, and fewer than 5% can list three amino acid precursors to the major neurotransmitters. Psychiatry residencies deliver even less. Clinicians thus graduate fluent in receptor pharmacology but nearly illiterate in the dietary chemistry that builds serotonin, dopamine, GABA, endorphins, endocannabinoids, and melatonin. This curricular void explains why prescription cascades so often replace root-cause restoration.
 
@@ -138,7 +138,7 @@ A 2023 AAMC–Harvard audit revealed that U.S. medical graduates receive an aver
 
 Few psychiatrists articulate these pathways. HypnoNeuro closes this gap by embedding micro-lessons in gameplay, teaching users how nutrients, sleep, and breath influence synaptic tone, transforming the physician’s role back to *docēre*—guiding users to mastery over their neurobiology.
 
-### 1.6 Layer-Specific Therapeutic Protocols
+## 1.6 Layer-Specific Therapeutic Protocols
 
 **Temporal Drift & Present-Moment Recalibration:**
 Depression keeps the mind in yesterday; anxiety projects fear into tomorrow, flooding the body with stress chemistry. HypnoNeuro restores *now-ness* where change happens, teaching the cortex to observe thoughts rather than fuse with them, reducing cortisol and glutamate while supporting neurotransmitter rebalance.
@@ -189,7 +189,7 @@ Through these reenactments, memories remain but emotional associations are re-co
 
 ---
 
-### 1.7 Mentorship Over Mandate
+## 1.7 Mentorship Over Mandate
 
 Traditional care structures position patients as passive recipients. HypnoNeuro flips this, allowing users to own data, set pace, and choose aligned interventions, linking recommendations to literature for informed choices.
 
@@ -221,7 +221,7 @@ By merging nutrient science with trauma-informed somatics in a gamified loop, Hy
 
 ---
 
-### 2. Problem Landscape: Why the System Fails
+# 2. Problem Landscape: Why the System Fails
 
 Modern mental health systems, while well-intentioned, have become bottlenecks of ineffective interventions, high costs, and user disengagement. Despite record spending, suicide, overdose, and disability rates continue to rise, making these systems ones of maintenance—or harm.
 
@@ -229,11 +229,11 @@ Modern mental health systems, while well-intentioned, have become bottlenecks of
 
 FAERS and CDC data (2020–2024) show SSRIs linked to 12,000+ deaths, antipsychotics to 10,000+, and benzodiazepines to nearly 9,500, with suicide and overdose as major contributors. These are not rare but systemic failures driven by polypharmacy that suppresses symptoms without restoring wellness.
 
-### 2.2 Pharmaceutical Polypsychotropics and Systemic Failure
+## 2.2 Pharmaceutical Polypsychotropics and Systemic Failure
 
 Psychotropics modulate neurotransmitters but do not replenish building blocks like tryptophan, B6, or tyrosine. This masking approach creates cycles of emotional flattening, cognitive dulling, and side effects requiring additional prescriptions, deepening dependency while degrading resilience.
 
-### 2.3 The Biochemical Cost of Neglecting Nutrient-Based Care
+## 2.3 The Biochemical Cost of Neglecting Nutrient-Based Care
 
 Psychiatric training often overlooks micronutrients. Key issues:
 
@@ -244,7 +244,7 @@ Psychiatric training often overlooks micronutrients. Key issues:
 
 Ignoring these contributors turns symptom management into a treadmill rather than resolution.
 
-### 2.4 Barriers to Access and Engagement
+## 2.4 Barriers to Access and Engagement
 
 Barriers include:
 
@@ -255,7 +255,7 @@ Barriers include:
 
 These leave many untreated or caught in ineffective cycles.
 
-### 2.5 The Urgency for a New Paradigm
+## 2.5 The Urgency for a New Paradigm
 
 Current mental health systems are not designed for scalable, personalized, and root-cause-centered healing. They are designed for throughput management in a system built on reactive care.
 
@@ -265,13 +265,13 @@ The need is clear. The failures are documented. The time for an adaptive, user-l
 
 ---
 
-### 3. HypnoNeuro Architecture
+## 3. HypnoNeuro Architecture
 
 HypnoNeuro is designed as a modular, scalable, and privacy-preserving platform that integrates orthomolecular education, trauma-informed somatic interventions, and adaptive gamification to address the biochemical and psychological root causes of mental health distress.
 
 Rather than forcing users through a rigid protocol, HypnoNeuro operates as an interactive system that adapts in real time to user inputs, physiological signals, and behavioral data while preserving user anonymity and sovereignty over personal information.
 
-### 3.1 Avatar-Based Privacy and Wallet-Connected Access
+## 3.1 Avatar-Based Privacy and Wallet-Connected Access
 
 Users access HypnoNeuro through blockchain-based wallet authentication rather than identity-based login systems. This pseudonymous structure eliminates the risks associated with traditional healthcare surveillance while enabling participation in healing programs without fear of job, insurance, or social repercussions.
 
@@ -288,7 +288,7 @@ At the core of HypnoNeuro is an interactive hypnotherapy engine that integrates 
 
 This approach enables users to experience the benefits of hypnotherapy safely and repeatedly while building skills in emotional regulation.
 
-### 3.3 Nutrient Intelligence Engine (Orthomolecular AI Layer)
+## 3.3 Nutrient Intelligence Engine (Orthomolecular AI Layer)
 
 HypnoNeuro includes a nutrient intelligence engine that connects user-reported symptoms and emotional states with relevant orthomolecular education:
 
@@ -299,7 +299,7 @@ HypnoNeuro includes a nutrient intelligence engine that connects user-reported s
 
 ---
 
-### 3.4 NLP Emotion Triggers and Loop Interventions
+## 3.4 NLP Emotion Triggers and Loop Interventions
 
 HypnoNeuro uses natural language processing (NLP) to detect emotional states from user interactions, journal entries, or in-app dialogues. When patterns indicating distress, stagnation, or emotional loops are identified, the system offers interventions, such as:
 
@@ -310,7 +310,7 @@ HypnoNeuro uses natural language processing (NLP) to detect emotional states fro
 
 This ensures the system remains responsive to the user's evolving needs while reinforcing a sense of safety and agency.
 
-### 3.5 IPFS Encryption and Self-Sovereign Data
+## 3.5 IPFS Encryption and Self-Sovereign Data
 
 User data within HypnoNeuro is encrypted and pinned using the InterPlanetary File System (IPFS), ensuring decentralized, tamper-resistant storage. Users retain private keys to their data, allowing them to unlock, transfer, or delete information at their discretion.
 
@@ -322,15 +322,15 @@ Key elements include:
 
 This design preserves user privacy while ensuring transparency and accountability within the system.
 
-### Summary
+# Summary
 
 HypnoNeuro’s architecture is a fusion of decentralized identity, interactive hypnotherapy, nutrient education, adaptive gamification, and privacy-first data management. By structuring the system in this way, HypnoNeuro operationalizes its mission: providing effective, scalable, and user-led mental health care that restores biochemical balance, supports emotional healing, and respects the sovereignty of every participant.
 
-### 4. Tokenomics – HNT Utility Token
+# 4. Tokenomics – HNT Utility Token
 
 HypnoNeuro employs a utility token model (HNT Token) designed to align incentives, reduce cost barriers, and reinforce user participation while maintaining system sustainability. Unlike many health platforms that rely on continuous fiat transactions or insurance billing, HypnoNeuro uses tokenomics to create an engagement-driven ecosystem where users can earn, spend, and redeem tokens in a closed-loop system that prioritizes participation and learning over profit extraction.
 
-### 4.1 Session Access, Earning, and Redemption
+## 4.1 Session Access, Earning, and Redemption
 
 Users earn HNT tokens by:
 
@@ -349,7 +349,7 @@ This system reduces financial barriers for users while promoting continued engag
 
 ---
 
-### 4.2 Token Burn Mechanism and Leveling System
+## 4.2 Token Burn Mechanism and Leveling System
 
 To maintain ecosystem health and manage token supply:
 
@@ -359,7 +359,7 @@ To maintain ecosystem health and manage token supply:
 
 This encourages mastery and consistent participation while preventing token inflation.
 
-### 4.3 Integration with MetaMask and Off-Chain Payments
+## 4.3 Integration with MetaMask and Off-Chain Payments
 
 HypnoNeuro integrates with MetaMask and Web3 wallets to:
 
@@ -374,7 +374,7 @@ For accessibility, off-chain payment rails allow:
 
 This hybrid model keeps the platform accessible for non-crypto users while retaining blockchain-native capabilities.
 
-### 4.4 Token Allocation and Circulation Models
+## 4.4 Token Allocation and Circulation Models
 
 Initial HNT distribution balances user needs with sustainability:
 
@@ -386,7 +386,7 @@ Initial HNT distribution balances user needs with sustainability:
 
 A portion of redeemed tokens will be burned, with the remainder recycled into incentives and practitioner payments, maintaining a healthy ecosystem.
 
-### Summary
+# Summary
 
 The HNT token structure allows HypnoNeuro to:
 
@@ -397,11 +397,11 @@ The HNT token structure allows HypnoNeuro to:
 
 By implementing a structured token economy, HypnoNeuro aligns user wellness with platform sustainability while preserving autonomy and accessibility.
 
-### 5. NFT Healing Milestones
+# 5. NFT Healing Milestones
 
 HypnoNeuro uses NFTs as proof-of-progress tools within its trauma-informed, nutrient-supported healing ecosystem. These NFTs are verifiable, gamified milestones that track and reward progression through emotional, biochemical, and behavioral healing.
 
-### 5.1 Three-Tier NFT Design (Foundation, Elevation, Ascension)
+## 5.1 Three-Tier NFT Design (Foundation, Elevation, Ascension)
 
 The NFT system is structured in three therapeutic layers:
 
@@ -413,7 +413,7 @@ These NFTs serve as digital credentials, marking mastery at each stage while rec
 
 ---
 
-### 5.2 Gamified Progression Tied to Therapy Compliance
+## 5.2 Gamified Progression Tied to Therapy Compliance
 
 HypnoNeuro’s NFT milestones require active participation rather than passive attendance, including:
 
@@ -424,7 +424,7 @@ HypnoNeuro’s NFT milestones require active participation rather than passive a
 
 This approach transforms healing into an interactive, rewarding experience, enhancing engagement while reinforcing user agency.
 
-### 5.3 Discount Mechanism and Marketplace Access
+## 5.3 Discount Mechanism and Marketplace Access
 
 NFT ownership provides:
 
@@ -449,11 +449,11 @@ HypnoNeuro’s NFT system:
 
 It operationalizes healing as measurable, rewarding, and user-owned, not system-owned.
 
-### 6. Practitioner Ecosystem
+# 6. Practitioner Ecosystem
 
 HypnoNeuro empowers practitioners to deliver effective, scalable, privacy-respecting care within a decentralized wellness model, bridging user agency with professional support.
 
-### 6.1 Practitioner Dashboards and Session Matching
+## 6.1 Practitioner Dashboards and Session Matching
 
 Practitioners can:
 
@@ -463,7 +463,7 @@ Practitioners can:
 
 Users select practitioners by specialization and approach while maintaining avatar-based anonymity, reducing stigma and enhancing engagement.
 
-### 6.2 HypnoNeuro Certification and Peer Reviews
+## 6.2 HypnoNeuro Certification and Peer Reviews
 
 Optional certification programs will cover:
 
@@ -474,7 +474,7 @@ Optional certification programs will cover:
 
 Practitioners are peer-reviewed, fostering quality control and supportive accountability.
 
-### 6.3 Earning HNT vs. Fiat and Data Contribution Protocol
+## 6.3 Earning HNT vs. Fiat and Data Contribution Protocol
 
 Practitioner payment models include:
 
@@ -484,7 +484,7 @@ Practitioner payment models include:
 
 De-identified practitioner session data contributes to system refinement while maintaining privacy.
 
-### Summary
+# Summary
 
 The practitioner ecosystem:
 
@@ -496,11 +496,11 @@ This aligns practitioner incentives with user empowerment for scalable, ethical 
 
 ---
 
-### 7. Governance & DAO Participation
+# 7. Governance & DAO Participation
 
 HypnoNeuro is designed to evolve beyond a static platform into a community-governed ecosystem where users and practitioners collectively shape the direction, ethics, and functionality of the system. Through decentralized governance, HypnoNeuro ensures that the platform remains aligned with its mission of user-led healing, privacy, and accessibility, rather than shifting under centralized commercial pressures.
 
-### 7.1 Layer 3 NFT Voting Rights
+## 7.1 Layer 3 NFT Voting Rights
 
 Users who reach Layer 3 (Ascension) within HypnoNeuro earn NFTs that grant governance rights within the HypnoNeuro DAO (Decentralized Autonomous Organization). These NFTs are not merely symbolic; they provide structured, transparent voting power on key platform decisions, including:
 
@@ -511,7 +511,7 @@ Users who reach Layer 3 (Ascension) within HypnoNeuro earn NFTs that grant gover
 
 This system empowers users who have demonstrated commitment to their own healing to guide the platform’s evolution, ensuring governance is informed by lived experience rather than abstract policy.
 
-### 7.2 Protocol Changes, Feature Votes, Community Moderation
+## 7.2 Protocol Changes, Feature Votes, Community Moderation
 
 The DAO will oversee:
 
@@ -522,7 +522,7 @@ The DAO will oversee:
 
 This governance structure ensures transparency and collective ownership while maintaining agility in adapting to emerging needs.
 
-### 7.3 Ethical Guidelines and Abuse Safeguards
+## 7.3 Ethical Guidelines and Abuse Safeguards
 
 HypnoNeuro is committed to upholding ethical practices within its decentralized structure. The DAO will maintain:
 
@@ -533,7 +533,7 @@ HypnoNeuro is committed to upholding ethical practices within its decentralized 
 
 By embedding ethics directly within governance, HypnoNeuro prevents mission drift and preserves its focus on privacy, user agency, and evidence-informed healing.
 
-### Summary
+# Summary
 
 The HypnoNeuro governance structure:
 
@@ -546,11 +546,11 @@ Through DAO participation, HypnoNeuro envisions a future where mental health car
 
 ---
 
-### 8. Compliance, Security & Ethics
+# 8. Compliance, Security & Ethics
 
 HypnoNeuro is designed to align with the highest standards of privacy, security, and ethical responsibility while maintaining user sovereignty and system scalability. Recognizing the sensitivity of mental health data and the historical misuse of personal health information, HypnoNeuro prioritizes compliance strategies that enable users to engage in safe, stigma-free healing.
 
-### 8.1 HIPAA Alignment Without PHI
+## 8.1 HIPAA Alignment Without PHI
 
 HypnoNeuro intentionally operates without collecting personally identifiable information (PII) or protected health information (PHI), avoiding the central vulnerabilities present in traditional electronic health record (EHR) systems. This design ensures:
 
@@ -560,7 +560,7 @@ HypnoNeuro intentionally operates without collecting personally identifiable inf
 
 This structure allows HypnoNeuro to provide quality care without the risks associated with centralized identity-based data systems.
 
-### 8.2 IPFS-Encrypted Storage & Private Decryption Keys
+## 8.2 IPFS-Encrypted Storage & Private Decryption Keys
 
 HypnoNeuro leverages InterPlanetary File System (IPFS) for decentralized, encrypted data storage:
 
@@ -570,7 +570,7 @@ HypnoNeuro leverages InterPlanetary File System (IPFS) for decentralized, encryp
 
 This infrastructure preserves user agency while providing scalable, secure data management.
 
-### 8.3 Community Moderation & Safety Protocols
+## 8.3 Community Moderation & Safety Protocols
 
 HypnoNeuro prioritizes user safety and well-being within its decentralized environment:
 
@@ -585,7 +585,7 @@ Additionally, HypnoNeuro maintains transparency in the system’s operation, pub
 * Updates to data management protocols.
 * Community-voted changes to moderation or safety policies.
 
-### Summary
+# Summary
 
 HypnoNeuro’s compliance, security, and ethics protocols:
 
@@ -598,11 +598,11 @@ By aligning advanced technology with trauma-informed ethical design, HypnoNeuro 
 
 ---
 
-### 9. Case Studies & Early Results
+# 9. Case Studies & Early Results
 
 While HypnoNeuro is in its phased rollout, early pilot testing and user feedback demonstrate promising engagement and outcomes aligned with the platform’s mission of providing scalable, trauma-informed, nutrient-supported mental health care.
 
-### 9.1 User Vignette: Anxiety and Nutrient Awareness
+## 9.1 User Vignette: Anxiety and Nutrient Awareness
 
 **Case:** A 34-year-old female user with long-standing generalized anxiety engaged with HypnoNeuro’s Layer 1 hypnotherapy sessions and began logging meals through the nutrient intelligence engine.
 
@@ -620,7 +620,7 @@ While HypnoNeuro is in its phased rollout, early pilot testing and user feedback
 
 Feedback highlighted the app’s “immediate utility in moments of panic” and appreciation for non-invasive nutrient guidance without the pressure of pharmaceutical changes.
 
-### 9.2 Practitioner Vignette: Group Hypnotherapy Integration
+## 9.2 Practitioner Vignette: Group Hypnotherapy Integration
 
 **Case:** A trauma-informed hypnotherapist conducted a pilot group session using HypnoNeuro with eight clients, focusing on breathwork and grounding practices within the app’s Layer 1 framework.
 
@@ -638,7 +638,7 @@ Feedback highlighted the app’s “immediate utility in moments of panic” and
 
 The practitioner noted that clients demonstrated higher engagement between sessions, reinforcing in-session learning with in-app prompts.
 
-### 9.3 Aggregate Early Metrics
+## 9.3 Aggregate Early Metrics
 
 Across a small alpha group of 50 users over a six-week pilot:
 
@@ -649,7 +649,7 @@ Across a small alpha group of 50 users over a six-week pilot:
 
 These early results suggest high user acceptability and feasibility, providing a foundation for scaled deployment while validating the integration of trauma-informed, nutrient-based interventions in a gamified, privacy-first system.
 
-### Summary
+# Summary
 
 The HypnoNeuro pilot and early case studies demonstrate:
 
@@ -661,9 +661,9 @@ These outcomes support the viability of HypnoNeuro’s scalable model for delive
 
 ---
 
-### 10. Roadmap & Outcomes
+# 10. Roadmap & Outcomes
 
-#### 10.1 Development Roadmap
+## 10.1 Development Roadmap
 
 **Phase 1: Platform Stabilization and Beta Testing (0–6 months)**
 
@@ -689,7 +689,7 @@ These outcomes support the viability of HypnoNeuro’s scalable model for delive
 * Formalize DAO voting structures and community grant opportunities.
 * Begin multi-language localization for international scaling.
 
-#### 10.2 Projected Outcomes
+## 10.2 Projected Outcomes
 
 Aligned with grant objectives, HypnoNeuro aims to achieve:
 
@@ -730,7 +730,7 @@ HypnoNeuro’s tokenomics and NFT structures support platform sustainability:
 * Ongoing integration of biometric tools (where consented) for advanced hypnotherapy adaptation.
 * Scalability through modular architecture supporting regional customization and additional therapeutic modalities.
 
-#### Summary
+# Summary
 
 HypnoNeuro’s roadmap ensures:
 
@@ -742,7 +742,7 @@ This approach positions HypnoNeuro to transform mental health care into an acces
 
 ---
 
-### 11. Conclusion & Call to Action
+# 11. Conclusion & Call to Action
 
 Mental health care is at a critical crossroads. Traditional systems, despite their best intentions, have struggled to deliver scalable, effective, and personalized healing. Rising rates of suicide and overdose, persistent barriers to access, and over-reliance on symptom-suppressing pharmaceuticals demonstrate a clear need for new paradigms.
 
@@ -750,7 +750,7 @@ HypnoNeuro answers this call with a decentralized, trauma-informed, and nutrient
 
 Through HNT tokens and NFT milestone progression, users are not passive recipients of care but active participants in their own healing journey. Practitioners are supported within a flexible, scalable network that honors their expertise while expanding their reach to individuals who need guidance without stigma or surveillance. The DAO governance structure ensures that HypnoNeuro evolves with the community, for the community, preserving its mission across technological and generational shifts.
 
-#### What We Seek
+# What We Seek
 
 To advance HypnoNeuro’s mission, we seek grant funding to:
 
@@ -760,7 +760,7 @@ To advance HypnoNeuro’s mission, we seek grant funding to:
 * Integrate advanced biometric tools (where chosen by users) to enhance hypnotherapy personalization.
 * Launch global localization efforts to ensure equitable access worldwide.
 
-#### Your partnership will directly support:
+# Your partnership will directly support:
 
 * Reducing mental health care disparities by providing accessible, effective support.
 * Decreasing reliance on pharmaceuticals through nutrient-based and trauma-informed education.
@@ -772,7 +772,7 @@ We invite you to join us in advancing HypnoNeuro as a catalyst for global mental
 
 ---
 
-### 12. Appendices
+# 12. Appendices
 
 #### 12.1 Nutrient Reference Tables
 
@@ -799,7 +799,7 @@ These nutrients support neurotransmitter balance and neuroplasticity, forming th
 
 This table illustrates how behavioral symptom clusters align with biochemical patterns, providing insight for nutrient-based interventions alongside trauma-informed somatic tools within the HypnoNeuro platform.
 
-#### 12.3 Summary of Adverse Event Data from FAERS, CDC
+## 12.3 Summary of Adverse Event Data from FAERS, CDC
 
 **Key Findings (2020–2024 data):**
 
@@ -810,7 +810,7 @@ This table illustrates how behavioral symptom clusters align with biochemical pa
 
 These data highlight systemic issues in the current pharmaceutical-first model and underscore the need for safe, nutrient-based, and trauma-informed alternatives like HypnoNeuro.
 
-#### Summary
+# Summary
 
 The Appendices provide:
 
