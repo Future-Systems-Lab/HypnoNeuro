@@ -169,7 +169,7 @@ Thoughts are chemically active. Negative thoughts increase cortisol; positive re
 These tables illustrate how HypnoNeuro operationalizes naturopathic and gamified strategies across its layers, empowering users with clarity and agency.
 
 ---
-### 1.7 Layer 3 – Inner-Child Integration (Gamified Trauma Repatterning)
+### Layer 3 – Inner-Child Integration (Gamified Trauma Repatterning)
 
 After just seven days, players begin to see how breakfast protein affects 3 p.m. focus, or how magnesium gaps correlate with evening restlessness. In-game nudges and micro-rewards encourage nutrient-dense choices, optimizing neurotransmitter output.
 
@@ -190,7 +190,7 @@ Through these reenactments, memories remain but emotional associations are re-co
 
 ---
 
-.7 Mentorship Over Mandate
+### 1.7 Mentorship Over Mandate
 
 Traditional care structures position patients as passive recipients. HypnoNeuro flips this, allowing users to own data, set pace, and choose aligned interventions, linking recommendations to literature for informed choices.
 
