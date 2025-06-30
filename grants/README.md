@@ -1,35 +1,77 @@
-# 📑 Grant & Funding Materials
+# HypnoNeuro™ White Paper
 
-This folder contains all materials related to active grant proposals, funding applications, and supporting documentation for the **HypnoNeuro** and **EncryptHealth** platforms.
+## Tokenized Trauma Recovery & Decentralized Mental Wellness
 
----
+**Where Mental Wellness Meets the Metaverse™**
 
-## 🧠 HypnoNeuro – Web3 Mental Wellness
+**Version:** 1.0  
+**Date:** June 29, 2025  
+**Author:** Dr. Meg Montañez-Davenport, D.N.Psy., CHt., BCNH®  
+**Contact:** [dr.meg.data.scientist@gmail.com](mailto:dr.meg.data.scientist@gmail.com)  
+**Website:** hypnoneuro.com (Coming Soon)
 
-HypnoNeuro is a decentralized, gamified mental-wellness platform that integrates NFT therapy milestones, anonymous healing rooms, and crypto-based incentive systems.
-
-### 📄 Featured Documents
-- [`HypnoNeuro_Grant_Whitepaper.pdf`](HypnoNeuro_Grant_Whitepaper.pdf)  
-  – PDF white paper outlining the HNT token economy, NFT reward system, and decentralized healing model.
-
----
-
-## 🔒 EncryptHealth – Encrypted Health-Data Infrastructure
-
-EncryptHealth is a secure Web3 backend platform for managing encrypted health records, peer-to-peer data exchange, and practitioner-controlled access.
-
-### 📄 Featured Documents
-- [EncryptHealth_Grant_Whitepaper.pdf](../../EncryptHealth/grants/EncryptHealth_Grant_Whitepaper.pdf) 
-  – PDF white paper detailing blockchain infrastructure, encryption methods, and clinical-privacy use cases.
+© 2025 Dr. Meg Montañez-Davenport. All rights reserved. No portion may be reproduced without written consent.
 
 ---
 
-## 📌 Legal & Attribution
+## About
 
-All content is the intellectual property of **Dr. Meg Montañez-Davenport** and **Naturopathic Psychology & Hypnosis Center®, LLC**.  
-No distribution, reproduction, or external use without written consent.
+HypnoNeuro™ is a decentralized, gamified mental wellness platform combining:
+
+- Orthomolecular nutrient protocols
+- Trauma-informed, interactive hypnotherapy
+- Privacy-preserving, pseudonymous care
+- NFT milestone rewards
+- HNT tokenomics to replace traditional billing
+- DAO governance for user-led evolution
+
+The platform empowers users to **learn, heal, and reclaim sovereignty** over their mental health while enabling practitioners to deliver scalable, ethical care without surveillance or stigma.
 
 ---
 
-📧 **Contact for Grants & Partnerships:**  
-[dr.meg.data.scientist@gmail.com](mailto:dr.meg.data.scientist@gmail.com)
+## Download the White Paper
+
+[📄 Click here to download the HypnoNeuro™ White Paper (PDF)](HypnoNeuro_White_Paper.pdf)
+
+---
+
+## Contents
+
+1. Introduction
+2. Problem Landscape: Why the System Fails
+3. HypnoNeuro Architecture
+4. Tokenomics – HNT Utility Token
+5. NFT Healing Milestones
+6. Practitioner Ecosystem
+7. Governance & DAO Participation
+8. Compliance, Security & Ethics
+9. Case Studies & Early Results
+10. Roadmap & Outcomes
+11. Conclusion & Call to Action
+12. Appendices
+
+---
+
+## Contributing
+
+- This repository currently houses grant-related documents for HypnoNeuro.
+- Future public contributions will be opened once HypnoNeuro transitions to open development for community features.
+
+---
+
+## License
+
+© 2025 Dr. Meg Montañez-Davenport. All rights reserved.  
+Content within this repository may not be reproduced or distributed without written permission.
+
+---
+
+## Contact
+
+For partnership, grant collaboration, or stakeholder meetings:
+
+**Email:** [dr.meg.data.scientist@gmail.com](mailto:dr.meg.data.scientist@gmail.com)
+
+---
+
+🪐 **Thank you for supporting the future of decentralized, trauma-informed, nutrient-supported mental wellness.**
