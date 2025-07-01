@@ -41,7 +41,7 @@ These frameworks work with the body’s innate intelligence while respecting the
 
 ---
 
-## 🕊️ Purpose of HypnoNeuro Games
+## 🕊️ How HypnoNeuro Works
 
 HypnoNeuro game modules bridge in-game learning with real-world application, guiding users through three core healing rooms:
 
