@@ -131,7 +131,8 @@ This repository houses the **core datasets, research models, tokenomics, and fou
 ## 🌐 Related Projects
 
 * 🔗 [Main GitHub Profile](https://github.com/Where-Mental-Wellness-Meets-Metaverse)
-* 🔗 [Crypto Token Site](https://where-mental-wellness-meets-metaverse.github.io/hypnoneuro-crypto/)
+* 🔗 [HypnoNeuro Landing Page](https://hypnoneuro.com) *(Coming Soon)*
+
 
 ---
 
