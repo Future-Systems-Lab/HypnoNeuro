@@ -75,8 +75,6 @@ While current modules address grief, depression, anxiety, insomnia, and childhoo
 
 Advanced modules will help users track daily events, foods, and moods to identify patterns linked to changes in mental state, including early signs of **mania and psychosis**. Using the L1–L3 system, users will learn to recognize early signals and take clear, natural steps to support stability.
 
-For example, the system may highlight when **nutrient imbalances, such as elevated copper, align with mood instability or perceptual disturbances**, offering insight into how biochemistry and daily choices influence mental health.
-
 ---
 
 ## 🔍 What This Repo Contains
