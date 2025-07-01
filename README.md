@@ -77,13 +77,13 @@ While initial modules address grief, depression, anxiety, insomnia, and childhoo
 - Bipolar Disorder
 - Personality Disorders
 
-Advanced modules will guide users in **tracking daily events, foods, and moods to uncover patterns that may trigger or precede episodes**. Using the L1–L3 system structure, users will learn to identify early warning signs of recurrence while exploring effective, natural interventions.
+Advanced modules will help users track daily events, foods, and moods to identify patterns linked to changes in mental state, including early signs of **mania and psychosis**. Through the L1–L3 system structure, users can learn to recognize early warning signals and take clear, natural steps to support stability.
 
-For example, the system can help users recognize when certain foods or nutrient imbalances, such as elevated copper, align with mood instability or psychotic episodes, providing insight into potential biochemical contributors while connecting these patterns to emotional and environmental triggers.
+For example, the system can highlight when nutrient imbalances, such as elevated copper, align with shifts toward **mood instability, mania, or perceptual disturbances**, offering insight into how biochemistry and daily choices may influence mental health.
 
-By combining **nutrient balancing, lifestyle adjustments, and present-moment awareness practices**, HypnoNeuro empowers users to address both the physical and nonphysical dimensions of mental health challenges, including the impact of unresolved trauma.
+By integrating nutritional support, lifestyle practices, and present-moment awareness, HypnoNeuro empowers users to address both the physical and emotional dimensions of mental health challenges, including the impact of unresolved trauma.
 
-This approach ensures HypnoNeuro remains a **gamified, decentralized, stigma-free system for deep, practical mental health support**, helping users actively participate in their healing process with structure, education, and clarity.
+This keeps HypnoNeuro a gamified, decentralized, stigma-free system for **practical, structured healing**, helping users actively participate in their process with clarity and confidence.
 
 ---
 
