@@ -66,6 +66,23 @@ This platform exists because the current mental health system ignores trauma, pu
 
 ---
 
+🛤️ Future Development
+The system is designed for scalable expansion.
+
+While initial modules address grief, depression, anxiety, insomnia, and childhood wounds, future development will extend these methodologies to more complex conditions including:
+
+Schizophrenia
+
+Bipolar Disorder
+
+Personality Disorders
+
+These conditions often share root causes in unresolved trauma and biochemical imbalances, encompassing both physical and nonphysical dimensions.
+
+The vision is to apply the same naturopathic psychology and orthomolecular psychiatry frameworks within a gamified, decentralized system, offering scalable, stigma-free support for individuals navigating severe mental health challenges.
+
+---
+
 ## 🔍 What This Repo Contains
 
 This repository houses the **core datasets, research models, tokenomics, and foundational modules** powering the HypnoNeuro platform.
