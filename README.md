@@ -55,7 +55,7 @@ Each room delivers **practical, trackable, and embodied practices** designed to 
 
 ## 🌌 Why This Matters
 
-Many mental health systems focus only on managing symptoms, often ignoring trauma, biochemical imbalances, and the deeper emotional wounds that drive suffering.
+Many mental health systems focus only on managing symptoms, often ignoring trauma, neurotransmitter depletion, and the deeper emotional wounds that drive suffering.
 
 HypnoNeuro is designed to facilitate deep, measurable healing through a structured three-room system:
 
