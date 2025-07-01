@@ -786,7 +786,9 @@ We invite you to join us in advancing HypnoNeuro as a catalyst for global mental
 | Omega-3 Fatty Acids | Supports endocannabinoid and dopamine system stability, reduces inflammation  | Flax seeds, chia seeds, walnuts, algae oil  |
 | Phenylalanine       | Precursor to endorphins and dopamine                                          | Soy products, eggs, beef, dairy             |
 
+
 These nutrients support neurotransmitter balance and neuroplasticity, forming the orthomolecular foundation for HypnoNeuro’s Layer 2 nutrient education modules.
+
 
 | DSM Symptom Cluster | Potential Biochemical Correlates                | Relevant Nutrients            |
 | ------------------- | ----------------------------------------------- | ----------------------------- |
@@ -796,6 +798,7 @@ These nutrients support neurotransmitter balance and neuroplasticity, forming th
 | Insomnia            | Melatonin and serotonin depletion               | Tryptophan, magnesium, B6     |
 | Chronic Fatigue     | Mitochondrial dysfunction, low dopamine         | CoQ10, tyrosine, B vitamins   |
 | Mood Instability    | Blood sugar dysregulation, omega-3 deficiency   | Chromium, omega-3 fatty acids |
+
 
 This table illustrates how behavioral symptom clusters align with biochemical patterns, providing insight for nutrient-based interventions alongside trauma-informed somatic tools within the HypnoNeuro platform.
 
