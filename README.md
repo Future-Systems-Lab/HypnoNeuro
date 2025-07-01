@@ -41,14 +41,14 @@ These frameworks work with the body’s innate intelligence while respecting the
 
 ## 🕊️ Purpose of HypnoNeuro Games
 
-All HypnoNeuro game modules are designed to **anchor real-world practices into daily life**:
+All HypnoNeuro game modules are designed to **bridge in-game learning with real-world practices**:
 
-- When tea preparation is suggested, the system guides its preparation physically.
-- When a breathing exercise is offered, the system instructs on its practice.
-- When heaviness is present, the system can deploy a hypnosis module for grounding and acceptance.
-- When stagnation is detected, the system can provide nutritional practices supporting the nervous system.
+- When a calming practice is suggested, the system guides its implementation in daily life.
+- When a breathing exercise is offered, the system provides structured guidance for practice.
+- When emotional heaviness is present, the system can deploy a hypnosis module for grounding and acceptance.
+- When stagnation is detected, the system can offer nutrition and lifestyle practices to support the nervous system.
 
-These practices are **embodied, trackable, and integrated**, allowing the user to experience real change beyond the screen.
+These practices are **embodied, trackable, and integrated**, allowing users to experience meaningful change beyond the screen.
 
 ---
 
