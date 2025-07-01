@@ -57,7 +57,7 @@ Each room delivers practical, trackable practices that align daily actions with 
 
 Most mental health systems manage symptoms while ignoring trauma, nutrient depletion, and the deeper emotional wounds driving suffering.
 
-HypnoNeuro transforms helplessness into conscious creation by integrating gamified, private, and accessible tools that honor the body’s pace and the cyclical nature of true healing.
+HypnoNeuro offers a new path by integrating gamified, private, and accessible tools that honor the body’s pace and the cyclical nature of true healing.
 
 **Healing does not require perfection, only presence and consistency.**
 
@@ -67,19 +67,15 @@ HypnoNeuro transforms helplessness into conscious creation by integrating gamifi
 
 HypnoNeuro is designed for **scalable expansion**.
 
-While initial modules address grief, depression, anxiety, insomnia, and childhood wounds, future development will extend this system to support more complex conditions, including:
+While current modules address grief, depression, anxiety, insomnia, and childhood wounds, future development will extend support to:
 
 - Schizophrenia
 - Bipolar Disorder
 - Addiction Recovery
 
-Advanced modules will help users track daily events, foods, and moods to identify patterns linked to changes in mental state, including early signs of **mania and psychosis**. Through the L1–L3 system structure, users can learn to recognize early warning signals and take clear, natural steps to support stability.
+Advanced modules will help users track daily events, foods, and moods to identify patterns linked to changes in mental state, including early signs of **mania and psychosis**. Using the L1–L3 system, users will learn to recognize early signals and take clear, natural steps to support stability.
 
-For example, the system can highlight when nutrient imbalances, such as elevated copper, align with shifts toward **mood instability, mania, or perceptual disturbances**, offering insight into how biochemistry and daily choices may influence mental health.
-
-By integrating nutritional support, lifestyle practices, and present-moment awareness, HypnoNeuro empowers users to address both the physical and emotional dimensions of mental health challenges, including the impact of unresolved trauma.
-
-This keeps HypnoNeuro a gamified, decentralized, stigma-free system for **practical, structured healing**, helping users actively participate in their process with clarity and confidence.
+For example, the system may highlight when **nutrient imbalances, such as elevated copper, align with mood instability or perceptual disturbances**, offering insight into how biochemistry and daily choices influence mental health.
 
 ---
 
