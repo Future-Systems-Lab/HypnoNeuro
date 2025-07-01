@@ -68,19 +68,22 @@ Healing does not require perfection, only presence and consistency.
 ---
 
 ## 🛤️ Future Development
-The system is designed for scalable expansion.
 
-While initial modules address grief, depression, anxiety, insomnia, and childhood wounds, future development will extend these methodologies to more complex conditions including:
+HypnoNeuro is designed for **scalable expansion**.
 
-Schizophrenia
+While initial modules address grief, depression, anxiety, insomnia, and childhood wounds, future development will extend these methodologies to more complex conditions, including:
 
-Bipolar Disorder
+- Schizophrenia
+- Bipolar Disorder
+- Personality Disorders
 
-Personality Disorders
+Advanced modules will guide users in **tracking daily events, foods, and moods to uncover patterns that may trigger or precede episodes**. By using the L1–L3 system structure, users can learn to identify early warning signs of recurrence while exploring effective interventions.
 
-These conditions often share root causes in unresolved trauma and biochemical imbalances, encompassing both physical and nonphysical dimensions.
+For example, the system can help users recognize when certain foods or nutrient imbalances, such as elevated copper, are associated with mood instability or psychotic episodes, providing insight into potential biochemical contributors.
 
-The vision is to apply the same naturopathic psychology and orthomolecular psychiatry frameworks within a gamified, decentralized system, offering scalable, stigma-free support for individuals navigating severe mental health challenges.
+Alongside this, HypnoNeuro will teach users **practical methods drawn from orthomolecular psychiatry and naturopathic psychology**, empowering them with tools to mitigate symptoms through nutrient balancing, lifestyle adjustments, and addressing the deeper, nonphysical causes rooted in unresolved trauma.
+
+This approach ensures HypnoNeuro remains a **gamified, decentralized, stigma-free system for deep, practical mental health support**, helping users actively participate in their healing process with structure and clarity.
 
 ---
 
