@@ -71,7 +71,7 @@ While initial modules address grief, depression, anxiety, insomnia, and childhoo
 
 - Schizophrenia
 - Bipolar Disorder
-- Personality Disorders
+- Addiction Recovery
 
 Advanced modules will help users track daily events, foods, and moods to identify patterns linked to changes in mental state, including early signs of **mania and psychosis**. Through the L1–L3 system structure, users can learn to recognize early warning signals and take clear, natural steps to support stability.
 
