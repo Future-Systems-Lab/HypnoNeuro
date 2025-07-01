@@ -24,7 +24,7 @@ This system is not a distraction tool. It is a **living, adaptive system for tra
 
 ## 👩🏽‍⚕️ Creator's Background
 
-Dr. Meg Montañez-Davenport is a naturopathic doctor of psychology with a doctoral focus in orthomolecular psychiatry, neuroscience training at Duke University, board certification in holistic nutrition, and additional training in health informatics at Johns Hopkins University.
+Dr. Meg Montañez-Davenport is a naturopathic doctor of psychology with a doctoral focus in orthomolecular psychiatry, board certification in holistic nutrition, and advanced training in neuroscience at Duke University and health informatics at Johns Hopkins University.
 
 ---
 
