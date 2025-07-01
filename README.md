@@ -71,19 +71,19 @@ Healing does not require perfection, only presence and consistency.
 
 HypnoNeuro is designed for **scalable expansion**.
 
-While initial modules address grief, depression, anxiety, insomnia, and childhood wounds, future development will extend these methodologies to more complex conditions, including:
+While initial modules address grief, depression, anxiety, insomnia, and childhood wounds, future development will extend this system to support more complex conditions, including:
 
 - Schizophrenia
 - Bipolar Disorder
 - Personality Disorders
 
-Advanced modules will guide users in **tracking daily events, foods, and moods to uncover patterns that may trigger or precede episodes**. By using the L1–L3 system structure, users can learn to identify early warning signs of recurrence while exploring effective interventions.
+Advanced modules will guide users in **tracking daily events, foods, and moods to uncover patterns that may trigger or precede episodes**. Using the L1–L3 system structure, users will learn to identify early warning signs of recurrence while exploring effective, natural interventions.
 
-For example, the system can help users recognize when certain foods or nutrient imbalances, such as elevated copper, are associated with mood instability or psychotic episodes, providing insight into potential biochemical contributors.
+For example, the system can help users recognize when certain foods or nutrient imbalances, such as elevated copper, align with mood instability or psychotic episodes, providing insight into potential biochemical contributors while connecting these patterns to emotional and environmental triggers.
 
-Alongside this, HypnoNeuro will teach users **practical methods drawn from orthomolecular psychiatry and naturopathic psychology**, empowering them with tools to mitigate symptoms through nutrient balancing, lifestyle adjustments, and addressing the deeper, nonphysical causes rooted in unresolved trauma.
+By combining **nutrient balancing, lifestyle adjustments, and present-moment awareness practices**, HypnoNeuro empowers users to address both the physical and nonphysical dimensions of mental health challenges, including the impact of unresolved trauma.
 
-This approach ensures HypnoNeuro remains a **gamified, decentralized, stigma-free system for deep, practical mental health support**, helping users actively participate in their healing process with structure and clarity.
+This approach ensures HypnoNeuro remains a **gamified, decentralized, stigma-free system for deep, practical mental health support**, helping users actively participate in their healing process with structure, education, and clarity.
 
 ---
 
