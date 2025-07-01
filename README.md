@@ -105,8 +105,8 @@ This repository houses the **core datasets, research models, tokenomics, and fou
 
 ## 📄 Featured Documents
 
-* [`HypnoNeuro_Crypto_Whitepaper.md`](grants/HypnoNeuro_Crypto_Whitepaper.md)
-  – Tokenomics breakdown, NFT tiers, staking logic, and smart contract architecture
+* [`HypnoNeuro_Whitepaper.md`](grants/HypnoNeuro_Whitepaper.md) – Tokenized Trauma Recovery & Decentralized Mental Wellness: system rationale and architecture
+
 
 * [`amino-vs-pharma.md`](amino-vs-pharma.md)
   – FAERS + DAWN mortality comparison: amino acid therapy vs psychiatric pharmaceuticals
