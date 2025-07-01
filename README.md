@@ -53,10 +53,17 @@ Each room delivers **practical, trackable, and embodied practices** designed to 
 
 ## 🌌 Why This Matters
 
-Many systems manage symptoms.  
-HypnoNeuro is designed to **facilitate deep healing**, transforming helplessness into conscious creation while honoring the body’s pace and the cyclical nature of grief and healing.
+Many mental health systems focus only on managing symptoms, often ignoring trauma, biochemical imbalances, and the deeper emotional wounds that drive suffering.
 
-**Healing does not require perfection, only presence.**
+HypnoNeuro is designed to facilitate deep, measurable healing through a structured three-room system:
+
+- The **Hypnosis Room** supports present-moment awareness and subconscious reprogramming.
+- The **Orthomolecular Room** addresses the biochemical foundations of mental wellness.
+- The **Inner Child Room** reconnects users with the emotional root causes of patterns and suffering.
+
+By guiding real-world practices through gamified, private, and accessible technology, HypnoNeuro transforms helplessness into conscious creation while honoring the body's pace and the cyclical nature of true healing.
+
+Healing does not require perfection, only presence and consistency.
 
 ---
 
