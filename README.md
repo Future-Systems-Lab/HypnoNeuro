@@ -12,7 +12,7 @@ HypnoNeuro™ is a decentralized, gamified mental wellness system rooted in trau
 
 This platform exists because the current mental health system ignores trauma, punishes vulnerability, and betrays its own ethical foundation: *first, do no harm*.
 
-We are using blockchain technology exactly as it was intended: without asking for permission. Just as naturopathic medicine honors the body’s innate capacity to heal, blockchain allows us to build systems that respect individual sovereignty and privacy, ensuring access to care without interference or censorship
+We are using blockchain technology exactly as it was intended: without asking for permission. Just as naturopathic medicine honors the body’s innate capacity to heal, blockchain allows us to build systems that respect individual sovereignty and privacy, ensuring access to care without interference or censorship.
 
 ---
 
