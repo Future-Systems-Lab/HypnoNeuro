@@ -24,7 +24,7 @@ This system is not a distraction tool. It is a **living, adaptive system for tra
 
 ## 🩺 Creator’s Background
 
-Created by Dr. Meg Montañez-Davenport, a naturopathic doctor with advanced training in neuroscience at Duke University, a doctorate in naturopathic psychology with a focus in orthomolecular psychiatry, and board certification in holistic nutrition.
+Created by Dr. Meg Montañez-Davenport, a naturopathic doctor with advanced training in neuroscience at Duke University. She holds a doctorate in naturopathic psychology with a focus in orthomolecular psychiatry and is board certified in holistic nutrition.
 
 Lived experience of childhood abuse, homelessness, and the loss of an older brother to suicide shaped the foundation of this system, grounding it in compassion and practicality while aligning it with science and measurable outcomes.
 The journey through these depths revealed that **healing requires acceptance of what is while consciously creating anew**.
