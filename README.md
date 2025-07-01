@@ -118,13 +118,13 @@ This repository houses the **core datasets, research models, tokenomics, and fou
 
 ## 🧠 Technology Stack
 
-* **ERC-20 Token** – HypnoNeuro Token (HNT) for in-app purchases, session access, and progression
-* **ERC-721 NFTs** – Soulbound mental health achievements unlocking future discounts and tiers
-* **Ethereum – Smart contract infrastructure enabling tokenized access, NFT rewards, and decentralized privacy-preserving mental health suppor
-* **IPFS + Filecoin** – Decentralized encrypted record storage
-* **DID + ENS + ZKPs** – Privacy-preserving identity, anonymous logins, and proof-of-progress without exposure
-* **OMOP Standardization** – Harmonizing de-identified data for ethical AI and predictive analytics
-* **MetaMask + WalletConnect** – Secure, pseudonymous wallet-based access to therapy and peer support
+* **ERC-20 Token** – HypnoNeuro Token (HNT) for in-app purchases, session access, and progression.
+* **ERC-721 NFTs** – Soulbound mental health achievements unlocking future discounts and tiers.
+* **Ethereum** – Smart contract infrastructure enabling tokenized access, NFT rewards, and decentralized, privacy-preserving mental health support.
+* **IPFS + Filecoin** – Decentralized encrypted record storage.
+* **DID + ENS + ZKPs** – Privacy-preserving identity, anonymous logins, and proof-of-progress without exposure.
+* **OMOP Standardization** – Harmonizing de-identified data for ethical AI and predictive analytics.
+* **MetaMask + WalletConnect** – Secure, pseudonymous wallet-based access to therapy and peer support.
 
 ---
 
