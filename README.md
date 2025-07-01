@@ -41,14 +41,13 @@ These frameworks work with the body’s innate intelligence while respecting the
 
 ## 🕊️ Purpose of HypnoNeuro Games
 
-All HypnoNeuro game modules are designed to **bridge in-game learning with real-world practices**:
+All HypnoNeuro game modules are designed to **bridge in-game learning with real-world application, structured within three core healing rooms**:
 
-- When a calming practice is suggested, the system guides its implementation in daily life.
-- When a breathing exercise is offered, the system provides structured guidance for practice.
-- When emotional heaviness is present, the system can deploy a hypnosis module for grounding and acceptance.
-- When stagnation is detected, the system can offer nutrition and lifestyle practices to support the nervous system.
+- **Hypnosis Room:** Guides present-moment awareness and subconscious reprogramming for emotional regulation and grounding.
+- **Orthomolecular Room:** Offers education and actionable steps to apply nutritional and biochemical support for mental wellness.
+- **Inner Child Room:** Facilitates practices to reconnect with and heal early emotional wounds, fostering safety and self-compassion.
 
-These practices are **embodied, trackable, and integrated**, allowing users to experience meaningful change beyond the screen.
+Each room delivers **practical, trackable, and embodied practices** designed to align daily actions with consistent mental wellness, allowing users to experience meaningful change beyond the screen while progressing through each healing stage.
 
 ---
 
