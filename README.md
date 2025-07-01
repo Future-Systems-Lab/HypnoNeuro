@@ -111,9 +111,6 @@ This repository houses the **core datasets, research models, tokenomics, and fou
 * [`amino-vs-pharma.md`](amino-vs-pharma.md)
   – FAERS + DAWN mortality comparison: amino acid therapy vs psychiatric pharmaceuticals
 
-* [`system_overview.pdf`](presentation/system_overview.pdf)
-  – System architecture showing avatar flows, token utility, and decentralized ID layers
-
 ---
 
 ## 🧠 Technology Stack
