@@ -43,29 +43,23 @@ These frameworks work with the body’s innate intelligence while respecting the
 
 ## 🕊️ Purpose of HypnoNeuro Games
 
-All HypnoNeuro game modules are designed to **bridge in-game learning with real-world application, structured within three core healing rooms**:
+HypnoNeuro game modules bridge in-game learning with real-world application, guiding users through three core healing rooms:
 
-- **Hypnosis Room:** Guides present-moment awareness and subconscious reprogramming for emotional regulation and grounding.
-- **Orthomolecular Room:** Offers education and actionable steps to apply nutritional and biochemical support for mental wellness.
-- **Inner Child Room:** Facilitates practices to reconnect with and heal early emotional wounds, fostering safety and self-compassion.
+- **Hypnosis Room:** Cultivates present-moment awareness and subconscious reprogramming for emotional regulation.
+- **Orthomolecular Room:** Provides education and actionable steps for nutritional and biochemical support.
+- **Inner Child Room:** Supports reconnection with and healing of early emotional wounds.
 
-Each room delivers **practical, trackable, and embodied practices** designed to align daily actions with consistent mental wellness, allowing users to experience meaningful change beyond the screen while progressing through each healing stage.
+Each room delivers practical, trackable practices that align daily actions with consistent mental wellness, allowing users to progress meaningfully beyond the screen.
 
 ---
 
 ## 🌌 Why This Matters
 
-Many mental health systems focus only on managing symptoms, often ignoring trauma, neurotransmitter depletion, and the deeper emotional wounds that drive suffering.
+Most mental health systems manage symptoms while ignoring trauma, nutrient depletion, and the deeper emotional wounds driving suffering.
 
-HypnoNeuro is designed to facilitate deep, measurable healing through a structured three-room system:
+HypnoNeuro transforms helplessness into conscious creation by integrating gamified, private, and accessible tools that honor the body’s pace and the cyclical nature of true healing.
 
-- The **Hypnosis Room** supports present-moment awareness and subconscious reprogramming.
-- The **Orthomolecular Room** addresses the biochemical foundations of mental wellness.
-- The **Inner Child Room** reconnects users with the emotional root causes of patterns and suffering.
-
-By guiding real-world practices through gamified, private, and accessible technology, HypnoNeuro transforms helplessness into conscious creation while honoring the body's pace and the cyclical nature of true healing.
-
-Healing does not require perfection, only presence and consistency.
+**Healing does not require perfection, only presence and consistency.**
 
 ---
 
