@@ -24,7 +24,7 @@ This system is not a distraction tool. It is a **living, adaptive system for tra
 
 ## 👩🏽‍⚕️ Creator's Background
 
-Dr. Meg Montañez-Davenport is a naturopathic doctor of psychology with a doctoral focus in orthomolecular psychiatry, board certification in holistic nutrition, and advanced training in neuroscience at Duke University and health informatics at Johns Hopkins University.
+Dr. Meg Montañez-Davenport is a doctor of naturopathic psychology with a doctoral focus in orthomolecular psychiatry, board certification in holistic nutrition, and advanced training in neuroscience at Duke University and health informatics at Johns Hopkins University.
 
 Her commitment to creating HypnoNeuro is rooted in lived experience, including childhood abuse, homelessness, and the loss of her older brother to suicide, ensuring this system remains practical, compassionate, and trauma-aware.
 
