@@ -67,7 +67,7 @@ Healing does not require perfection, only presence and consistency.
 
 ---
 
-🛤️ Future Development
+## 🛤️ Future Development
 The system is designed for scalable expansion.
 
 While initial modules address grief, depression, anxiety, insomnia, and childhood wounds, future development will extend these methodologies to more complex conditions including:
