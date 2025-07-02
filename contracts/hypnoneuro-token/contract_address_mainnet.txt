@@ -1,6 +1,4 @@
-Ethereum Mainnet Contract Address:
 0x6eab55a23d0bb0d38c79567525382fa98158e927
-
-Deployed: June 24, 2025  
-Token: HypnoNeuroToken (HNT)  
-Network: Ethereum Mainnet  
+Deployed: June 24, 2025
+Token: HypnoNeuroToken (HNT)
+Network: Ethereum Mainnet

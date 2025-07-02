@@ -1,1 +1,4 @@
-0x829f969d23269ff5a63592ef2a0cb865cf508c1a
+0xA19DAB6022F5B844DE5D83dC110933823181fAD
+Deployed: July 2, 2025
+Token: HypnoNeuroToken (HNT)
+Network: Sepolia Testnet
