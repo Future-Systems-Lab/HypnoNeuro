@@ -6,7 +6,7 @@ This document summarizes testnet activity for HypnoNeuro tokens.
 
 ## ✅ HypnoNeuro Token (HNT)
 - **Network:** Sepolia Testnet  
-- **Contract Address:** [Insert HNT Sepolia Address]  
+- **Contract Address:** Contract Address: 0x9051bb172F9A5a9e8FdF99A17D33BA426a6a0101 
 - **Verified:** ✅  
 - **Test Transfer:** Confirmed receipt in MetaMask (abbreviated display)
 
