@@ -1,0 +1,38 @@
+# 📊 CMS 2008 Inpatient Mental Health Analysis
+
+This workflow processes the **CMS Inpatient Claims (2008)** dataset to isolate psychiatric diagnoses and flag deaths. It supports cross-validation with:
+
+- 🧠 **FAERS**: Suicide & overdose adverse events  
+- 🚨 **DAWN**: Emergency department psychiatric visits  
+- 💊 **PDE**: Prescription exposures (next phase)
+
+---
+
+## 📂 Files Included
+
+- `CMS_2008_MentalHealth_Inpatient_Workflow.ipynb`  
+- `CMS_2008_MentalHealth_Full_Workflow.ipynb`  
+- `inpatient_2008_psych.csv`  
+- `inpatient_2008_psych_with_death.csv`
+
+---
+
+## ✅ Workflow Summary
+
+1. Load and clean raw 2008 inpatient claims
+2. Filter for mental health claims using ICD-9 codes
+3. Flag all death-related claims
+4. Visualize top 3 psychiatric diagnoses
+5. Export clean datasets for downstream use
+
+---
+
+## 🔁 Next Steps
+
+- Add 2008 **Outpatient** claims  
+- Merge with **Beneficiary Summary File**  
+- Link with **PDE** (Part D) drug claims to analyze medication history before death
+
+---
+
+📌 Part of the **HypnoNeuro™ research layer** – bridging CMS, FAERS, and DAWN into a unified risk dataset.
