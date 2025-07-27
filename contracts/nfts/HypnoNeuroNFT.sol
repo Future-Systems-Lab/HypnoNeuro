@@ -11,6 +11,13 @@ contract HypnoNeuroNFT is ERC721URIStorage, Ownable {
         tokenCounter = 0;
     }
 
+// ⚠️ Slither Audit Warning:
+// - Reentrancy vulnerability: _safeMint() called before state changes (tokenCounter++, _setTokenURI)
+// - Bitwise ^ used instead of exponentiation ** in Math.mulDiv
+// - Mixed Solidity versions with known bugs (e.g. ^0.8.20)
+// Contract was deployed as-is; recommend fix in next version
+
+
     function mintNFT(address recipient, string memory tokenURI) public onlyOwner returns (uint256) {
         uint256 newTokenId = tokenCounter;
         _safeMint(recipient, newTokenId);
