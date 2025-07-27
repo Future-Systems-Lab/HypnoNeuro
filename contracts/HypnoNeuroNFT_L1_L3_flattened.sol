@@ -1,4 +1,10 @@
+// Sources flattened with hardhat v2.26.1 https://hardhat.org
+
 // SPDX-License-Identifier: Unlicensed
+
+// File contracts/HypnoNeuroNFT_L1_L3.sol
+
+// Original license: SPDX_License_Identifier: Unlicensed
 pragma solidity ^0.8.20;
 
 /// @title Minimal ERC721 NFT with Pausable and Ownable
