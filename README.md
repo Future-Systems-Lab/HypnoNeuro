@@ -1,7 +1,6 @@
+<img src="HypnoNeuro.jpg" alt="HypnoNeuro Logo" width="200"/>
 
-<p align="center">
-  <img src="HypnoNeuro.jpg" alt="HypnoNeuro Logo" width="400"/>
-</p>
+
 
 ## Compile Success Snapshot
 
