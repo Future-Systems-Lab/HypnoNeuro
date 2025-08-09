@@ -59,7 +59,7 @@ These visuals demonstrate why **gamified, anonymous, and decentralized** care is
 
 ### 🔍 Access Gaps
 
-- ![Treatment Summary](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/treatment_memory_discrepancy_50_percent_gap.png)  
+- ![Treatment Summary](img/treatment_memory_discrepancy_50_percent_gap.png)  
 - ![Employer Benefits](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/employer_mental_health_benefits_access.png)  
 - ![Comfort Disclosure](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/comfort_discussing_with_supervisor.png)  
 - ![Anonymity Demand](https://raw.githubusercontent.com/megmontanez2000/HypnoNeuro/main/visuals/perceived_protection_by_anonymity.png)
