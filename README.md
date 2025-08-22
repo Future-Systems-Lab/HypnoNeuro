@@ -13,7 +13,7 @@ Successfully compiled 21 Solidity files with Hardhat and OpenZeppelin for the Hy
 
 HypnoNeuro™ is a decentralized, gamified mental wellness system rooted in trauma-informed care, privacy-by-design, and natural healing. Built on Ethereum and IPFS, it replaces shame, overmedication, and inaccessibility with avatar anonymity, tokenized access, and reward-based healing.
 
-This platform exists because the current mental health system ignores trauma, punishes vulnerability, and betrays its own ethical foundation: *first, do no harm*.
+This platform exists because the current mental health system often overlooks trauma, discourages openness, and falls short of its own guiding principle: first, do no harm.
 
 We are using blockchain technology exactly as it was intended: to build systems that do not require permission. Just as naturopathic medicine honors the body’s innate capacity to heal, blockchain respects individual sovereignty and privacy, ensuring access to care without interference or censorship.
 
