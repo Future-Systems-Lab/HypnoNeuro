@@ -19,11 +19,35 @@ We are using blockchain technology exactly as it was intended: to build systems 
 
 ---
 
-## 🌿 Purpose and Ethos
+# 🌿 Purpose and Ethos  
 
-HypnoNeuro is designed to guide the consciousness through grief, loss, depression, anxiety, insomnia, childhood wounds, and trauma using **gamified naturopathic and orthomolecular methodologies**.
+HypnoNeuro is designed to guide consciousness through grief, loss, depression, anxiety, insomnia, childhood wounds, and trauma using gamified naturopathic and orthomolecular methodologies.  
 
-This system is not a distraction tool. It is a **living, adaptive system for transformation**.
+This system is not a distraction tool. It is a **living, adaptive system for transformation**. It integrates neuroscience, nutrition, and therapeutic play into a structure that helps users rebuild their inner balance while earning visible milestones of progress. Each session completed reinforces healing through measurable achievements, token rewards, and NFT badges that remind users of their growth.  
+
+⚠️ **Disclaimer**: HypnoNeuro is **not intended to diagnose, treat, or cure any medical or psychological condition**. It is a self-guided wellness tool designed for education, support, and complementary use only.  
+
+---
+
+# HypnoNeuro Mental Wellness Tool Overview  
+
+HypnoNeuro functions as an AI-driven therapist with a naturopathic approach. Users progress through three “rooms” each week to earn rewards that bridge digital wellness with real-life practitioner support.  
+
+### Weekly Rooms  
+1. **L1: Hypnosis Room** – Guided hypnotherapy sessions.  
+2. **L2: Orthomolecular Room** – Nutrition and lifestyle practices for **neurotransmitter system rebalancing and rebuilding**.  
+3. **L3: Inner Child Room** – Color therapy and creative activities.  
+
+### Daily Check-Ins  
+Users log mood and food daily, enabling the AI to detect patterns and provide personalized guidance.  
+
+### Mini-Games  
+Gamified micro-activities simulate everyday behaviors, making check-ins and wellness practices easier and more engaging.  
+
+### Progression & Rewards  
+- **NFT Badges**: Serve as proof of completed rooms and positive reinforcement milestones.  
+- **Tokens**: Redeemable for discounts with real-life practitioners.  
+- **Flexible Flow**: Rooms may be completed all at once or spread throughout the week.  
 
 ---
 
