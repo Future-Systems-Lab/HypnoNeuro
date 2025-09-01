@@ -22,3 +22,6 @@ HypnoNeuroToken_flattened.sol.save
 
 # do not track raw data
 data/
+
+# ignore Office docs
+*.docx
