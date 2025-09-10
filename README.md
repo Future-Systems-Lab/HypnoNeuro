@@ -1,27 +1,25 @@
-# HypnoNeuro (Private Repository with Showcase)
+# HypnoNeuro (Private Repository)
 
 **HypnoNeuro** is a decentralized mental wellness ecosystem.  
 The full codebase (smart contracts, integrations) is private due to IP and audit requirements.  
 
 ---
 
-## 📊 Showcase (Safe Artifacts)
-This repo includes non-sensitive examples to illustrate core skills:  
+## 📊 Showcase (Selected Files from This Repo)
 
-- [**Tokenomics Diagram**](showcase/tokenomics-diagram.md) — ERC-20 + NFT interaction model  
-- [**Analytics Demo Notebook**](showcase/analytics-demo.ipynb) — ETL + visualization with synthetic data  
-- [**Governance Checklist**](showcase/governance-checklist.md) — compliance and security framework  
+- [**hardhat.config.js**](hardhat.config.js) — Hardhat setup for contract compilation and deployment  
+- [**metadata.json**](metadata.json) — NFT metadata structure (safe example)  
+- [**package.json**](package.json) — Node.js dependencies for blockchain development  
 
 ---
 
 ## 🧭 Skills Demonstrated
-- **Project Management** — concept → deployment  
-- **Blockchain** — ERC-20, ERC-721 tokenomics design  
-- **Analytics** — healthcare ETL pipelines, dashboards, behavioral metrics  
-- **Governance & Security** — compliance frameworks, security audits (Slither, Mythril)  
+- **Blockchain Development** — Hardhat, ERC-20/721 contract setup  
+- **Smart Contract Tooling** — config management, compilation pipeline  
+- **Web3 Infrastructure** — project structure for scalable dApp development  
 
 ---
 
 ## 🔒 Access
-The complete HypnoNeuro codebase is **private**.  
-Full access may be granted **upon request** to recruiters, collaborators, or audit reviewers.  
+This repository is private to protect smart contracts under audit.  
+Full access can be granted **upon request** to recruiters, collaborators, or security reviewers.  
