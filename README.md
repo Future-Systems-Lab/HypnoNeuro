@@ -89,3 +89,22 @@ Each token is verified on-chain and linked to the HypnoNeuro and EncryptHealth e
 
 ---
 
+
+---
+
+<p align="center">
+  <img src="web/public/hypnoneurotoken.png" width="160" alt="HypnoNeuro Token Logo">
+</p>
+
+## 🪙 Token Showcase
+
+| Token | Standard | Network | Address | Explorer |
+|-------|-----------|----------|----------|-----------|
+| **HypnoNeuroToken (HNT)** | ERC-20 | Sepolia | `0x8D21A5F67eB60a3B6C02812aE8F3fB894a1B1024` | [View on Etherscan](https://sepolia.etherscan.io/address/0x8D21A5F67eB60a3B6C02812aE8F3fB894a1B1024) |
+| **MindMasteryNFT** | ERC-721 L1–L3 | Sepolia | `0xF0E17ED991EFc79B734A8f4C34F2dEda0022F2F` | [View on Etherscan](https://sepolia.etherscan.io/address/0xF0E17ED991EFc79B734A8f4C34F2dEda0022F2F) |
+| **EncryptHealthToken** | ERC-20 | Sepolia | `0x9F1C5EaD6c8B28E7818A9b0E995C9470cFE528B8` | [View on Etherscan](https://sepolia.etherscan.io/address/0x9F1C5EaD6c8B28E7818A9b0E995C9470cFE528B8) |
+
+Each token is verified on-chain and linked to the HypnoNeuro and EncryptHealth ecosystems.
+
+---
+
