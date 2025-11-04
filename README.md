@@ -108,3 +108,12 @@ Each token is verified on-chain and linked to the HypnoNeuro and EncryptHealth e
 
 ---
 
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Future-Systems-Lab/HypnoNeuro/main/web/public/hypnoneurotoken.png" width="160" alt="HypnoNeuro Token Logo">
+</p>
+
+---
+
