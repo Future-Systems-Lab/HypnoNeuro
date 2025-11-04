@@ -35,11 +35,11 @@ Built under the **Future Systems Lab**, it links wellness compliance, consent go
 
 ## Smart Contracts (Deployed on Sepolia)
 
-| Contract | Address | Description |
-|-----------|----------|--------------|
-| HypnoNeuroToken | 0x... | ERC-20 governance + rewards |
-| MindMasteryNFT | 0x... | ERC-721 L1–L3 credential NFT |
-| EncryptHealthToken | 0x... | Shared token utility with EncryptHealth |
+| Contract | Address | Description | Explorer |
+|-----------|----------|--------------|-----------|
+| **HypnoNeuroToken** | `0x8D21A5F67eB60aB36C0281a2E8F3F8894aB18D24` | ERC-20 governance + rewards | [View on Etherscan](https://sepolia.etherscan.io/address/0x8D21A5F67eB60aB36C0281a2E8F3F8894aB18D24) |
+| **MindMasteryNFT** | `0xF0E17EDE991EFc79B734A8f4Cc34F20Eda00222F` | ERC-721 L1–L3 credential NFT | [View on Etherscan](https://sepolia.etherscan.io/address/0xF0E17EDE991EFc79B734A8f4Cc34F20Eda00222F) |
+| **EncryptHealthToken** | `0x9F1C5EaD6c8B28E7818A9b0E995C9470CcfE52B8` | Shared token utility with EncryptHealth | [View on Etherscan](https://sepolia.etherscan.io/address/0x9F1C5EaD6c8B28E7818A9b0E995C9470CcfE52B8) |
 
 ---
 
