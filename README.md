@@ -57,3 +57,20 @@ http://localhost:3012
 ---
 
 © Future Systems Lab | HypnoNeuro Project | Rights Reserved, Unlicensed
+
+### View Contracts and Source Code
+
+All verified source files are available inside the repository under  
+[`/HypnoNeuroContracts`](https://github.com/Future-Systems-Lab/HypnoNeuro/tree/main/HypnoNeuroContracts)  
+and [`/contracts`](https://github.com/Future-Systems-Lab/HypnoNeuro/tree/main/contracts).
+
+For direct on-chain viewing and verification:
+
+| Contract | Network | Address | Explorer |
+|-----------|----------|----------|-----------|
+| **HypnoNeuroNFT_L1_L3** | Sepolia | `0x8D21A5F67eB60aB36C0281a2E8F3F8894aB18D24` | [View on Etherscan](https://sepolia.etherscan.io/address/0x8D21A5F67eB60aB36C0281a2E8F3F8894aB18D24) |
+| **EncryptHealthToken** | Sepolia | `0x9F1C5EaD6c8B28E7818A9b0E995C9470CcfE52B8` | [View on Etherscan](https://sepolia.etherscan.io/address/0x9F1C5EaD6c8B28E7818A9b0E995C9470CcfE52B8) |
+| **MindMasteryNFT** | Sepolia | `0xF0E17EDE991EFc79B734A8f4Cc34F20Eda00222F` | [View on Etherscan](https://sepolia.etherscan.io/address/0xF0E17EDE991EFc79B734A8f4Cc34F20Eda00222F) |
+
+These contracts are actively linked within the **Future Systems Lab** ecosystem across  
+HypnoNeuro and EncryptHealth, forming a unified digital-health governance layer.
