@@ -63,3 +63,12 @@ All tokens verified and published via Hardhat flattening and `npx hardhat verify
 ---
 
 © 2025 Future Systems Lab. All Rights Reserved.
+
+---
+
+## 🪙 Token & NFT Logos
+
+| EncryptHealthToken (EHT) | MindMasteryNFT – Foundation | MindMasteryNFT – Elevation | MindMasteryNFT – Ascension |
+|---------------------------|-----------------------------|-----------------------------|-----------------------------|
+| <img src="web/public/encrypthealthtoken.png" alt="EHT" width="140"/> | <img src="web/public/mindmastery_foundation.png" alt="Foundation" width="140"/> | <img src="web/public/mindmastery_elevation.png" alt="Elevation" width="140"/> | <img src="web/public/mindmastery_ascension.png" alt="Ascension" width="140"/> |
+
