@@ -9,13 +9,34 @@ const abi = [
   { "inputs": [{"internalType":"address","name":"account","type":"address"}], "name":"balanceOf","outputs":[{"internalType":"uint256","name":"","type":"uint256"}], "stateMutability":"view","type":"function" }
 ]
 
+async function ensureLocalhost() {
+  const ethereum = (window as any).ethereum
+  if (!ethereum) throw new Error('No wallet')
+  try {
+    await ethereum.request({ method: 'wallet_switchEthereumChain', params: [{ chainId: '0x7A69' }] })
+  } catch (e:any) {
+    if (e.code === 4902) {
+      await ethereum.request({
+        method: 'wallet_addEthereumChain',
+        params: [{
+          chainId: '0x7A69',
+          chainName: 'Hardhat Localhost',
+          rpcUrls: ['http://127.0.0.1:8545'],
+          nativeCurrency: { name: 'ETH', symbol: 'ETH', decimals: 18 }
+        }]
+      })
+    } else {
+      throw e
+    }
+  }
+}
+
 export default function OMTDemo() {
-  const [addr,setAddr] = useState<string>(''); 
-  const [bal,setBal] = useState<string>('0');
+  const [addr,setAddr] = useState<string>('') 
+  const [bal,setBal] = useState<string>('0')
   const [status,setStatus] = useState<string>('')
 
   async function getSignerAndContract() {
-    if (!(window as any).ethereum) throw new Error('No wallet')
     const provider = new BrowserProvider((window as any).ethereum)
     const signer = await provider.getSigner()
     const contract = new Contract(process.env.NEXT_PUBLIC_OMT_ADDRESS as string, abi, signer)
@@ -23,14 +44,20 @@ export default function OMTDemo() {
   }
 
   async function connect() {
-    const ethereum = (window as any).ethereum
-    if (!ethereum) { setStatus('No wallet'); return }
-    await ethereum.request({ method: 'eth_requestAccounts' })
-    const { signer, contract } = await getSignerAndContract()
-    setAddr(await signer.getAddress())
-    const b = await contract.balanceOf(await signer.getAddress())
-    setBal(formatUnits(b,18))
-    setStatus('Connected')
+    try {
+      await ensureLocalhost()
+      const ethereum = (window as any).ethereum
+      await ethereum.request({ method: 'eth_requestAccounts' })
+      const { signer, contract } = await getSignerAndContract()
+      setAddr(await signer.getAddress())
+      const b = await contract.balanceOf(await signer.getAddress())
+      setBal(formatUnits(b,18))
+      setStatus('Connected to Localhost 8545')
+    } catch(e:any){ setStatus(e.message||'error') }
+  }
+
+  async function switchNet() {
+    try { await ensureLocalhost(); setStatus('Switched to Localhost 8545') } catch(e:any){ setStatus(e.message||'error') }
   }
 
   async function confirmMeds() {
@@ -65,10 +92,11 @@ export default function OMTDemo() {
       </div>
       <div className="flex gap-3">
         <button onClick={connect} className="px-3 py-2 rounded border">Connect</button>
+        <button onClick={switchNet} className="px-3 py-2 rounded border">Switch to Localhost</button>
         <button onClick={confirmMeds} className="px-3 py-2 rounded border">Confirm Meds</button>
         <button onClick={completeModule} className="px-3 py-2 rounded border">Complete Module</button>
       </div>
-      <p className="text-sm text-gray-500">Uses local Hardhat default address for contract. Run the local demo scripts first.</p>
+      <p className="text-sm text-gray-500">Uses local Hardhat at 127.0.0.1:8545.</p>
     </div>
   )
 }
