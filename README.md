@@ -105,3 +105,6 @@ See [docs/LOCAL_DEMO.md](./docs/LOCAL_DEMO.md).
 \n
 ## CI
 [![CI](https://github.com/Future-Systems-Lab/HypnoNeuro/actions/workflows/ci.yml/badge.svg)](https://github.com/Future-Systems-Lab/HypnoNeuro/actions/workflows/ci.yml)
+
+## Quickstart
+See [docs/QUICKSTART.md](./docs/QUICKSTART.md).
