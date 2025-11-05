@@ -52,35 +52,6 @@ See the full system diagram in [ARCHITECTURE.md](./ARCHITECTURE.md).
 
 ---
 
-## 🧾 Verification
-All tokens verified and published via Hardhat flattening and `npx hardhat verify` before linking to GitHub.
-
----
-
-## 🖼️ Logo
-<img src="web/public/hypnoneurotoken.png" alt="HypnoNeuro Token Logo" width="300"/>
-
----
-
-© 2025 Future Systems Lab. All Rights Reserved.
-
----
-
-## 🪙 Token & NFT Logos
-
-| EncryptHealthToken (EHT) | MindMasteryNFT – Foundation | MindMasteryNFT – Elevation | MindMasteryNFT – Ascension |
-|---------------------------|-----------------------------|-----------------------------|-----------------------------|
-| <img src="web/public/encrypthealthtoken.png" alt="EHT" width="140"/> | <img src="web/public/mindmastery_foundation.png" alt="Foundation" width="140"/> | <img src="web/public/mindmastery_elevation.png" alt="Elevation" width="140"/> | <img src="web/public/mindmastery_ascension.png" alt="Ascension" width="140"/> |
-
-<p align="center">
-  <img src="web/public/encrypthealthtoken.png" alt="EncryptHealthToken" width="150" style="margin:10px;"/>  
-  <img src="web/public/mindmastery_foundation.png" alt="MindMastery Foundation" width="150" style="margin:10px;"/>  
-  <img src="web/public/mindmastery_elevation.png" alt="MindMastery Elevation" width="150" style="margin:10px;"/>  
-  <img src="web/public/mindmastery_ascension.png" alt="MindMastery Ascension" width="150" style="margin:10px;"/>  
-</p>
-
----
-
 ## 🧠 Local Demo — Hardhat + MetaMask
 
 This section documents the verified local development workflow for the OrthomolecularToken demo.
@@ -128,3 +99,25 @@ See [docs/CONTRACTS.md](./docs/CONTRACTS.md).
 
 ## Quickstart
 See [docs/QUICKSTART.md](./docs/QUICKSTART.md).
+
+---
+
+## 🧾 Verification
+All tokens verified and published via Hardhat flattening and `npx hardhat verify` before linking to GitHub.
+
+---
+
+## 🖼️ Logo
+<img src="web/public/hypnoneurotoken.png" alt="HypnoNeuro Token Logo" width="300"/>
+
+---
+
+## 🪙 Token & NFT Logos
+
+| EncryptHealthToken (EHT) | MindMasteryNFT – Foundation | MindMasteryNFT – Elevation | MindMasteryNFT – Ascension |
+|---------------------------|-----------------------------|-----------------------------|-----------------------------|
+| <img src="web/public/encrypthealthtoken.png" alt="EHT" width="140"/> | <img src="web/public/mindmastery_foundation.png" alt="Foundation" width="140"/> | <img src="web/public/mindmastery_elevation.png" alt="Elevation" width="140"/> | <img src="web/public/mindmastery_ascension.png" alt="Ascension" width="140"/> |
+
+---
+
+© 2025 Future Systems Lab. All Rights Reserved.
