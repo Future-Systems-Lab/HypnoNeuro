@@ -27,7 +27,7 @@ Each token is verified on-chain and linked to the **HypnoNeuro** and **EncryptHe
 ## 🧩 Token Logic
 
 - **HNT** powers in-app rewards and DAO governance.  
-- **MindMasteryNFT** tracks progression through behavioral mastery levels (L1-L3).  
+- **MindMasteryNFT** tracks progression through behavioral mastery levels (L1–L3).  
 - **EHT** underpins data-consent and analytics exchange within EncryptHealth.
 
 ---
@@ -43,9 +43,9 @@ Each token is verified on-chain and linked to the **HypnoNeuro** and **EncryptHe
 
 ## 🧠 Architecture Summary
 
-1. **Frontend:** Next.js + Wagmi v2 (MetaMask connect)
-2. **Smart Contracts:** Solidity (verified on Sepolia)
-3. **Backend Integration:** HL7/FHIR mapping & DID-based consent prototypes
+1. **Frontend:** Next.js + Wagmi v2 (MetaMask connect)  
+2. **Smart Contracts:** Solidity (verified on Sepolia)  
+3. **Backend Integration:** HL7/FHIR mapping & DID-based consent prototypes  
 4. **Analytics Layer:** Consent and reward tracking (planned for Dune/Graph integration)
 
 See the full system diagram in [ARCHITECTURE.md](./ARCHITECTURE.md).
@@ -53,13 +53,11 @@ See the full system diagram in [ARCHITECTURE.md](./ARCHITECTURE.md).
 ---
 
 ## 🧾 Verification
-
 All tokens verified and published via Hardhat flattening and `npx hardhat verify` before linking to GitHub.
 
 ---
 
 ## 🖼️ Logo
-
 <img src="web/public/hypnoneurotoken.png" alt="HypnoNeuro Token Logo" width="300"/>
 
 ---
@@ -74,25 +72,50 @@ All tokens verified and published via Hardhat flattening and `npx hardhat verify
 |---------------------------|-----------------------------|-----------------------------|-----------------------------|
 | <img src="web/public/encrypthealthtoken.png" alt="EHT" width="140"/> | <img src="web/public/mindmastery_foundation.png" alt="Foundation" width="140"/> | <img src="web/public/mindmastery_elevation.png" alt="Elevation" width="140"/> | <img src="web/public/mindmastery_ascension.png" alt="Ascension" width="140"/> |
 
+<p align="center">
+  <img src="web/public/encrypthealthtoken.png" alt="EncryptHealthToken" width="150" style="margin:10px;"/>  
+  <img src="web/public/mindmastery_foundation.png" alt="MindMastery Foundation" width="150" style="margin:10px;"/>  
+  <img src="web/public/mindmastery_elevation.png" alt="MindMastery Elevation" width="150" style="margin:10px;"/>  
+  <img src="web/public/mindmastery_ascension.png" alt="MindMastery Ascension" width="150" style="margin:10px;"/>  
+</p>
 
 ---
 
-## 🪙 Token & NFT Logos
+## 🧠 Local Demo — Hardhat + MetaMask
 
-<p align="center">
-  <img src="web/public/encrypthealthtoken.png" alt="EncryptHealthToken" width="150" style="margin:10px;"/>
-  <img src="web/public/mindmastery_foundation.png" alt="MindMastery Foundation" width="150" style="margin:10px;"/>
-  <img src="web/public/mindmastery_elevation.png" alt="MindMastery Elevation" width="150" style="margin:10px;"/>
-  <img src="web/public/mindmastery_ascension.png" alt="MindMastery Ascension" width="150" style="margin:10px;"/>
-</p>
+This section documents the verified local development workflow for the OrthomolecularToken demo.
 
+### Run Locally
+\`\`\`bash
+cd ~/HypnoNeuro
+npx hardhat node --hostname 0.0.0.0
+cd web
+pnpm exec next dev -p 3012
+\`\`\`
+
+### MetaMask Setup
+| Field | Value |
+|-------|--------|
+| **Network Name** | Hardhat Localhost |
+| **RPC URL** | http://127.0.0.1:8545 |
+| **Chain ID** | 31337 |
+| **Currency Symbol** | ETH |
+
+### Usage
+1. Open [http://localhost:3012/omt](http://localhost:3012/omt)  
+2. Click **Connect Wallet** and approve MetaMask popup.  
+3. Click **Confirm Meds** to send a transaction to your local Hardhat contract.  
+
+✅ Verified connection between Hardhat RPC \`31337\` and MetaMask.
+
+---
 
 ## Diagrams
-- [System Architecture](./ARCHITECTURE.md)
+- [System Architecture](./ARCHITECTURE.md)  
 - [Token, NFT, and Compliance Flow](./TOKEN_FLOW.md)
 
 ## Docs
-See the index in [docs/INDEX.md](./docs/INDEX.md).
+See index in [docs/INDEX.md](./docs/INDEX.md).
 
 ## Tokenomics
 See [docs/TOKENOMICS.md](./docs/TOKENOMICS.md).
@@ -100,9 +123,6 @@ See [docs/TOKENOMICS.md](./docs/TOKENOMICS.md).
 ## Contracts
 See [docs/CONTRACTS.md](./docs/CONTRACTS.md).
 
-## Local Demo
-See [docs/LOCAL_DEMO.md](./docs/LOCAL_DEMO.md).
-\n
 ## CI
 [![CI](https://github.com/Future-Systems-Lab/HypnoNeuro/actions/workflows/ci.yml/badge.svg)](https://github.com/Future-Systems-Lab/HypnoNeuro/actions/workflows/ci.yml)
 
