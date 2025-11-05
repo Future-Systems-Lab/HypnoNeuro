@@ -90,3 +90,6 @@ All tokens verified and published via Hardhat flattening and `npx hardhat verify
 ## Diagrams
 - [System Architecture](./ARCHITECTURE.md)
 - [Token, NFT, and Compliance Flow](./TOKEN_FLOW.md)
+
+## Docs
+See the index in [docs/INDEX.md](./docs/INDEX.md).
