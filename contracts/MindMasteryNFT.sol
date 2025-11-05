@@ -11,7 +11,7 @@ contract MindMasteryNFT is ERC721URIStorage, Ownable {
 
     event NFTMinted(address indexed to, uint256 tokenId, string tokenURI, string level);
 
-    constructor() ERC721("MindMasteryNFT", "MMNFT") Ownable(msg.sender) {}
+    constructor() ERC721("MindMasteryNFT", "MMNFT") Ownable() {}
 
     function mintNFT(address to, string memory tokenURI, string memory level) external onlyOwner {
         uint256 tokenId = nextTokenId;

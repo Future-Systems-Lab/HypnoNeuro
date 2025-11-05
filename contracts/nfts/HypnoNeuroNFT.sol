@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract HypnoNeuroNFT is ERC721URIStorage, Ownable {
     uint256 public tokenCounter;
 
-    constructor() ERC721("HypnoNeuroNFT", "HNFT") Ownable(msg.sender) {
+    constructor() ERC721("HypnoNeuroNFT", "HNFT") Ownable() {
         tokenCounter = 0;
     }
 
