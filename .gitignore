@@ -25,3 +25,4 @@ data/
 
 # ignore Office docs
 *.docx
+web/.next
