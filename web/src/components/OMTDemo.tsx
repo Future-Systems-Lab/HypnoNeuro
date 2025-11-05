@@ -1,6 +1,6 @@
 // Rights Reserved, Unlicensed
 'use client'
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import { BrowserProvider, Contract, formatUnits } from 'ethers'
 
 const abi = [
@@ -11,24 +11,21 @@ const abi = [
 
 async function ensureLocalhost() {
   const ethereum = (window as any).ethereum
-  if (!ethereum) throw new Error('No wallet')
-  try {
-    await ethereum.request({ method: 'wallet_switchEthereumChain', params: [{ chainId: '0x7A69' }] })
-  } catch (e:any) {
+  await ethereum.request({ method: 'wallet_switchEthereumChain', params: [{ chainId: '0x7A69' }] }).catch(async (e:any) => {
     if (e.code === 4902) {
       await ethereum.request({
         method: 'wallet_addEthereumChain',
-        params: [{
-          chainId: '0x7A69',
-          chainName: 'Hardhat Localhost',
-          rpcUrls: ['http://127.0.0.1:8545'],
-          nativeCurrency: { name: 'ETH', symbol: 'ETH', decimals: 18 }
-        }]
+        params: [{ chainId: '0x7A69', chainName: 'Hardhat Localhost', rpcUrls: ['http://127.0.0.1:8545'], nativeCurrency: { name:'ETH', symbol:'ETH', decimals:18 } }]
       })
-    } else {
-      throw e
-    }
-  }
+    } else { throw e }
+  })
+}
+
+async function getSignerAndContract() {
+  const provider = new BrowserProvider((window as any).ethereum)
+  const signer = await provider.getSigner()
+  const contract = new Contract(process.env.NEXT_PUBLIC_OMT_ADDRESS as string, abi, signer)
+  return { signer, contract }
 }
 
 export default function OMTDemo() {
@@ -36,18 +33,10 @@ export default function OMTDemo() {
   const [bal,setBal] = useState<string>('0')
   const [status,setStatus] = useState<string>('')
 
-  async function getSignerAndContract() {
-    const provider = new BrowserProvider((window as any).ethereum)
-    const signer = await provider.getSigner()
-    const contract = new Contract(process.env.NEXT_PUBLIC_OMT_ADDRESS as string, abi, signer)
-    return { signer, contract }
-  }
-
   async function connect() {
     try {
       await ensureLocalhost()
-      const ethereum = (window as any).ethereum
-      await ethereum.request({ method: 'eth_requestAccounts' })
+      await (window as any).ethereum.request({ method:'eth_requestAccounts' })
       const { signer, contract } = await getSignerAndContract()
       setAddr(await signer.getAddress())
       const b = await contract.balanceOf(await signer.getAddress())
@@ -56,13 +45,10 @@ export default function OMTDemo() {
     } catch(e:any){ setStatus(e.message||'error') }
   }
 
-  async function switchNet() {
-    try { await ensureLocalhost(); setStatus('Switched to Localhost 8545') } catch(e:any){ setStatus(e.message||'error') }
-  }
-
   async function confirmMeds() {
     try {
       setStatus('Confirming meds…')
+      await ensureLocalhost()
       const { contract } = await getSignerAndContract()
       const tx = await contract.confirmMedications()
       await tx.wait()
@@ -73,6 +59,7 @@ export default function OMTDemo() {
   async function completeModule() {
     try {
       setStatus('Completing module…')
+      await ensureLocalhost()
       const { signer, contract } = await getSignerAndContract()
       const tx = await contract.completeModule()
       await tx.wait()
@@ -92,7 +79,6 @@ export default function OMTDemo() {
       </div>
       <div className="flex gap-3">
         <button onClick={connect} className="px-3 py-2 rounded border">Connect</button>
-        <button onClick={switchNet} className="px-3 py-2 rounded border">Switch to Localhost</button>
         <button onClick={confirmMeds} className="px-3 py-2 rounded border">Confirm Meds</button>
         <button onClick={completeModule} className="px-3 py-2 rounded border">Complete Module</button>
       </div>
