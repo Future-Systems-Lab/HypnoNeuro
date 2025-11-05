@@ -48,6 +48,8 @@ Each token is verified on-chain and linked to the **HypnoNeuro** and **EncryptHe
 3. **Backend Integration:** HL7/FHIR mapping & DID-based consent prototypes
 4. **Analytics Layer:** Consent and reward tracking (planned for Dune/Graph integration)
 
+See the full system diagram in [ARCHITECTURE.md](./ARCHITECTURE.md).
+
 ---
 
 ## 🧾 Verification
@@ -84,6 +86,3 @@ All tokens verified and published via Hardhat flattening and `npx hardhat verify
   <img src="web/public/mindmastery_ascension.png" alt="MindMastery Ascension" width="150" style="margin:10px;"/>
 </p>
 
-
-## Architecture
-See the full system diagram in [ARCHITECTURE.md](./ARCHITECTURE.md).
