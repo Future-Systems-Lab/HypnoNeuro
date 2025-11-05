@@ -102,3 +102,6 @@ See [docs/CONTRACTS.md](./docs/CONTRACTS.md).
 
 ## Local Demo
 See [docs/LOCAL_DEMO.md](./docs/LOCAL_DEMO.md).
+\n
+## CI
+[![CI](https://github.com/Future-Systems-Lab/HypnoNeuro/actions/workflows/ci.yml/badge.svg)](https://github.com/Future-Systems-Lab/HypnoNeuro/actions/workflows/ci.yml)
