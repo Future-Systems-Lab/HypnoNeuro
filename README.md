@@ -84,3 +84,6 @@ All tokens verified and published via Hardhat flattening and `npx hardhat verify
   <img src="web/public/mindmastery_ascension.png" alt="MindMastery Ascension" width="150" style="margin:10px;"/>
 </p>
 
+
+## Architecture
+See the full system diagram in [ARCHITECTURE.md](./ARCHITECTURE.md).
