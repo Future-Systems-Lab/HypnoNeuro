@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // Rights Reserved, Unlicensed
 # HypnoNeuro
 
@@ -11,9 +10,6 @@ Each confirmation records an on-chain engagement event through the **Orthomolecu
 By combining verifiable credentials, decentralized identity, and incentive-based progress tracking, HypnoNeuro promotes self-education and measurable behavior change within the **EncryptHealth** ecosystem.
 
 ---
-=======
-// Rights Reserved, Unlicensedn# HypnoNeuronnA decentralized mental-wellness and neurofeedback ecosystem that gamifies behavioral reinforcement through verifiable credentials, OrthomolecularToken smart contracts, and privacy-preserving data exchange.nnUsers connect MetaMask to confirm personalized “meds” sessions—each confirmation writes an on-chain event verifying engagement within the **HypnoNeuro** and **EncryptHealth** frameworks.n---
->>>>>>> 214b986 (Refine project summary to describe Confirm Meds on-chain workflow)
 
 ## 🔐 Project Overview
 
