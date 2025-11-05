@@ -133,11 +133,6 @@ All tokens verified and published via Hardhat flattening and `npx hardhat verify
 
 ---
 
-## 🖼️ Logo
-<img src="web/public/hypnoneurotoken.png" alt="HypnoNeuro Token Logo" width="300"/>
-
----
-
 ## 🪙 Token & NFT Logos
 
 | HypnoNeuroToken (HNT) | OrthomolecularToken (OMT) | MindMasteryNFT – Foundation | MindMasteryNFT – Elevation | MindMasteryNFT – Ascension | EncryptHealthToken (EHT) |
