@@ -13,7 +13,7 @@ contract OrthomolecularToken is ERC20, Ownable {
     uint256 public constant MODULE_REWARD = 100 * 10**18;
     uint256 public constant COMPLIANCE_REWARD = 50 * 10**18;
 
-    constructor() ERC20("OrthomolecularToken", "OMT") Ownable(msg.sender) {}
+    constructor() ERC20("OrthomolecularToken", "OMT") Ownable() {}
 
     function confirmMedications() external {
         medsConfirmed[msg.sender] = true;
