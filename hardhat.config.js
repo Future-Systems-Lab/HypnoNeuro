@@ -1,13 +1,14 @@
+// Rights Reserved, Unlicensed
 require("@nomicfoundation/hardhat-toolbox");
-
-/** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
-  solidity: "0.8.28",
-  networks: {
-    sepolia: {
-      url: "https://sepolia.infura.io/v3/5084b09c53924f9d9c6e05e172ba90af",
-      accounts: ["e789f757edac6c8386751362dfbd9e52ec0237f61c69042ed27f2820a467b4ab"]
-    }
+  solidity: {
+    compilers: [
+      { version: "0.8.30", settings: { optimizer: { enabled: true, runs: 200 } } },
+      { version: "0.8.28", settings: { optimizer: { enabled: true, runs: 200 } } },
+      { version: "0.8.24", settings: { optimizer: { enabled: true, runs: 200 } } },
+      { version: "0.8.20", settings: { optimizer: { enabled: true, runs: 200 } } },
+      { version: "0.8.1",  settings: { optimizer: { enabled: true, runs: 200 } } },
+      { version: "0.8.0",  settings: { optimizer: { enabled: true, runs: 200 } } }
+    ]
   }
 };
-
