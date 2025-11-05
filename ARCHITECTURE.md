@@ -9,10 +9,10 @@ subgraph UI[Player / Patient UI]
     A2[Orthomolecular Dashboard]
     A3[Symptom Tracking]
     A4[Medication Tracking + Confirmation]
-    A5[Metrics Input (labs, vitals)]
+    A5["Metrics Input (labs, vitals)"]
 end
 
-subgraph FE[Front-End App (React)]
+subgraph FE["Front-End App (React)"]
     F1[Validate Medication Confirmation]
     F2[Send Completion Proof to Smart Contracts]
     F3[Fetch Educational Content from IPFS]
