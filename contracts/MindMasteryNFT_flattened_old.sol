@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: UNLICENSED
+// SPDX-License-Identifier: MIT
 // File: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v4.9.3/contracts/utils/introspection/IERC165.sol
 
 
@@ -1738,6 +1738,5 @@ contract MindMasteryNFT is ERC721URIStorage, Ownable {
         require(_exists(tokenId), "Token does not exist");
         return _tokenMeta[tokenId];
     }
-}// SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.30;
 
