@@ -93,3 +93,9 @@ All tokens verified and published via Hardhat flattening and `npx hardhat verify
 
 ## Docs
 See the index in [docs/INDEX.md](./docs/INDEX.md).
+
+## Tokenomics
+See [docs/TOKENOMICS.md](./docs/TOKENOMICS.md).
+
+## Contracts
+See [docs/CONTRACTS.md](./docs/CONTRACTS.md).
