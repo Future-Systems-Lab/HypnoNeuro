@@ -7,5 +7,11 @@
   },
   "dependencies": {
     "dotenv": "^17.0.1"
+  },
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test",
+    "demo_module": "npx hardhat run scripts/omt_demo.js",
+    "demo_compliance": "npx hardhat run scripts/omt_compliance.js"
   }
 }
