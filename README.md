@@ -99,3 +99,6 @@ See [docs/TOKENOMICS.md](./docs/TOKENOMICS.md).
 
 ## Contracts
 See [docs/CONTRACTS.md](./docs/CONTRACTS.md).
+
+## Local Demo
+See [docs/LOCAL_DEMO.md](./docs/LOCAL_DEMO.md).
