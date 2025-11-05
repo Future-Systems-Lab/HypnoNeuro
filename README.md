@@ -140,9 +140,9 @@ All tokens verified and published via Hardhat flattening and `npx hardhat verify
 
 ## 🪙 Token & NFT Logos
 
-| HypnoNeuroToken (HNT) | OrthomolecularToken (OMT) | MindMasteryNFT (L1–L3) | EncryptHealthToken (EHT) |
-|------------------------|----------------------------|--------------------------|---------------------------|
-| <img src="web/public/hypnoneurotoken.png" alt="HNT" width="140"/> | <img src="web/public/orthoMolecularCoin.png" alt="OMT" width="140"/> | <img src="web/public/mindmastery_foundation.png" alt="MindMasteryNFT" width="140"/> | <img src="web/public/encrypthealthtoken.png" alt="EHT" width="140"/> |
+| HypnoNeuroToken (HNT) | OrthomolecularToken (OMT) | MindMasteryNFT – Foundation | MindMasteryNFT – Elevation | MindMasteryNFT – Ascension | EncryptHealthToken (EHT) |
+|------------------------|----------------------------|-----------------------------|-----------------------------|-----------------------------|---------------------------|
+| <img src="web/public/hypnoneurotoken.png" alt="HNT" width="140"/> | <img src="web/public/orthoMolecularCoin.png" alt="OMT" width="140"/> | <img src="web/public/mindmastery_foundation.png" alt="Foundation" width="140"/> | <img src="web/public/mindmastery_elevation.png" alt="Elevation" width="140"/> | <img src="web/public/mindmastery_ascension.png" alt="Ascension" width="140"/> | <img src="web/public/encrypthealthtoken.png" alt="EHT" width="140"/> |
 
 ---
 
