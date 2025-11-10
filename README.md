@@ -73,7 +73,7 @@ Together, these tokens form an educational, privacy-first ecosystem where learni
 **Smart Contracts (Sepolia)**
 - [HypnoNeuroToken (HNT)](https://sepolia.etherscan.io/token/0x411426f8E735F7940B20491609F08817A805b198) – Governance and educational reward token  
 - [MindMasteryNFT (L1–L3)](https://sepolia.etherscan.io/token/0xF0E17D991EFC79B734A8fC43f2dEda0022F2F) – Learning progression NFTs  
-[EncryptHealthToken (EHT) — View on Sepolia Etherscan](https://sepolia.etherscan.io/token/0xbDaeb1d05E02D2751Ad07121510b5f0C436E2CdC)
+- [EncryptHealthToken (EHT) — View on Sepolia Etherscan](https://sepolia.etherscan.io/token/0xbDaeb1d05E02D2751Ad07121510b5f0C436E2CdC)
 
 
 **Local Development (Hardhat Demo)**
