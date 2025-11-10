@@ -69,7 +69,7 @@ Together, these tokens form an educational, privacy-first ecosystem where learni
 - [HypnoNeuro Repository](https://github.com/Future-Systems-Lab/HypnoNeuro)
 
 **Smart Contracts (Sepolia)**
-- [HypnoNeuroToken (HNT)](https://sepolia.etherscan.io/token/0x8D21A5f67cB60a3B6C02812aEBf3fB894a1b1024) – Governance and educational reward token  
+- [HypnoNeuroToken (HNT)](https://sepolia.etherscan.io/token/0x411426f8E735F7940B20491609F08817A805b198) – Governance and educational reward token  
 - [MindMasteryNFT (L1–L3)](https://sepolia.etherscan.io/token/0xF0E17D991EFC79B734A8fC43f2dEda0022F2F) – Learning progression NFTs  
 - [EncryptHealthToken (EHT)](https://sepolia.etherscan.io/token/0x9F1C5EaD6c8B82E7818A9b0E959C947cFE5288B) – Data-consent and analytics token  
 
@@ -150,7 +150,7 @@ All tokens verified and published via Hardhat flattening and `npx hardhat verify
 |------------------------|----------------------------|-----------------------------|-----------------------------|-----------------------------|---------------------------|
 | <img src="web/public/hypnoneurotoken.png" alt="HNT" width="140"/> | <img src="web/public/orthoMolecularCoin.png" alt="OMT" width="140"/> | <img src="web/public/mindmastery_foundation.png" alt="Foundation" width="140"/> | <img src="web/public/mindmastery_elevation.png" alt="Elevation" width="140"/> | <img src="web/public/mindmastery_ascension.png" alt="Ascension" width="140"/> | <img src="web/public/encrypthealthtoken.png" alt="EHT" width="140"/> |
 
-[HypnoNeuroToken (HNT) — View on Ethereum Mainnet Etherscan](https://etherscan.io/address/0x6eab55a23d0bb0d38c79567525382fa98158e927)
+[HypnoNeuroToken (HNT) — View on Ethereum Mainnet Etherscan](https://etherscan.io/address/0x411426f8E735F7940B20491609F08817A805b198)
 
 ---
 
