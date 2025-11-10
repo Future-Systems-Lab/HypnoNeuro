@@ -150,7 +150,7 @@ All tokens verified and published via Hardhat flattening and `npx hardhat verify
 |------------------------|----------------------------|-----------------------------|-----------------------------|-----------------------------|---------------------------|
 | <img src="web/public/hypnoneurotoken.png" alt="HNT" width="140"/> | <img src="web/public/orthoMolecularCoin.png" alt="OMT" width="140"/> | <img src="web/public/mindmastery_foundation.png" alt="Foundation" width="140"/> | <img src="web/public/mindmastery_elevation.png" alt="Elevation" width="140"/> | <img src="web/public/mindmastery_ascension.png" alt="Ascension" width="140"/> | <img src="web/public/encrypthealthtoken.png" alt="EHT" width="140"/> |
 
-[HypnoNeuroToken (HNT) — View on Ethereum Mainnet Etherscan](https://etherscan.io/address/0x411426f8E735F7940B20491609F08817A805b198)
+[HypnoNeuroToken (HNT) — View on Sepolia Etherscan](https://sepolia.etherscan.io/address/0x411426f8E735F7940B20491609F08817A805b198)
 
 ---
 
