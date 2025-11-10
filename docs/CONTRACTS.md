@@ -1,9 +1,17 @@
 // Rights Reserved, Unlicensed
-# Verified Contracts — Sepolia
+### 🔗 HypnoNeuroToken — Sepolia Deployment
 
-## HypnoNeuroToken (HNT)
-Address: 0x8D21A5f67cB60a3B6C02812aEBf3fB894a1b1024
-Etherscan: https://sepolia.etherscan.io/address/0x8D21A5f67cB60a3B6C02812aEBf3fB894a1b1024
+**Contract Address:**  
+[`0x411426f8E735F7940B20491609F08817A805b198`](https://testnet.routescan.io/address/0x411426f8E735F7940B20491609F08817A805b198)
+
+**Verifications:**  
+- ✅ [Sourcify Verification](https://repo.sourcify.dev/11155111/0x411426f8E735F7940B20491609F08817A805b198/)  
+- ✅ [Routescan Verification](https://testnet.routescan.io/address/0x411426f8E735F7940B20491609F08817A805b198/contract/11155111/code)
+
+**Network:** Sepolia (Chain ID: 11155111)  
+**Token Name:** HypnoNeuroToken (HNT)
+
+----
 
 ## MindMasteryNFT (L1–L3)
 Address: 0xF0E17D991EFC79B734A8fC43f2dEda0022F2F
