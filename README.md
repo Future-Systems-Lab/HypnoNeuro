@@ -45,7 +45,8 @@ Each token models a specific aspect of the HypnoNeuro educational ecosystem—tr
 | **HypnoNeuroToken (HNT)** | ERC-20 | Legacy governance and reward token for ecosystem actions | Sepolia | 0x8D21A5f67cB60a3B6C02812aEBf3fB894a1b1024 | [View on Etherscan](https://sepolia.etherscan.io/token/0x411426f8E735F7940B20491609F08817A805b198) |
 | **OrthomolecularToken (OMT)** | ERC-20 | Tracks “Confirm Meds” educational confirmations for nutrient-based learning modules | Local / Sepolia | 0x5FbDB2315678afecb367f032d93F642f64180aa3 | [Local Demo Details](#-local-demo--hardhat--metamask) |
 | **MindMasteryNFT** | ERC-721 L1–L3 | Represents learner progression through Foundation, Elevation, and Ascension levels | Sepolia | 0xF0E17D991EFC79B734A8fC43f2dEda0022F2F | [View on Etherscan](https://sepolia.etherscan.io/token/0xF0E17D991EFC79B734A8fC43f2dEda0022F2F) |
-| **EncryptHealthToken (EHT)** | ERC-20 | Enables privacy-preserving data consent and analytics integration across EncryptHealth | Sepolia | 0x9F1C5EaD6c8B82E7818A9b0E959C947cFE5288B | [View on Etherscan](https://sepolia.etherscan.io/token/0x9F1C5EaD6c8B82E7818A9b0E959C947cFE5288B) |
+| **EncryptHealthToken (EHT)** | ERC-20 | Enables privacy-preserving data consent and analytics integration across EncryptHealth | Sepolia | 0xbDaeb1d05E02D2751Ad07121510b5f0C436E2CdC | [View on Sepolia Etherscan](https://sepolia.etherscan.io/token/0x9F1C5EaD6c8B82E7818A9b0E959C947cFE5288B)
+
 
 Each token is verified on-chain and functions as part of an educational, non-PHI feedback loop that reinforces nutrient- and behavior-based mental wellness learning.
 
@@ -71,7 +72,8 @@ Together, these tokens form an educational, privacy-first ecosystem where learni
 **Smart Contracts (Sepolia)**
 - [HypnoNeuroToken (HNT)](https://sepolia.etherscan.io/token/0x411426f8E735F7940B20491609F08817A805b198) – Governance and educational reward token  
 - [MindMasteryNFT (L1–L3)](https://sepolia.etherscan.io/token/0xF0E17D991EFC79B734A8fC43f2dEda0022F2F) – Learning progression NFTs  
-- [EncryptHealthToken (EHT)](https://sepolia.etherscan.io/token/0x9F1C5EaD6c8B82E7818A9b0E959C947cFE5288B) – Data-consent and analytics token  
+[EncryptHealthToken (EHT) — View on Sepolia Etherscan](https://sepolia.etherscan.io/token/0xbDaeb1d05E02D2751Ad07121510b5f0C436E2CdC)
+
 
 **Local Development (Hardhat Demo)**
 - [OrthomolecularToken (OMT)](#-local-demo--hardhat--metamask) – Educational token used in the “Confirm Meds” module for discrete, non-PHI engagement events
