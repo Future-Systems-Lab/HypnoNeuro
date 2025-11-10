@@ -11,12 +11,28 @@
 **Network:** Sepolia (Chain ID: 11155111)  
 **Token Name:** HypnoNeuroToken (HNT)
 
-----
 
-## MindMasteryNFT (L1–L3)
-Address: 0xF0E17D991EFC79B734A8fC43f2dEda0022F2F
-Etherscan: https://sepolia.etherscan.io/address/0xF0E17D991EFC79B734A8fC43f2dEda0022F2F
+### 🔗 MindMasteryNFT_L1_L3 — Sepolia Deployment
 
-## EncryptHealthToken (EHT)
-Address: 0x9F1C5EaD6c8B82E7818A9b0E959C947cFE5288B
-Etherscan: https://sepolia.etherscan.io/address/0x9F1C5EaD6c8B82E7818A9b0E959C947cFE5288B
+**Contract Address:**  
+[`0xCb9EcB00574DB29976c7C54045d443666D5C7771`](https://testnet.routescan.io/address/0xCb9EcB00574DB29976c7C54045d443666D5C7771)
+
+**Verifications:**  
+- ✅ [Sourcify Verification](https://repo.sourcify.dev/11155111/0xCb9EcB00574DB29976c7C54045d443666D5C7771/)  
+- ✅ [Routescan Verification](https://testnet.routescan.io/address/0xCb9EcB00574DB29976c7C54045d443666D5C7771/contract/11155111/code)
+
+**Network:** Sepolia (Chain ID: 11155111)  
+**Token Name:** MindMasteryNFT_L1_L3
+
+
+### 🔗 EncryptHealthToken — Sepolia Deployment
+
+**Contract Address:**  
+[`0xYOUR_NEW_ADDRESS`](https://testnet.routescan.io/address/0xYOUR_NEW_ADDRESS)
+
+**Verifications:**  
+- ✅ [Sourcify Verification](https://repo.sourcify.dev/11155111/0xYOUR_NEW_ADDRESS/)  
+- ✅ [Routescan Verification](https://testnet.routescan.io/address/0xYOUR_NEW_ADDRESS/contract/11155111/code)
+
+**Network:** Sepolia (Chain ID: 11155111)  
+**Token Name:** EncryptHealthToken (EHT)
