@@ -1,4 +1,11 @@
-0xA19DAB6022F5B844DE5D83dC110933823181fAD
-Deployed: July 2, 2025
-Token: HypnoNeuroToken (HNT)
-Network: Sepolia Testnet
+### 🔗 HypnoNeuroToken — Sepolia Deployment
+
+**Contract Address:**  
+[`0x411426f8E735F7940B20491609F08817A805b198`](https://testnet.routescan.io/address/0x411426f8E735F7940B20491609F08817A805b198)
+
+**Verifications:**  
+- ✅ [Sourcify Verification](https://repo.sourcify.dev/11155111/0x411426f8E735F7940B20491609F08817A805b198/)  
+- ✅ [Routescan Verification](https://testnet.routescan.io/address/0x411426f8E735F7940B20491609F08817A805b198/contract/11155111/code)
+
+**Network:** Sepolia (Chain ID: 11155111)  
+**Token Name:** HypnoNeuroToken (HNT)
