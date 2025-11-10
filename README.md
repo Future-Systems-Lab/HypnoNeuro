@@ -1,4 +1,11 @@
 // Rights Reserved, Unlicensed
+
+<p align="center">
+  <img src="./assets/hypnoneuro-logo.png" alt="HypnoNeuro" width="1000">
+</p>
+
+
+
 # HypnoNeuro
 
 **HypnoNeuro** is a gamified digital-wellness and neurofeedback platform designed as an *educational tool*, not a clinical system.  
