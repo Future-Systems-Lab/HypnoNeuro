@@ -63,19 +63,18 @@ This folder contains the smart contracts, ABI, and deployment data for the **Hyp
 
 ## 🚀 Deployment Status
 
-
 | Network           | Status    | Contract Address                                         |
 |-------------------|-----------|----------------------------------------------------------|
 | Sepolia Testnet   | ✅ Deployed | `0x9051bb172f9a5a9e8f0f99a17d33ba426a6a0101`             |
-| Ethereum Mainnet  | 🕒 Pending | To be deployed after user testing                       |
+| Ethereum Mainnet  | 🕒 Pending | To be redeployed after user testing                      |
 
 ## 🔗 Deployment
 
-
 | Network           | Status       | Contract Address                             |
 |------------------|--------------|----------------------------------------------|
-| Ethereum Mainnet | ✅ Deployed   | `0x6eab55a23d0bb0d38c79567525382fa98158e927` |
 | Sepolia Testnet  | ✅ Deployed   | `0x1A91DA86202f58A44DE58d3Cc110903382318fAD` |
+| Ethereum Mainnet | 🕒 Pending    | To be redeployed after user testing          |
+
 
 
 ---
