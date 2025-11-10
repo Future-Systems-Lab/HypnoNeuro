@@ -1,14 +1,17 @@
 # 🔐 Testnet Deployment Log
 
-This document summarizes testnet activity for HypnoNeuro tokens.
+### 🔗 HypnoNeuroToken — Sepolia Deployment
 
----
+**Contract Address:**  
+[`0x411426f8E735F7940B20491609F08817A805b198`](https://testnet.routescan.io/address/0x411426f8E735F7940B20491609F08817A805b198)
 
-## ✅ HypnoNeuro Token (HNT)
-- **Network:** Sepolia Testnet  
-- **Contract Address:** Contract Address: 0x9051bb172F9A5a9e8FdF99A17D33BA426a6a0101 
-- **Verified:** ✅  
-- **Test Transfer:** Confirmed receipt in MetaMask (abbreviated display)
+**Verifications:**  
+- ✅ [Sourcify Verification](https://repo.sourcify.dev/11155111/0x411426f8E735F7940B20491609F08817A805b198/)  
+- ✅ [Routescan Verification](https://testnet.routescan.io/address/0x411426f8E735F7940B20491609F08817A805b198/contract/11155111/code)
+
+**Network:** Sepolia (Chain ID: 11155111)  
+**Token Name:** HypnoNeuroToken (HNT)
+
 
 ---
 
