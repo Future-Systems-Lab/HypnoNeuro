@@ -1,8 +1,9 @@
 // Rights Reserved, Unlicensed
 
 <p align="center">
-  <img src="./assets/hypnoneuro-logo.jpeg" alt="HypnoNeuro Banner" width="500">
+  <img src="./assets/hypnoneuro-logo.jpeg" alt="HypnoNeuro Banner" width="450">
 </p>
+
 
 
 
