@@ -106,8 +106,7 @@ Upon public release, the license will be updated to **MIT, GPL, or a commercial 
 - `HNT.sol` — Main token contract  
 - `HNT_ABI.json` — Contract ABI  
 - `HNT_Bytecode.txt` — Compiled bytecode  
-- `HNT_CreationCode.txt` — Full constructor bytecode  
-- `contract_address_mainnet.txt` — Verified address  
+- `HNT_CreationCode.txt` — Full constructor bytecode   
 - `contract_address_sepolia.txt` — Testnet address  
 - `HNT_logo.png` — 256x256 token icon
 
